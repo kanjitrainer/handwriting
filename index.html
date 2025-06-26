@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Japanese Vocab Recall</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Klee+One&family=Yomogi&display=swap" rel="stylesheet">
+
+  <script>
+    
+document.fonts.ready.then(() => {
+  document.querySelectorAll('.japanese').forEach(el => el.style.visibility = 'visible');
+});
+</script>
+  <style>
+    body {
+      visibility: visible;
+      background: url('https://images.steamusercontent.com/ugc/34443848842616683/C5AB6C954DB33D46E8FCE6A75722C18290137783/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false') no-repeat center center fixed;
+      background-size: cover;
+      font-family: sans-serif;
+      text-align: center;
+      margin-top: 20vh;
+    }
+    #prompt {
+      font-size: 48px;
+      font-family: 'Klee One', sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      opacity: 1;
+      color: white;
+      text-shadow: 1px 1px 2px black;
+    }
+    #reveal {
+      font-size: 96px;
+      font-family: 'Yomogi', sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      opacity: 0;
+      transition: opacity 0.5s ease-in-out;
+      color: white;
+      text-shadow: 2px 2px 4px black;
+      visibility: hidden;
+    }
+    html {
+      font-display: swap;
+    }
+    .level-btn {
+      font-size: 0.84em;
+      width: 25px;
+      height: 34px;
+      font-family: 'Klee One', sans-serif;
+      font-weight: bold;
+      cursor: pointer;
+      border-radius: 6px;
+      border: 2px solid #ccc;
+      background: #ffffff;
+      opacity: 0.85;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.3), inset 0 0 0 4px white;
+      color: #222;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-shadow: 0 0 2px white;
+      transition: transform 0.1s ease, filter 0.2s ease;
+    }
+    .level-btn:active {
+      transform: scale(0.95);
+    }
+    .level-btn:hover {
+      transform: scale(1.15);
+      z-index: 2;
+      filter: brightness(80%);
+    }
+    .all-btn {
+      background: #ffffff;
+      color: #3a2e00;
+      width: 42px;
+      height: 56px;
+      font-size: 1.4em;
+      box-shadow: 0 0 8px 3px rgba(255, 215, 0, 0.5);
+    }
+  </style>
+  <link rel="preload" href="https://fonts.gstatic.com/s/yomogi/v14/0nknC9ziJOYew3ZrLPs.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="https://fonts.gstatic.com/s/kleeone/v17/8QIQdiHOgt3vv4LR6Mw.woff2" as="font" type="font/woff2" crossorigin>
+  
+  <script>
+    document.fonts.ready.then(() => {
+      const reveal = document.getElementById('reveal');
+      if (reveal) reveal.style.visibility = 'visible';
+    });
+  </script>
+</head>
+<body>
+  <div style="position: absolute; top: 0.5em; left: 0.5em; display: flex; gap: 0.3em; justify-content: flex-start;">
+    <button id="lv1-btn" class="level-btn">一</button>
+    <button id="lv2-btn" class="level-btn">二</button>
+    <button id="lv3-btn" class="level-btn">三</button>
+    <button id="lv4-btn" class="level-btn">四</button>
+    <button id="lv5-btn" class="level-btn">五</button>
+    <button id="lv6-btn" class="level-btn">六</button>
+    <button id="lv7-btn" class="level-btn">七</button>
+    <button id="lv8-btn" class="level-btn">八</button>
+    <button id="lv9-btn" class="level-btn">九</button>
+    <button id="lv10-btn" class="level-btn">十</button>
+    <button id="lv11-btn" class="level-btn" style="letter-spacing: -2px; font-size: 0.5em;">十一</button>
+    </div>
+    <div style="
+  position: absolute;
+  top: 2.3em; /* adjust as needed to sit below the buttons */
+  left: 0.5em;
+  font-size: 1.3em;
+  color: rgba(255,255,255,0.7);
+  font-family: 'Klee One', sans-serif;
+  text-align: left;
+  text-shadow: 1px 1px 2px black;
+  line-height: 1.2;
+">
+  WaniKani levels<br>
+  Sorted <b>alphabetically</b>
+</div>
+<div style="
+  position: absolute;
+  top: 0.5em;
+  right: 3.5em; /* adjust as needed to sit to the left of the button */
+  font-size: 1.3em;
+  color: rgba(255,255,255,0.7);
+  font-family: 'Klee One', sans-serif;
+  text-align: right;
+  text-shadow: 1px 1px 2px black;
+  line-height: 1.2;
+">
+  <b>RANDOM</b><br>
+  Good luck!
+</div>
+  <div style="position: absolute; top: 0.5em; right: 0.5em;">
+    <button id="all-btn" class="level-btn all-btn">全</button>
+  </div>
+  </div>
+  <div id="main-title" style="
+  font-family: 'Klee One', sans-serif;
+  font-size: 1.5em;
+  color: white;
+  text-shadow: 2px 2px 6px black;
+  margin-bottom: 1.6em;
+  margin-top: -2em;
+  letter-spacing: 0.02em;
+">
+  WaniKani Vocabulary Handwriting Recall Trainer
+</div>
+  <div id="prompt">Press space to begin</div>
+  <div id="reveal"></div>
+  <div id="furigana" style="font-size: 32px; color: white; text-shadow: 1px 1px 2px black; font-family: 'Yomogi', sans-serif; margin-top: 0.5em;"></div>
+  <div style="position: fixed; bottom: 0.5em; left: 0.5em; font-size: 1.3em; color: rgba(255,255,255,0.7); font-family: 'Klee One', sans-serif; text-align: left; text-shadow: 1px 1px 2px black;">
+    <b>SPACE</b> to reveal words<br>
+    <br>
+    <b>→</b> if recalled 🥳<br>
+    <b>←</b> if struggling 😟<br>
+    <b>DEL</b> to reset counters<br>
+    <br>
+    <b>ENTER</b> to show strokes<br>
+    <b>F</b> to show furigana<br>
+    <br>
+    <span style="opacity: 0.2;"><b>REST</b> to not go crazy</span>
+  </div>
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      let recalledCount = Number(localStorage.getItem('recalledCount')) || 0;
+      let struggledCount = Number(localStorage.getItem('struggledCount')) || 0;
+      updateTracker();
+      let fullVocabList = [];
+      let vocabList = [];
+      let currentLevel = 'all';
+      let showingAnswer = false;
+      let currentIndex = -1;
+      let showFurigana = false;
+      
+
+      function updateTracker() {
+        document.getElementById('recalled-count').textContent = recalledCount;
+        document.getElementById('struggled-count').textContent = struggledCount;
+          localStorage.setItem('recalledCount', recalledCount);
+          localStorage.setItem('struggledCount', struggledCount);
+      } 
+
+      function fadeIn(element) {
+        element.style.opacity = 0;
+        requestAnimationFrame(() => {
+          element.style.opacity = 1;
+        });
+      }
+
+      function getRandomIndex() {
+        let newIndex;
+        do {
+          newIndex = Math.floor(Math.random() * vocabList.length);
+        } while (newIndex === currentIndex);
+        currentIndex = newIndex;
+        return newIndex;
+      }
+
+      function showNext() {
+        document.getElementById('stroke-animation').innerHTML = '';
+	showFurigana = false;
+        if (!vocabList.length) return;
+        let index;
+        if (currentLevel === 'all') {
+          index = getRandomIndex();
+        } else {
+          index = (currentIndex + 1) % vocabList.length;
+          currentIndex = index;
+        }
+        const prompt = document.getElementById("prompt");
+        const reveal = document.getElementById("reveal");
+        const furigana = document.getElementById("furigana");
+        prompt.textContent = vocabList[index].en;
+        reveal.textContent = "";
+        furigana.textContent = "";
+        fadeIn(prompt);
+        reveal.style.opacity = 0;
+        showingAnswer = true;
+      }
+
+      function showAnswer() {
+        if (!vocabList.length) return;
+        const word = vocabList[currentIndex];
+        const reveal = document.getElementById("reveal");
+        const furigana = document.getElementById("furigana");
+        reveal.textContent = word.jp;
+        furigana.textContent = showFurigana ? word.kana : "";
+        fadeIn(reveal);
+        fadeIn(furigana);
+        showingAnswer = false;
+      }
+
+      function setLevel(level) {
+        currentLevel = level;
+        const levelMap = ["lv1","lv2","lv3","lv4","lv5","lv6","lv7","lv8","lv9","lv10","lv11"];
+        if (levelMap.includes(level)) {
+          vocabList = fullVocabList.filter(v => v.level === level);
+        } else {
+          vocabList = [...fullVocabList];
+          vocabList.sort(() => Math.random() - 0.5);
+        }
+        currentIndex = -1;
+        showNext();
+      }
+
+      fetch("vocab.json")
+        .then(res => res.json())
+        .then(data => {
+          fullVocabList = data;
+          vocabList = [...fullVocabList];
+          showNext();
+        });
+
+      document.getElementById("lv1-btn").addEventListener("click", () => setLevel('lv1'));
+      document.getElementById("lv2-btn").addEventListener("click", () => setLevel('lv2'));
+      document.getElementById("lv3-btn").addEventListener("click", () => setLevel('lv3'));
+      document.getElementById("lv4-btn").addEventListener("click", () => setLevel('lv4'));
+      document.getElementById("lv5-btn").addEventListener("click", () => setLevel('lv5'));
+      document.getElementById("lv6-btn").addEventListener("click", () => setLevel('lv6'));
+      document.getElementById("lv7-btn").addEventListener("click", () => setLevel('lv7'));
+      document.getElementById("lv8-btn").addEventListener("click", () => setLevel('lv8'));
+      document.getElementById("lv9-btn").addEventListener("click", () => setLevel('lv9'));
+      document.getElementById("lv10-btn").addEventListener("click", () => setLevel('lv10'));
+      document.getElementById("lv11-btn").addEventListener("click", () => setLevel('lv11'));
+      document.getElementById("all-btn").addEventListener("click", () => setLevel('all'));
+
+      document.addEventListener("keydown", function(e) {
+         if (e.code === "Enter") {
+    e.preventDefault(); // Add this line!
+    // Show animation for the current word's kanji
+    const word = vocabList[currentIndex].jp;
+    showKanjiAnimation(word);
+}
+        if (e.code === "ArrowLeft") {
+      struggledCount++;
+      updateTracker();
+      showNext();
+    } else if (e.code === "ArrowRight") {
+      recalledCount++;
+      updateTracker();
+      showNext();
+    } else if (e.code === "Delete" || e.code === "Delete") {
+      recalledCount = 0;
+      struggledCount = 0;
+      updateTracker();
+  localStorage.removeItem('recalledCount');
+  localStorage.removeItem('struggledCount');
+    }
+        if (e.code === "Space") {
+          e.preventDefault();
+          if (showingAnswer) {
+            showAnswer();
+          } else {
+            showNext();
+          }
+        } else if (e.code === "KeyF") {
+          showFurigana = !showFurigana;
+          if (showingAnswer) {
+            const furiganaEl = document.getElementById("furigana");
+            const wordObj = vocabList[currentIndex];
+            furiganaEl.textContent = wordObj.kana;
+            fadeIn(furiganaEl);
+          } else {
+            showAnswer();
+          }
+        }
+      });
+    });
+  </script>
+<div id="tracker" style="
+  position: fixed;
+  right: 1em;
+  bottom: 1em;
+  background: rgba(0,0,0,0.5); /* half-transparent black */
+  padding: 0.5em 1em;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+  font-family: 'Klee One', sans-serif;
+  font-size: 1.5em;
+  color: white;
+  z-index: 1000;
+">
+  <div>Recalled: <span id="recalled-count">0</span></div>
+  <div>Struggled: <span id="struggled-count">0</span></div>
+</div>
+<div id="stroke-animation" style="
+  position:fixed;
+  left:22em;
+  top:50%;
+  transform:translateY(-50%);
+  width:120px;  /* adjust as needed */
+  height:400px; /* adjust as needed */
+  z-index:1000;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0.5em; /* space between kanji */
+"></div>
+
+  <script>
+function showKanjiAnimation(word) {
+  const animDiv = document.getElementById('stroke-animation');
+  animDiv.innerHTML = ''; // Clear previous
+
+  function isKanji(char) {
+    const code = char.codePointAt(0);
+    return (code >= 0x4E00 && code <= 0x9FFF);
+  }
+
+  const kanjiChars = Array.from(word).filter(isKanji);
+
+  function animateKanjiAtIndex(idx) {
+    if (idx >= kanjiChars.length) return;
+
+    const kanji = kanjiChars[idx];
+    const code = kanji.codePointAt(0).toString(16).padStart(5, '0');
+    const svgPath = `kanji/${code}.svg`;
+
+    fetch(svgPath)
+  .then(res => res.text())
+  .then(svgText => {
+    // Remove XML declaration and DOCTYPE
+    svgText = svgText.replace(/<\?xml[\s\S]*?\?>/g, '');
+    svgText = svgText.replace(/<!DOCTYPE[\s\S]*?>/g, '');
+    svgText = svgText.replace(/]>[\s\S]*?<svg/, '<svg'); // Remove any stray ]> before <svg
+
+    const kanjiContainer = document.createElement('div');
+    kanjiContainer.style.display = 'block';
+    kanjiContainer.style.width = '90px';
+    kanjiContainer.style.height = '90px';
+    kanjiContainer.style.margin = '0 auto';
+    kanjiContainer.style.verticalAlign = 'top';
+    kanjiContainer.innerHTML = svgText;
+    animDiv.appendChild(kanjiContainer);
+
+    const svg = kanjiContainer.querySelector('svg');
+    svg.setAttribute('width', '90');
+    svg.setAttribute('height', '90');
+    svg.querySelectorAll('text').forEach(el => el.style.display = 'none');
+    svg.style.filter = 'drop-shadow(0 0 10px black)';
+
+    animateStrokes(svg, () => animateKanjiAtIndex(idx + 1));
+  });
+  }
+
+  animateKanjiAtIndex(0);
+}
+const strokeSpeed = 130; // pixels per second (adjust to taste)
+const betweenKanjiPause = 0; // ms pause between kanji
+
+function animateStrokes(svg, onComplete) {
+  const strokes = Array.from(svg.querySelectorAll('path'));
+  let i = 0;
+
+  strokes.forEach(path => {
+    const length = path.getTotalLength();
+    path.style.stroke = '#fff';
+    path.style.strokeWidth = '5';
+    path.style.fill = 'none';
+    path.style.strokeLinejoin = 'round';
+    path.style.strokeLinecap = 'round';
+    path.style.strokeDasharray = length;
+    path.style.strokeDashoffset = length;
+    path.style.transition = 'none';
+  });
+
+  function animateNextStroke() {
+    if (i >= strokes.length) {
+      setTimeout(() => {
+        if (onComplete) onComplete();
+      }, betweenKanjiPause);
+      return;
+    }
+    const path = strokes[i];
+    const length = path.getTotalLength();
+    const duration = length / strokeSpeed; // seconds
+
+    path.style.transition = 'none';
+    path.style.strokeDashoffset = length;
+    void path.offsetWidth;
+    path.style.transition = `stroke-dashoffset ${duration}s linear`;
+    path.style.strokeDashoffset = '0';
+
+    i++;
+    setTimeout(animateNextStroke, duration * 1200);
+  }
+
+  animateNextStroke();
+}
+</script>
+</body>
+</html>

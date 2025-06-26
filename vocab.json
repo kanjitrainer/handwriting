@@ -1,0 +1,7490 @@
+[
+  {
+    "jp": "上",
+    "kana": "うえ",
+    "en": "Above",
+    "level": "lv1"
+  },
+  {
+    "jp": "大人",
+    "kana": "おとな",
+    "en": "Adult",
+    "level": "lv1"
+  },
+  {
+    "jp": "一人",
+    "kana": "ひとり",
+    "en": "Alone",
+    "level": "lv1"
+  },
+  {
+    "jp": "人工",
+    "kana": "じんこう",
+    "en": "Artificial",
+    "level": "lv1"
+  },
+  {
+    "jp": "下",
+    "kana": "した",
+    "en": "Below",
+    "level": "lv1"
+  },
+  {
+    "jp": "大きい",
+    "kana": "おおきい",
+    "en": "Big",
+    "level": "lv1"
+  },
+  {
+    "jp": "八",
+    "kana": "はち",
+    "en": "Eight",
+    "level": "lv1"
+  },
+  {
+    "jp": "八つ",
+    "kana": "やっつ",
+    "en": "Eight Things",
+    "level": "lv1"
+  },
+  {
+    "jp": "入り口",
+    "kana": "いりぐち",
+    "en": "Entrance",
+    "level": "lv1"
+  },
+  {
+    "jp": "大した",
+    "kana": "たいした",
+    "en": "Great",
+    "level": "lv1"
+  },
+  {
+    "jp": "山",
+    "kana": "やま",
+    "en": "Mountain",
+    "level": "lv1"
+  },
+  {
+    "jp": "口",
+    "kana": "くち",
+    "en": "Mouth",
+    "level": "lv1"
+  },
+  {
+    "jp": "ふじ山",
+    "kana": "ふじさん",
+    "en": "Mt Fuji",
+    "level": "lv1"
+  },
+  {
+    "jp": "九",
+    "kana": "きゅう",
+    "en": "Nine",
+    "level": "lv1"
+  },
+  {
+    "jp": "九つ",
+    "kana": "ここのつ",
+    "en": "Nine Things",
+    "level": "lv1"
+  },
+  {
+    "jp": "一",
+    "kana": "いち",
+    "en": "One",
+    "level": "lv1"
+  },
+  {
+    "jp": "一つ",
+    "kana": "ひとつ",
+    "en": "One Thing",
+    "level": "lv1"
+  },
+  {
+    "jp": "人",
+    "kana": "ひと",
+    "en": "Person",
+    "level": "lv1"
+  },
+  {
+    "jp": "下さい",
+    "kana": "ください",
+    "en": "Please Give Me",
+    "level": "lv1"
+  },
+  {
+    "jp": "人口",
+    "kana": "じんこう",
+    "en": "Population",
+    "level": "lv1"
+  },
+  {
+    "jp": "力",
+    "kana": "ちから",
+    "en": "Power",
+    "level": "lv1"
+  },
+  {
+    "jp": "川",
+    "kana": "かわ",
+    "en": "River",
+    "level": "lv1"
+  },
+  {
+    "jp": "七",
+    "kana": "なな",
+    "en": "Seven",
+    "level": "lv1"
+  },
+  {
+    "jp": "七つ",
+    "kana": "ななつ",
+    "en": "Seven Things",
+    "level": "lv1"
+  },
+  {
+    "jp": "大きさ",
+    "kana": "おおきさ",
+    "en": "Size",
+    "level": "lv1"
+  },
+  {
+    "jp": "十",
+    "kana": "じゅう",
+    "en": "Ten",
+    "level": "lv1"
+  },
+  {
+    "jp": "三",
+    "kana": "さん",
+    "en": "Three",
+    "level": "lv1"
+  },
+  {
+    "jp": "三人",
+    "kana": "さんにん",
+    "en": "Three People",
+    "level": "lv1"
+  },
+  {
+    "jp": "三つ",
+    "kana": "みっつ",
+    "en": "Three Things",
+    "level": "lv1"
+  },
+  {
+    "jp": "入る",
+    "kana": "はいる",
+    "en": "To Enter",
+    "level": "lv1"
+  },
+  {
+    "jp": "上げる",
+    "kana": "あげる",
+    "en": "To Lift Something",
+    "level": "lv1"
+  },
+  {
+    "jp": "下げる",
+    "kana": "さげる",
+    "en": "To Lower Something",
+    "level": "lv1"
+  },
+  {
+    "jp": "二",
+    "kana": "に",
+    "en": "Two",
+    "level": "lv1"
+  },
+  {
+    "jp": "二人",
+    "kana": "ふたり",
+    "en": "Two People",
+    "level": "lv1"
+  },
+  {
+    "jp": "二つ",
+    "kana": "ふたつ",
+    "en": "Two Things",
+    "level": "lv1"
+  },
+  {
+    "jp": "力いっぱい",
+    "kana": "ちからいっぱい",
+    "en": "With All One's Strength",
+    "level": "lv1"
+  },
+  {
+    "jp": "女",
+    "kana": "おんな",
+    "en": "Woman",
+    "level": "lv1"
+  },
+  {
+    "jp": "四月",
+    "kana": "しがつ",
+    "en": "April",
+    "level": "lv2"
+  },
+  {
+    "jp": "玉",
+    "kana": "たま",
+    "en": "Ball",
+    "level": "lv2"
+  },
+  {
+    "jp": "本",
+    "kana": "ほん",
+    "en": "Book",
+    "level": "lv2"
+  },
+  {
+    "jp": "子",
+    "kana": "こ",
+    "en": "Child",
+    "level": "lv2"
+  },
+  {
+    "jp": "丸",
+    "kana": "まる",
+    "en": "Circle",
+    "level": "lv2"
+  },
+  {
+    "jp": "丸い",
+    "kana": "まるい",
+    "en": "Circular",
+    "level": "lv2"
+  },
+  {
+    "jp": "正しい",
+    "kana": "ただしい",
+    "en": "Correct",
+    "level": "lv2"
+  },
+  {
+    "jp": "土",
+    "kana": "つち",
+    "en": "Dirt",
+    "level": "lv2"
+  },
+  {
+    "jp": "犬",
+    "kana": "いぬ",
+    "en": "Dog",
+    "level": "lv2"
+  },
+  {
+    "jp": "八日",
+    "kana": "ようか",
+    "en": "Eighth Day",
+    "level": "lv2"
+  },
+  {
+    "jp": "出口",
+    "kana": "でぐち",
+    "en": "Exit",
+    "level": "lv2"
+  },
+  {
+    "jp": "目",
+    "kana": "め",
+    "en": "Eye",
+    "level": "lv2"
+  },
+  {
+    "jp": "目玉",
+    "kana": "めだま",
+    "en": "Eyeball",
+    "level": "lv2"
+  },
+  {
+    "jp": "二月",
+    "kana": "にがつ",
+    "en": "February",
+    "level": "lv2"
+  },
+  {
+    "jp": "五日",
+    "kana": "いつか",
+    "en": "Fifth Day",
+    "level": "lv2"
+  },
+  {
+    "jp": "五十",
+    "kana": "ごじゅう",
+    "en": "Fifty",
+    "level": "lv2"
+  },
+  {
+    "jp": "火",
+    "kana": "ひ",
+    "en": "Fire",
+    "level": "lv2"
+  },
+  {
+    "jp": "五",
+    "kana": "ご",
+    "en": "Five",
+    "level": "lv2"
+  },
+  {
+    "jp": "五つ",
+    "kana": "いつつ",
+    "en": "Five Things",
+    "level": "lv2"
+  },
+  {
+    "jp": "四",
+    "kana": "よん",
+    "en": "Four",
+    "level": "lv2"
+  },
+  {
+    "jp": "天才",
+    "kana": "てんさい",
+    "en": "Genius",
+    "level": "lv2"
+  },
+  {
+    "jp": "女子",
+    "kana": "じょし",
+    "en": "Girl",
+    "level": "lv2"
+  },
+  {
+    "jp": "女の子",
+    "kana": "おんなのこ",
+    "en": "Girl",
+    "level": "lv2"
+  },
+  {
+    "jp": "上手",
+    "kana": "じょうず",
+    "en": "Good At",
+    "level": "lv2"
+  },
+  {
+    "jp": "おはよう",
+    "kana": "おはよう",
+    "en": "Good Morning",
+    "level": "lv2"
+  },
+  {
+    "jp": "手",
+    "kana": "て",
+    "en": "Hand",
+    "level": "lv2"
+  },
+  {
+    "jp": "天",
+    "kana": "てん",
+    "en": "Heaven",
+    "level": "lv2"
+  },
+  {
+    "jp": "ホテル",
+    "kana": "ホテル",
+    "en": "Hotel",
+    "level": "lv2"
+  },
+  {
+    "jp": "入力",
+    "kana": "にゅうりょく",
+    "en": "Input",
+    "level": "lv2"
+  },
+  {
+    "jp": "中",
+    "kana": "なか",
+    "en": "Inside",
+    "level": "lv2"
+  },
+  {
+    "jp": "一月",
+    "kana": "いちがつ",
+    "en": "January",
+    "level": "lv2"
+  },
+  {
+    "jp": "日本",
+    "kana": "にほん",
+    "en": "Japan",
+    "level": "lv2"
+  },
+  {
+    "jp": "六月",
+    "kana": "ろくがつ",
+    "en": "June",
+    "level": "lv2"
+  },
+  {
+    "jp": "王",
+    "kana": "おう",
+    "en": "King",
+    "level": "lv2"
+  },
+  {
+    "jp": "夕べ",
+    "kana": "ゆうべ",
+    "en": "Last Night",
+    "level": "lv2"
+  },
+  {
+    "jp": "左右",
+    "kana": "さゆう",
+    "en": "Left And Right",
+    "level": "lv2"
+  },
+  {
+    "jp": "左",
+    "kana": "ひだり",
+    "en": "Left Direction",
+    "level": "lv2"
+  },
+  {
+    "jp": "五月",
+    "kana": "ごがつ",
+    "en": "May",
+    "level": "lv2"
+  },
+  {
+    "jp": "月",
+    "kana": "つき",
+    "en": "Moon",
+    "level": "lv2"
+  },
+  {
+    "jp": "九日",
+    "kana": "ここのか",
+    "en": "Ninth Day",
+    "level": "lv2"
+  },
+  {
+    "jp": "十月",
+    "kana": "じゅうがつ",
+    "en": "October",
+    "level": "lv2"
+  },
+  {
+    "jp": "一日",
+    "kana": "いちにち",
+    "en": "One Day",
+    "level": "lv2"
+  },
+  {
+    "jp": "一千",
+    "kana": "いっせん",
+    "en": "One Thousand",
+    "level": "lv2"
+  },
+  {
+    "jp": "千円",
+    "kana": "せんえん",
+    "en": "One Thousand Yen",
+    "level": "lv2"
+  },
+  {
+    "jp": "玉ねぎ",
+    "kana": "たまねぎ",
+    "en": "Onion",
+    "level": "lv2"
+  },
+  {
+    "jp": "人々",
+    "kana": "ひとびと",
+    "en": "People",
+    "level": "lv2"
+  },
+  {
+    "jp": "王子",
+    "kana": "おうじ",
+    "en": "Prince",
+    "level": "lv2"
+  },
+  {
+    "jp": "王女",
+    "kana": "おうじょ",
+    "en": "Princess",
+    "level": "lv2"
+  },
+  {
+    "jp": "子犬",
+    "kana": "こいぬ",
+    "en": "Puppy",
+    "level": "lv2"
+  },
+  {
+    "jp": "女王",
+    "kana": "じょおう",
+    "en": "Queen",
+    "level": "lv2"
+  },
+  {
+    "jp": "中々",
+    "kana": "なかなか",
+    "en": "Rather",
+    "level": "lv2"
+  },
+  {
+    "jp": "田",
+    "kana": "た",
+    "en": "Rice Paddy",
+    "level": "lv2"
+  },
+  {
+    "jp": "田んぼ",
+    "kana": "たんぼ",
+    "en": "Rice Paddy",
+    "level": "lv2"
+  },
+  {
+    "jp": "右",
+    "kana": "みぎ",
+    "en": "Right Direction",
+    "level": "lv2"
+  },
+  {
+    "jp": "二日",
+    "kana": "ふつか",
+    "en": "Second Day",
+    "level": "lv2"
+  },
+  {
+    "jp": "七日",
+    "kana": "なのか",
+    "en": "Seventh Day",
+    "level": "lv2"
+  },
+  {
+    "jp": "六",
+    "kana": "ろく",
+    "en": "Six",
+    "level": "lv2"
+  },
+  {
+    "jp": "十六",
+    "kana": "じゅうろく",
+    "en": "Sixteen",
+    "level": "lv2"
+  },
+  {
+    "jp": "六日",
+    "kana": "むいか",
+    "en": "Sixth Day",
+    "level": "lv2"
+  },
+  {
+    "jp": "六つ",
+    "kana": "むっつ",
+    "en": "Six Things",
+    "level": "lv2"
+  },
+  {
+    "jp": "小さい",
+    "kana": "ちいさい",
+    "en": "Small",
+    "level": "lv2"
+  },
+  {
+    "jp": "日",
+    "kana": "ひ",
+    "en": "Sun",
+    "level": "lv2"
+  },
+  {
+    "jp": "刀",
+    "kana": "かたな",
+    "en": "Sword",
+    "level": "lv2"
+  },
+  {
+    "jp": "十日",
+    "kana": "とおか",
+    "en": "Tenth Day",
+    "level": "lv2"
+  },
+  {
+    "jp": "三日",
+    "kana": "みっか",
+    "en": "Third Day",
+    "level": "lv2"
+  },
+  {
+    "jp": "千",
+    "kana": "せん",
+    "en": "Thousand",
+    "level": "lv2"
+  },
+  {
+    "jp": "上る",
+    "kana": "のぼる",
+    "en": "To Climb",
+    "level": "lv2"
+  },
+  {
+    "jp": "正す",
+    "kana": "ただす",
+    "en": "To Correct",
+    "level": "lv2"
+  },
+  {
+    "jp": "出る",
+    "kana": "でる",
+    "en": "To Exit",
+    "level": "lv2"
+  },
+  {
+    "jp": "立つ",
+    "kana": "たつ",
+    "en": "To Stand",
+    "level": "lv2"
+  },
+  {
+    "jp": "木",
+    "kana": "き",
+    "en": "Tree",
+    "level": "lv2"
+  },
+  {
+    "jp": "水中",
+    "kana": "すいちゅう",
+    "en": "Underwater",
+    "level": "lv2"
+  },
+  {
+    "jp": "下手",
+    "kana": "へた",
+    "en": "Unskillful",
+    "level": "lv2"
+  },
+  {
+    "jp": "火山",
+    "kana": "かざん",
+    "en": "Volcano",
+    "level": "lv2"
+  },
+  {
+    "jp": "水",
+    "kana": "みず",
+    "en": "Water",
+    "level": "lv2"
+  },
+  {
+    "jp": "白",
+    "kana": "しろ",
+    "en": "White",
+    "level": "lv2"
+  },
+  {
+    "jp": "白人",
+    "kana": "はくじん",
+    "en": "White Person",
+    "level": "lv2"
+  },
+  {
+    "jp": "文",
+    "kana": "ぶん",
+    "en": "Writing",
+    "level": "lv2"
+  },
+  {
+    "jp": "〜才",
+    "kana": "さい",
+    "en": "Years Old",
+    "level": "lv2"
+  },
+  {
+    "jp": "〜円",
+    "kana": "えん",
+    "en": "Yen",
+    "level": "lv2"
+  },
+  {
+    "en": "A Little",
+    "jp": "少し",
+    "kana": "すこし",
+    "level": "lv3"
+  },
+  {
+    "en": "American Person",
+    "jp": "アメリカ人",
+    "kana": "あめりかじん",
+    "level": "lv3"
+  },
+  {
+    "en": "Apple",
+    "jp": "リンゴ",
+    "kana": "リンゴ",
+    "level": "lv3"
+  },
+  {
+    "en": "Arrow",
+    "jp": "矢",
+    "kana": "や",
+    "level": "lv3"
+  },
+  {
+    "en": "Big Machine Counter",
+    "jp": "〜台",
+    "kana": "だい",
+    "level": "lv3"
+  },
+  {
+    "en": "Bold Letter",
+    "jp": "太字",
+    "kana": "ふとじ",
+    "level": "lv3"
+  },
+  {
+    "en": "British Person",
+    "jp": "イギリス人",
+    "kana": "いぎりすじん",
+    "level": "lv3"
+  },
+  {
+    "en": "Character",
+    "jp": "字",
+    "kana": "じ",
+    "level": "lv3"
+  },
+  {
+    "en": "City",
+    "jp": "市",
+    "kana": "し",
+    "level": "lv3"
+  },
+  {
+    "en": "Coffee",
+    "jp": "コーヒー",
+    "kana": "コーヒー",
+    "level": "lv3"
+  },
+  {
+    "en": "Cow",
+    "jp": "牛",
+    "kana": "うし",
+    "level": "lv3"
+  },
+  {
+    "en": "Direction",
+    "jp": "方",
+    "kana": "ほう",
+    "level": "lv3"
+  },
+  {
+    "en": "Doorway",
+    "jp": "戸口",
+    "kana": "とぐち",
+    "level": "lv3"
+  },
+  {
+    "en": "Draft Beer",
+    "jp": "生ビール",
+    "kana": "なまびーる",
+    "level": "lv3"
+  },
+  {
+    "en": "Echo",
+    "jp": "山びこ",
+    "kana": "やまびこ",
+    "level": "lv3"
+  },
+  {
+    "en": "Fat",
+    "jp": "太い",
+    "kana": "ふとい",
+    "level": "lv3"
+  },
+  {
+    "en": "Father",
+    "jp": "お父さん",
+    "kana": "おとうさん",
+    "level": "lv3"
+  },
+  {
+    "en": "Father",
+    "jp": "父",
+    "kana": "ちち",
+    "level": "lv3"
+  },
+  {
+    "en": "Few",
+    "jp": "少ない",
+    "kana": "すくない",
+    "level": "lv3"
+  },
+  {
+    "en": "Five Machines",
+    "jp": "五台",
+    "kana": "ごだい",
+    "level": "lv3"
+  },
+  {
+    "en": "Foreigner",
+    "jp": "外人",
+    "kana": "がいじん",
+    "level": "lv3"
+  },
+  {
+    "en": "French Person",
+    "jp": "フランス人",
+    "kana": "ふらんすじん",
+    "level": "lv3"
+  },
+  {
+    "en": "Fresh",
+    "jp": "生",
+    "kana": "なま",
+    "level": "lv3"
+  },
+  {
+    "en": "Friend",
+    "jp": "友人",
+    "kana": "ゆうじん",
+    "level": "lv3"
+  },
+  {
+    "en": "Fur",
+    "jp": "毛",
+    "kana": "け",
+    "level": "lv3"
+  },
+  {
+    "en": "Girl",
+    "jp": "少女",
+    "kana": "しょうじょ",
+    "level": "lv3"
+  },
+  {
+    "en": "Half",
+    "jp": "半",
+    "kana": "はん",
+    "level": "lv3"
+  },
+  {
+    "en": "Half",
+    "jp": "半分",
+    "kana": "はんぶん",
+    "level": "lv3"
+  },
+  {
+    "en": "Heart",
+    "jp": "心",
+    "kana": "こころ",
+    "level": "lv3"
+  },
+  {
+    "en": "Hello",
+    "jp": "こんにちは",
+    "kana": "こんにちは",
+    "level": "lv3"
+  },
+  {
+    "en": "Important",
+    "jp": "大切",
+    "kana": "たいせつ",
+    "level": "lv3"
+  },
+  {
+    "en": "Inside",
+    "jp": "内",
+    "kana": "うち",
+    "level": "lv3"
+  },
+  {
+    "en": "Japanese Style Door",
+    "jp": "戸",
+    "kana": "と",
+    "level": "lv3"
+  },
+  {
+    "en": "Marble",
+    "jp": "ビー玉",
+    "kana": "びーだま",
+    "level": "lv3"
+  },
+  {
+    "en": "Mother",
+    "jp": "母",
+    "kana": "はは",
+    "level": "lv3"
+  },
+  {
+    "en": "Mother",
+    "jp": "お母さん",
+    "kana": "おかあさん",
+    "level": "lv3"
+  },
+  {
+    "en": "Municipal",
+    "jp": "市立",
+    "kana": "しりつ",
+    "level": "lv3"
+  },
+  {
+    "en": "North",
+    "jp": "北",
+    "kana": "きた",
+    "level": "lv3"
+  },
+  {
+    "en": "North Exit",
+    "jp": "北口",
+    "kana": "きたぐち",
+    "level": "lv3"
+  },
+  {
+    "en": "Now",
+    "jp": "今",
+    "kana": "いま",
+    "level": "lv3"
+  },
+  {
+    "en": "Number Of People",
+    "jp": "〜人",
+    "kana": "にん",
+    "level": "lv3"
+  },
+  {
+    "en": "Obedient",
+    "jp": "大人しい",
+    "kana": "おとなしい",
+    "level": "lv3"
+  },
+  {
+    "en": "Old",
+    "jp": "古い",
+    "kana": "ふるい",
+    "level": "lv3"
+  },
+  {
+    "en": "One Hundred Thousand",
+    "jp": "十万",
+    "kana": "じゅうまん",
+    "level": "lv3"
+  },
+  {
+    "en": "One Machine",
+    "jp": "一台",
+    "kana": "いちだい",
+    "level": "lv3"
+  },
+  {
+    "en": "One's Life",
+    "jp": "人生",
+    "kana": "じんせい",
+    "level": "lv3"
+  },
+  {
+    "en": "On The Table",
+    "jp": "テーブルの上",
+    "kana": "てーぶるのうえ",
+    "level": "lv3"
+  },
+  {
+    "en": "Outside",
+    "jp": "外",
+    "kana": "そと",
+    "level": "lv3"
+  },
+  {
+    "en": "Part",
+    "jp": "分",
+    "kana": "ぶん",
+    "level": "lv3"
+  },
+  {
+    "en": "Seattle",
+    "jp": "シアトル市",
+    "kana": "しあとるし",
+    "level": "lv3"
+  },
+  {
+    "en": "Secondhand",
+    "jp": "中古",
+    "kana": "ちゅうこ",
+    "level": "lv3"
+  },
+  {
+    "en": "Sunrise",
+    "jp": "日の出",
+    "kana": "ひので",
+    "level": "lv3"
+  },
+  {
+    "en": "Suspension",
+    "jp": "中止",
+    "kana": "ちゅうし",
+    "level": "lv3"
+  },
+  {
+    "en": "Task",
+    "jp": "用",
+    "kana": "よう",
+    "level": "lv3"
+  },
+  {
+    "en": "Ten Machines",
+    "jp": "十台",
+    "kana": "じゅうだい",
+    "level": "lv3"
+  },
+  {
+    "en": "Ten Thousand",
+    "jp": "万",
+    "kana": "まん",
+    "level": "lv3"
+  },
+  {
+    "en": "Ten Thousand",
+    "jp": "一万",
+    "kana": "いちまん",
+    "level": "lv3"
+  },
+  {
+    "en": "This Month",
+    "jp": "今月",
+    "kana": "こんげつ",
+    "level": "lv3"
+  },
+  {
+    "en": "This One",
+    "jp": "これ",
+    "kana": "これ",
+    "level": "lv3"
+  },
+  {
+    "en": "To Be Born",
+    "jp": "生まれる",
+    "kana": "うまれる",
+    "level": "lv3"
+  },
+  {
+    "en": "To Cut",
+    "jp": "切る",
+    "kana": "きる",
+    "level": "lv3"
+  },
+  {
+    "en": "Today",
+    "jp": "今日",
+    "kana": "きょう",
+    "level": "lv3"
+  },
+  {
+    "en": "To Do",
+    "jp": "する",
+    "kana": "する",
+    "level": "lv3"
+  },
+  {
+    "en": "To Get Fat",
+    "jp": "太る",
+    "kana": "ふとる",
+    "level": "lv3"
+  },
+  {
+    "en": "To Pull",
+    "jp": "引く",
+    "kana": "ひく",
+    "level": "lv3"
+  },
+  {
+    "en": "To Spread Something",
+    "jp": "広げる",
+    "kana": "ひろげる",
+    "level": "lv3"
+  },
+  {
+    "en": "To Stop Something",
+    "jp": "止める",
+    "kana": "とめる",
+    "level": "lv3"
+  },
+  {
+    "en": "To Utilize",
+    "jp": "用いる",
+    "kana": "もちいる",
+    "level": "lv3"
+  },
+  {
+    "en": "Twenty Thousand",
+    "jp": "二万",
+    "kana": "にまん",
+    "level": "lv3"
+  },
+  {
+    "en": "Two Machines",
+    "jp": "二台",
+    "kana": "にだい",
+    "level": "lv3"
+  },
+  {
+    "jp": "他人",
+    "kana": "たにん",
+    "en": "Another Person",
+    "level": "lv4"
+  },
+  {
+    "jp": "早々",
+    "kana": "そうそう",
+    "en": "As Soon As",
+    "level": "lv4"
+  },
+  {
+    "jp": "大気",
+    "kana": "たいき",
+    "en": "Atmosphere",
+    "level": "lv4"
+  },
+  {
+    "jp": "赤ちゃん",
+    "kana": "あかちゃん",
+    "en": "Baby",
+    "level": "lv4"
+  },
+  {
+    "jp": "竹",
+    "kana": "たけ",
+    "en": "Bamboo",
+    "level": "lv4"
+  },
+  {
+    "jp": "竹の子",
+    "kana": "たけのこ",
+    "en": "Bamboo Shoot",
+    "level": "lv4"
+  },
+  {
+    "jp": "少年",
+    "kana": "しょうねん",
+    "en": "Boy",
+    "level": "lv4"
+  },
+  {
+    "jp": "虫",
+    "kana": "むし",
+    "en": "Bug",
+    "level": "lv4"
+  },
+  {
+    "jp": "年内",
+    "kana": "ねんない",
+    "en": "By The End Of The Year",
+    "level": "lv4"
+  },
+  {
+    "jp": "子牛",
+    "kana": "こうし",
+    "en": "Calf",
+    "level": "lv4"
+  },
+  {
+    "jp": "平気",
+    "kana": "へいき",
+    "en": "Calm",
+    "level": "lv4"
+  },
+  {
+    "jp": "車",
+    "kana": "くるま",
+    "en": "Car",
+    "level": "lv4"
+  },
+  {
+    "jp": "中央",
+    "kana": "ちゅうおう",
+    "en": "Center",
+    "level": "lv4"
+  },
+  {
+    "jp": "耳",
+    "kana": "みみ",
+    "en": "Ear",
+    "level": "lv4"
+  },
+  {
+    "jp": "早い",
+    "kana": "はやい",
+    "en": "Early",
+    "level": "lv4"
+  },
+  {
+    "jp": "元気",
+    "kana": "げんき",
+    "en": "Energy",
+    "level": "lv4"
+  },
+  {
+    "jp": "名人",
+    "kana": "めいじん",
+    "en": "Expert",
+    "level": "lv4"
+  },
+  {
+    "jp": "気分",
+    "kana": "きぶん",
+    "en": "Feeling",
+    "level": "lv4"
+  },
+  {
+    "jp": "花火",
+    "kana": "はなび",
+    "en": "Fireworks",
+    "level": "lv4"
+  },
+  {
+    "jp": "先ず",
+    "kana": "まず",
+    "en": "First Of All",
+    "level": "lv4"
+  },
+  {
+    "jp": "一年生",
+    "kana": "いちねんせい",
+    "en": "First Year Student",
+    "level": "lv4"
+  },
+  {
+    "jp": "五百",
+    "kana": "ごひゃく",
+    "en": "Five Hundred",
+    "level": "lv4"
+  },
+  {
+    "jp": "平ら",
+    "kana": "たいら",
+    "en": "Flat",
+    "level": "lv4"
+  },
+  {
+    "jp": "花",
+    "kana": "はな",
+    "en": "Flower",
+    "level": "lv4"
+  },
+  {
+    "jp": "足",
+    "kana": "あし",
+    "en": "Foot",
+    "level": "lv4"
+  },
+  {
+    "jp": "四十",
+    "kana": "よんじゅう",
+    "en": "Forty",
+    "level": "lv4"
+  },
+  {
+    "jp": "四百",
+    "kana": "よんひゃく",
+    "en": "Four Hundred",
+    "level": "lv4"
+  },
+  {
+    "jp": "四日",
+    "kana": "よっか",
+    "en": "Fourth Day",
+    "level": "lv4"
+  },
+  {
+    "jp": "四つ",
+    "kana": "よっつ",
+    "en": "Four Things",
+    "level": "lv4"
+  },
+  {
+    "jp": "四千",
+    "kana": "よんせん",
+    "en": "Four Thousand",
+    "level": "lv4"
+  },
+  {
+    "jp": "さようなら",
+    "kana": "さようなら",
+    "en": "Goodbye",
+    "level": "lv4"
+  },
+  {
+    "jp": "こんばんは",
+    "kana": "こんばんは",
+    "en": "Good Evening",
+    "level": "lv4"
+  },
+  {
+    "jp": "主人",
+    "kana": "しゅじん",
+    "en": "Head Of Household",
+    "level": "lv4"
+  },
+  {
+    "jp": "穴",
+    "kana": "あな",
+    "en": "Hole",
+    "level": "lv4"
+  },
+  {
+    "jp": "休日",
+    "kana": "きゅうじつ",
+    "en": "Holiday",
+    "level": "lv4"
+  },
+  {
+    "jp": "百",
+    "kana": "ひゃく",
+    "en": "Hundred",
+    "level": "lv4"
+  },
+  {
+    "jp": "氷",
+    "kana": "こおり",
+    "en": "Ice",
+    "level": "lv4"
+  },
+  {
+    "jp": "丸ごと",
+    "kana": "まるごと",
+    "en": "In Its Entirety",
+    "level": "lv4"
+  },
+  {
+    "jp": "不正",
+    "kana": "ふせい",
+    "en": "Injustice",
+    "level": "lv4"
+  },
+  {
+    "jp": "車内",
+    "kana": "しゃない",
+    "en": "Inside The Car",
+    "level": "lv4"
+  },
+  {
+    "jp": "宝石",
+    "kana": "ほうせき",
+    "en": "Jewel",
+    "level": "lv4"
+  },
+  {
+    "jp": "先月",
+    "kana": "せんげつ",
+    "en": "Last Month",
+    "level": "lv4"
+  },
+  {
+    "jp": "去年",
+    "kana": "きょねん",
+    "en": "Last Year",
+    "level": "lv4"
+  },
+  {
+    "jp": "左手",
+    "kana": "ひだりて",
+    "en": "Left Hand",
+    "level": "lv4"
+  },
+  {
+    "jp": "文字",
+    "kana": "もじ",
+    "en": "Letter (Of The Alphabet)",
+    "level": "lv4"
+  },
+  {
+    "jp": "主に",
+    "kana": "おもに",
+    "en": "Mainly",
+    "level": "lv4"
+  },
+  {
+    "jp": "男",
+    "kana": "おとこ",
+    "en": "Man",
+    "level": "lv4"
+  },
+  {
+    "jp": "仕方",
+    "kana": "しかた",
+    "en": "Method",
+    "level": "lv4"
+  },
+  {
+    "jp": "百万",
+    "kana": "ひゃくまん",
+    "en": "Million",
+    "level": "lv4"
+  },
+  {
+    "jp": "先々月",
+    "kana": "せんせんげつ",
+    "en": "Month Before Last",
+    "level": "lv4"
+  },
+  {
+    "jp": "月見",
+    "kana": "つきみ",
+    "en": "Moon Viewing",
+    "level": "lv4"
+  },
+  {
+    "jp": "名",
+    "kana": "な",
+    "en": "Name",
+    "level": "lv4"
+  },
+  {
+    "jp": "ノート",
+    "kana": "ノート",
+    "en": "Notebook",
+    "level": "lv4"
+  },
+  {
+    "jp": "号",
+    "kana": "ごう",
+    "en": "Number",
+    "level": "lv4"
+  },
+  {
+    "jp": "一気",
+    "kana": "いっき",
+    "en": "One Breath",
+    "level": "lv4"
+  },
+  {
+    "jp": "一打",
+    "kana": "いちだ",
+    "en": "One Hit",
+    "level": "lv4"
+  },
+  {
+    "jp": "一本気",
+    "kana": "いっぽんぎ",
+    "en": "One Track Mind",
+    "level": "lv4"
+  },
+  {
+    "jp": "他",
+    "kana": "ほか",
+    "en": "Other",
+    "level": "lv4"
+  },
+  {
+    "jp": "休止",
+    "kana": "きゅうし",
+    "en": "Pause",
+    "level": "lv4"
+  },
+  {
+    "jp": "皿",
+    "kana": "さら",
+    "en": "Plate",
+    "level": "lv4"
+  },
+  {
+    "jp": "人気",
+    "kana": "にんき",
+    "en": "Popular",
+    "level": "lv4"
+  },
+  {
+    "jp": "切手",
+    "kana": "きって",
+    "en": "Postage Stamp",
+    "level": "lv4"
+  },
+  {
+    "jp": "赤",
+    "kana": "あか",
+    "en": "Red",
+    "level": "lv4"
+  },
+  {
+    "jp": "赤い",
+    "kana": "あかい",
+    "en": "Red",
+    "level": "lv4"
+  },
+  {
+    "jp": "休み",
+    "kana": "やすみ",
+    "en": "Rest",
+    "level": "lv4"
+  },
+  {
+    "jp": "右手",
+    "kana": "みぎて",
+    "en": "Right Hand",
+    "level": "lv4"
+  },
+  {
+    "jp": "二世",
+    "kana": "にせい",
+    "en": "Second Generation",
+    "level": "lv4"
+  },
+  {
+    "jp": "本気",
+    "kana": "ほんき",
+    "en": "Serious",
+    "level": "lv4"
+  },
+  {
+    "jp": "かき氷",
+    "kana": "かきごおり",
+    "en": "Shaved Ice",
+    "level": "lv4"
+  },
+  {
+    "jp": "貝",
+    "kana": "かい",
+    "en": "Shell",
+    "level": "lv4"
+  },
+  {
+    "jp": "不足",
+    "kana": "ふそく",
+    "en": "Shortage",
+    "level": "lv4"
+  },
+  {
+    "jp": "小皿",
+    "kana": "こざら",
+    "en": "Small Plate",
+    "level": "lv4"
+  },
+  {
+    "jp": "気",
+    "kana": "き",
+    "en": "Spirit",
+    "level": "lv4"
+  },
+  {
+    "jp": "石",
+    "kana": "いし",
+    "en": "Stone",
+    "level": "lv4"
+  },
+  {
+    "jp": "一文字",
+    "kana": "いちもんじ",
+    "en": "Straight Line",
+    "level": "lv4"
+  },
+  {
+    "jp": "名字",
+    "kana": "みょうじ",
+    "en": "Surname",
+    "level": "lv4"
+  },
+  {
+    "jp": "先生",
+    "kana": "せんせい",
+    "en": "Teacher",
+    "level": "lv4"
+  },
+  {
+    "jp": "テレビ",
+    "kana": "テレビ",
+    "en": "Television",
+    "level": "lv4"
+  },
+  {
+    "jp": "お礼",
+    "kana": "おれい",
+    "en": "Thanks",
+    "level": "lv4"
+  },
+  {
+    "jp": "先日",
+    "kana": "せんじつ",
+    "en": "The Other Day",
+    "level": "lv4"
+  },
+  {
+    "jp": "三世",
+    "kana": "さんせい",
+    "en": "Third Generation",
+    "level": "lv4"
+  },
+  {
+    "jp": "糸",
+    "kana": "いと",
+    "en": "Thread",
+    "level": "lv4"
+  },
+  {
+    "jp": "先",
+    "kana": "さき",
+    "en": "Tip",
+    "level": "lv4"
+  },
+  {
+    "jp": "足りる",
+    "kana": "たりる",
+    "en": "To Be Enough",
+    "level": "lv4"
+  },
+  {
+    "jp": "写す",
+    "kana": "うつす",
+    "en": "To Copy",
+    "level": "lv4"
+  },
+  {
+    "jp": "出かける",
+    "kana": "でかける",
+    "en": "To Go Out",
+    "level": "lv4"
+  },
+  {
+    "jp": "打つ",
+    "kana": "うつ",
+    "en": "To Hit Something",
+    "level": "lv4"
+  },
+  {
+    "jp": "生きる",
+    "kana": "いきる",
+    "en": "To Live",
+    "level": "lv4"
+  },
+  {
+    "jp": "口にする",
+    "kana": "くちにする",
+    "en": "To Mention",
+    "level": "lv4"
+  },
+  {
+    "jp": "休む",
+    "kana": "やすむ",
+    "en": "To Rest",
+    "level": "lv4"
+  },
+  {
+    "jp": "申す",
+    "kana": "もうす",
+    "en": "To Say Humbly",
+    "level": "lv4"
+  },
+  {
+    "jp": "見る",
+    "kana": "みる",
+    "en": "To See",
+    "level": "lv4"
+  },
+  {
+    "jp": "見せる",
+    "kana": "みせる",
+    "en": "To Show",
+    "level": "lv4"
+  },
+  {
+    "jp": "気に入る",
+    "kana": "きにいる",
+    "en": "To Take A Liking",
+    "level": "lv4"
+  },
+  {
+    "jp": "町",
+    "kana": "まち",
+    "en": "Town",
+    "level": "lv4"
+  },
+  {
+    "jp": "宝",
+    "kana": "たから",
+    "en": "Treasure",
+    "level": "lv4"
+  },
+  {
+    "jp": "二十日",
+    "kana": "はつか",
+    "en": "Twentieth Day",
+    "level": "lv4"
+  },
+  {
+    "jp": "二百",
+    "kana": "にひゃく",
+    "en": "Two Hundred",
+    "level": "lv4"
+  },
+  {
+    "jp": "花見",
+    "kana": "はなみ",
+    "en": "Viewing Cherry Blossoms",
+    "level": "lv4"
+  },
+  {
+    "jp": "村",
+    "kana": "むら",
+    "en": "Village",
+    "level": "lv4"
+  },
+  {
+    "jp": "村人",
+    "kana": "むらびと",
+    "en": "Villager",
+    "level": "lv4"
+  },
+  {
+    "jp": "見方",
+    "kana": "みかた",
+    "en": "Way Of Seeing",
+    "level": "lv4"
+  },
+  {
+    "jp": "天気",
+    "kana": "てんき",
+    "en": "Weather",
+    "level": "lv4"
+  },
+  {
+    "jp": "平日",
+    "kana": "へいじつ",
+    "en": "Weekdays",
+    "level": "lv4"
+  },
+  {
+    "jp": "どれ",
+    "kana": "どれ",
+    "en": "Which One",
+    "level": "lv4"
+  },
+  {
+    "jp": "白い",
+    "kana": "しろい",
+    "en": "White",
+    "level": "lv4"
+  },
+  {
+    "jp": "年",
+    "kana": "とし",
+    "en": "Year",
+    "level": "lv4"
+  },
+  {
+    "jp": "２０１１年",
+    "kana": "にせんじゅういちねん",
+    "en": "Year 2011",
+    "level": "lv4"
+  },
+  {
+    "jp": "年中",
+    "kana": "ねんじゅう",
+    "en": "Year Round",
+    "level": "lv4"
+  },
+  {
+    "jp": "うん",
+    "kana": "うん",
+    "en": "Yep",
+    "level": "lv4"
+  },
+  {
+    "jp": "はい",
+    "kana": "はい",
+    "en": "Yes",
+    "level": "lv4"
+  },
+  {
+    "jp": "休学",
+    "kana": "きゅうがく",
+    "en": "Absence From School",
+    "level": "lv5"
+  },
+  {
+    "jp": "空気",
+    "kana": "くうき",
+    "en": "Air",
+    "level": "lv5"
+  },
+  {
+    "jp": "考古学",
+    "kana": "こうこがく",
+    "en": "Archeology",
+    "level": "lv5"
+  },
+  {
+    "jp": "当たり",
+    "kana": "あたり",
+    "en": "A Success",
+    "level": "lv5"
+  },
+  {
+    "jp": "今すぐ",
+    "kana": "いますぐ",
+    "en": "At Once",
+    "level": "lv5"
+  },
+  {
+    "jp": "牛肉",
+    "kana": "ぎゅうにく",
+    "en": "Beef",
+    "level": "lv5"
+  },
+  {
+    "jp": "生まれ",
+    "kana": "うまれ",
+    "en": "Birthplace",
+    "level": "lv5"
+  },
+  {
+    "jp": "青い",
+    "kana": "あおい",
+    "en": "Blue",
+    "level": "lv5"
+  },
+  {
+    "jp": "体",
+    "kana": "からだ",
+    "en": "Body",
+    "level": "lv5"
+  },
+  {
+    "jp": "男の子",
+    "kana": "おとこのこ",
+    "en": "Boy",
+    "level": "lv5"
+  },
+  {
+    "jp": "〜斤",
+    "kana": "きん",
+    "en": "Bread Loaf Counter",
+    "level": "lv5"
+  },
+  {
+    "jp": "兄弟",
+    "kana": "きょうだい",
+    "en": "Brothers",
+    "level": "lv5"
+  },
+  {
+    "jp": "毛虫",
+    "kana": "けむし",
+    "en": "Caterpillar",
+    "level": "lv5"
+  },
+  {
+    "jp": "近い",
+    "kana": "ちかい",
+    "en": "Close",
+    "level": "lv5"
+  },
+  {
+    "jp": "色",
+    "kana": "いろ",
+    "en": "Color",
+    "level": "lv5"
+  },
+  {
+    "jp": "会社",
+    "kana": "かいしゃ",
+    "en": "Company",
+    "level": "lv5"
+  },
+  {
+    "jp": "作文",
+    "kana": "さくぶん",
+    "en": "Composition",
+    "level": "lv5"
+  },
+  {
+    "jp": "コンビニ",
+    "kana": "コンビニ",
+    "en": "Convenience Store",
+    "level": "lv5"
+  },
+  {
+    "jp": "角",
+    "kana": "かど",
+    "en": "Corner",
+    "level": "lv5"
+  },
+  {
+    "jp": "代金",
+    "kana": "だいきん",
+    "en": "Cost",
+    "level": "lv5"
+  },
+  {
+    "jp": "三日月",
+    "kana": "みかづき",
+    "en": "Crescent Moon",
+    "level": "lv5"
+  },
+  {
+    "jp": "デパート",
+    "kana": "デパート",
+    "en": "Department Store",
+    "level": "lv5"
+  },
+  {
+    "jp": "図",
+    "kana": "ず",
+    "en": "Diagram",
+    "level": "lv5"
+  },
+  {
+    "jp": "外交",
+    "kana": "がいこう",
+    "en": "Diplomacy",
+    "level": "lv5"
+  },
+  {
+    "jp": "下町",
+    "kana": "したまち",
+    "en": "Downtown",
+    "level": "lv5"
+  },
+  {
+    "jp": "工学",
+    "kana": "こうがく",
+    "en": "Engineering",
+    "level": "lv5"
+  },
+  {
+    "jp": "毎日",
+    "kana": "まいにち",
+    "en": "Every Day",
+    "level": "lv5"
+  },
+  {
+    "jp": "毎月",
+    "kana": "まいつき",
+    "en": "Every Month",
+    "level": "lv5"
+  },
+  {
+    "jp": "毎回",
+    "kana": "まいかい",
+    "en": "Every Time",
+    "level": "lv5"
+  },
+  {
+    "jp": "毎年",
+    "kana": "まいとし",
+    "en": "Every Year",
+    "level": "lv5"
+  },
+  {
+    "jp": "すみません",
+    "kana": "すみません",
+    "en": "Excuse Me",
+    "level": "lv5"
+  },
+  {
+    "jp": "羽",
+    "kana": "はね",
+    "en": "Feathers",
+    "level": "lv5"
+  },
+  {
+    "jp": "林",
+    "kana": "はやし",
+    "en": "Forest",
+    "level": "lv5"
+  },
+  {
+    "jp": "〜形",
+    "kana": "けい",
+    "en": "Form",
+    "level": "lv5"
+  },
+  {
+    "jp": "〜年来",
+    "kana": "ねんらい",
+    "en": "For Some Years",
+    "level": "lv5"
+  },
+  {
+    "jp": "古来",
+    "kana": "こらい",
+    "en": "From Ancient Times",
+    "level": "lv5"
+  },
+  {
+    "jp": "大体",
+    "kana": "だいたい",
+    "en": "Generally",
+    "level": "lv5"
+  },
+  {
+    "jp": "仕草",
+    "kana": "しぐさ",
+    "en": "Gesture",
+    "level": "lv5"
+  },
+  {
+    "jp": "金",
+    "kana": "きん",
+    "en": "Gold",
+    "level": "lv5"
+  },
+  {
+    "jp": "上手い",
+    "kana": "うまい",
+    "en": "Good At",
+    "level": "lv5"
+  },
+  {
+    "jp": "草",
+    "kana": "くさ",
+    "en": "Grass",
+    "level": "lv5"
+  },
+  {
+    "jp": "工作",
+    "kana": "こうさく",
+    "en": "Handicraft",
+    "level": "lv5"
+  },
+  {
+    "jp": "本社",
+    "kana": "ほんしゃ",
+    "en": "Headquarters",
+    "level": "lv5"
+  },
+  {
+    "jp": "里",
+    "kana": "さと",
+    "en": "Hometown",
+    "level": "lv5"
+  },
+  {
+    "jp": "何日",
+    "kana": "なんにち",
+    "en": "How Many Days",
+    "level": "lv5"
+  },
+  {
+    "jp": "何人",
+    "kana": "なんにん",
+    "en": "How Many People",
+    "level": "lv5"
+  },
+  {
+    "jp": "何回",
+    "kana": "なんかい",
+    "en": "How Many Times",
+    "level": "lv5"
+  },
+  {
+    "jp": "自立",
+    "kana": "じりつ",
+    "en": "Independence",
+    "level": "lv5"
+  },
+  {
+    "jp": "体内",
+    "kana": "たいない",
+    "en": "Inside The Body",
+    "level": "lv5"
+  },
+  {
+    "jp": "皮肉",
+    "kana": "ひにく",
+    "en": "Irony",
+    "level": "lv5"
+  },
+  {
+    "jp": "入社",
+    "kana": "にゅうしゃ",
+    "en": "Joining A Company",
+    "level": "lv5"
+  },
+  {
+    "jp": "光",
+    "kana": "ひかり",
+    "en": "Light",
+    "level": "lv5"
+  },
+  {
+    "jp": "文学",
+    "kana": "ぶんがく",
+    "en": "Literature",
+    "level": "lv5"
+  },
+  {
+    "jp": "大声",
+    "kana": "おおごえ",
+    "en": "Loud Voice",
+    "level": "lv5"
+  },
+  {
+    "jp": "大作",
+    "kana": "たいさく",
+    "en": "Major Work",
+    "level": "lv5"
+  },
+  {
+    "jp": "男の人",
+    "kana": "おとこのひと",
+    "en": "Man",
+    "level": "lv5"
+  },
+  {
+    "jp": "多い",
+    "kana": "おおい",
+    "en": "Many",
+    "level": "lv5"
+  },
+  {
+    "jp": "多分",
+    "kana": "たぶん",
+    "en": "Maybe",
+    "level": "lv5"
+  },
+  {
+    "jp": "肉",
+    "kana": "にく",
+    "en": "Meat",
+    "level": "lv5"
+  },
+  {
+    "jp": "お金",
+    "kana": "おかね",
+    "en": "Money",
+    "level": "lv5"
+  },
+  {
+    "jp": "月光",
+    "kana": "げっこう",
+    "en": "Moonlight",
+    "level": "lv5"
+  },
+  {
+    "jp": "来月",
+    "kana": "らいげつ",
+    "en": "Next Month",
+    "level": "lv5"
+  },
+  {
+    "jp": "来年",
+    "kana": "らいねん",
+    "en": "Next Year",
+    "level": "lv5"
+  },
+  {
+    "jp": "いいえ",
+    "kana": "いいえ",
+    "en": "No",
+    "level": "lv5"
+  },
+  {
+    "jp": "北西",
+    "kana": "ほくせい",
+    "en": "Northwest",
+    "level": "lv5"
+  },
+  {
+    "jp": "兄",
+    "kana": "あに",
+    "en": "Older Brother",
+    "level": "lv5"
+  },
+  {
+    "jp": "自分",
+    "kana": "じぶん",
+    "en": "Oneself",
+    "level": "lv5"
+  },
+  {
+    "jp": "三十代",
+    "kana": "さんじゅうだい",
+    "en": "One's Thirties",
+    "level": "lv5"
+  },
+  {
+    "jp": "一回",
+    "kana": "いっかい",
+    "en": "One Time",
+    "level": "lv5"
+  },
+  {
+    "jp": "空車",
+    "kana": "くうしゃ",
+    "en": "Open Taxi",
+    "level": "lv5"
+  },
+  {
+    "jp": "本来",
+    "kana": "ほんらい",
+    "en": "Originally",
+    "level": "lv5"
+  },
+  {
+    "jp": "体力",
+    "kana": "たいりょく",
+    "en": "Physical Strength",
+    "level": "lv5"
+  },
+  {
+    "jp": "豚",
+    "kana": "ぶた",
+    "en": "Pig",
+    "level": "lv5"
+  },
+  {
+    "jp": "雨",
+    "kana": "あめ",
+    "en": "Rain",
+    "level": "lv5"
+  },
+  {
+    "jp": "本当",
+    "kana": "ほんとう",
+    "en": "Reality",
+    "level": "lv5"
+  },
+  {
+    "jp": "近年",
+    "kana": "きんねん",
+    "en": "Recent Years",
+    "level": "lv5"
+  },
+  {
+    "jp": "米",
+    "kana": "こめ",
+    "en": "Rice",
+    "level": "lv5"
+  },
+  {
+    "jp": "同じ",
+    "kana": "おなじ",
+    "en": "Same",
+    "level": "lv5"
+  },
+  {
+    "jp": "同日",
+    "kana": "どうじつ",
+    "en": "Same Day",
+    "level": "lv5"
+  },
+  {
+    "jp": "入学",
+    "kana": "にゅうがく",
+    "en": "School Admission",
+    "level": "lv5"
+  },
+  {
+    "jp": "学年",
+    "kana": "がくねん",
+    "en": "School Grade",
+    "level": "lv5"
+  },
+  {
+    "jp": "皮",
+    "kana": "かわ",
+    "en": "Skin",
+    "level": "lv5"
+  },
+  {
+    "jp": "空",
+    "kana": "そら",
+    "en": "Sky",
+    "level": "lv5"
+  },
+  {
+    "jp": "水色",
+    "kana": "みずいろ",
+    "en": "Sky Blue",
+    "level": "lv5"
+  },
+  {
+    "jp": "近日",
+    "kana": "きんじつ",
+    "en": "Soon",
+    "level": "lv5"
+  },
+  {
+    "jp": "音",
+    "kana": "おと",
+    "en": "Sound",
+    "level": "lv5"
+  },
+  {
+    "jp": "四角",
+    "kana": "しかく",
+    "en": "Square",
+    "level": "lv5"
+  },
+  {
+    "jp": "学生",
+    "kana": "がくせい",
+    "en": "Student",
+    "level": "lv5"
+  },
+  {
+    "jp": "日光",
+    "kana": "にっこう",
+    "en": "Sunlight",
+    "level": "lv5"
+  },
+  {
+    "jp": "金玉",
+    "kana": "きんたま",
+    "en": "Testicles",
+    "level": "lv5"
+  },
+  {
+    "jp": "それ",
+    "kana": "それ",
+    "en": "That One",
+    "level": "lv5"
+  },
+  {
+    "jp": "その他",
+    "kana": "そのほか",
+    "en": "The Others",
+    "level": "lv5"
+  },
+  {
+    "jp": "今回",
+    "kana": "こんかい",
+    "en": "This Time",
+    "level": "lv5"
+  },
+  {
+    "jp": "何千",
+    "kana": "なんぜん",
+    "en": "Thousands",
+    "level": "lv5"
+  },
+  {
+    "jp": "〜回",
+    "kana": "かい",
+    "en": "Times",
+    "level": "lv5"
+  },
+  {
+    "jp": "当たる",
+    "kana": "あたる",
+    "en": "To Be Right",
+    "level": "lv5"
+  },
+  {
+    "jp": "見える",
+    "kana": "みえる",
+    "en": "To Be Visible",
+    "level": "lv5"
+  },
+  {
+    "jp": "来る",
+    "kana": "くる",
+    "en": "To Come",
+    "level": "lv5"
+  },
+  {
+    "jp": "下がる",
+    "kana": "さがる",
+    "en": "To Get Lower",
+    "level": "lv5"
+  },
+  {
+    "jp": "生む",
+    "kana": "うむ",
+    "en": "To Give Birth",
+    "level": "lv5"
+  },
+  {
+    "jp": "行く",
+    "kana": "いく",
+    "en": "To Go",
+    "level": "lv5"
+  },
+  {
+    "jp": "上がる",
+    "kana": "あがる",
+    "en": "To Go Up",
+    "level": "lv5"
+  },
+  {
+    "jp": "入れる",
+    "kana": "いれる",
+    "en": "To Insert",
+    "level": "lv5"
+  },
+  {
+    "jp": "学ぶ",
+    "kana": "まなぶ",
+    "en": "To Learn",
+    "level": "lv5"
+  },
+  {
+    "jp": "作る",
+    "kana": "つくる",
+    "en": "To Make",
+    "level": "lv5"
+  },
+  {
+    "jp": "会う",
+    "kana": "あう",
+    "en": "To Meet",
+    "level": "lv5"
+  },
+  {
+    "jp": "交ぜる",
+    "kana": "まぜる",
+    "en": "To Mix Something",
+    "level": "lv5"
+  },
+  {
+    "jp": "回る",
+    "kana": "まわる",
+    "en": "To Revolve",
+    "level": "lv5"
+  },
+  {
+    "jp": "走る",
+    "kana": "はしる",
+    "en": "To Run",
+    "level": "lv5"
+  },
+  {
+    "jp": "言う",
+    "kana": "いう",
+    "en": "To Say",
+    "level": "lv5"
+  },
+  {
+    "jp": "立てる",
+    "kana": "たてる",
+    "en": "To Stand Something Up",
+    "level": "lv5"
+  },
+  {
+    "jp": "止まる",
+    "kana": "とまる",
+    "en": "To Stop",
+    "level": "lv5"
+  },
+  {
+    "jp": "出す",
+    "kana": "だす",
+    "en": "To Take Out",
+    "level": "lv5"
+  },
+  {
+    "jp": "考える",
+    "kana": "かんがえる",
+    "en": "To Think About",
+    "level": "lv5"
+  },
+  {
+    "jp": "分かる",
+    "kana": "わかる",
+    "en": "To Understand",
+    "level": "lv5"
+  },
+  {
+    "jp": "行き",
+    "kana": "ゆき",
+    "en": "Train Direction",
+    "level": "lv5"
+  },
+  {
+    "jp": "走行",
+    "kana": "そうこう",
+    "en": "Traveling",
+    "level": "lv5"
+  },
+  {
+    "jp": "三角",
+    "kana": "さんかく",
+    "en": "Triangle",
+    "level": "lv5"
+  },
+  {
+    "jp": "大学",
+    "kana": "だいがく",
+    "en": "University",
+    "level": "lv5"
+  },
+  {
+    "jp": "今まで",
+    "kana": "いままで",
+    "en": "Until Now",
+    "level": "lv5"
+  },
+  {
+    "jp": "谷",
+    "kana": "たに",
+    "en": "Valley",
+    "level": "lv5"
+  },
+  {
+    "jp": "色々",
+    "kana": "いろいろ",
+    "en": "Various",
+    "level": "lv5"
+  },
+  {
+    "jp": "声",
+    "kana": "こえ",
+    "en": "Voice",
+    "level": "lv5"
+  },
+  {
+    "jp": "西",
+    "kana": "にし",
+    "en": "West",
+    "level": "lv5"
+  },
+  {
+    "jp": "何",
+    "kana": "なに",
+    "en": "What",
+    "level": "lv5"
+  },
+  {
+    "jp": "何月",
+    "kana": "なんがつ",
+    "en": "What Month",
+    "level": "lv5"
+  },
+  {
+    "jp": "何年",
+    "kana": "なんねん",
+    "en": "What Year",
+    "level": "lv5"
+  },
+  {
+    "jp": "麦",
+    "kana": "むぎ",
+    "en": "Wheat",
+    "level": "lv5"
+  },
+  {
+    "jp": "一生",
+    "kana": "いっしょう",
+    "en": "Whole Life",
+    "level": "lv5"
+  },
+  {
+    "jp": "社内",
+    "kana": "しゃない",
+    "en": "Within The Company",
+    "level": "lv5"
+  },
+  {
+    "jp": "毛糸",
+    "kana": "けいと",
+    "en": "Wool Yarn",
+    "level": "lv5"
+  },
+  {
+    "jp": "あなた",
+    "kana": "あなた",
+    "en": "You",
+    "level": "lv5"
+  },
+  {
+    "jp": "弟",
+    "kana": "おとうと",
+    "en": "Younger Brother",
+    "level": "lv5"
+  },
+  {
+    "jp": "青年",
+    "kana": "せいねん",
+    "en": "Youth",
+    "level": "lv5"
+  },
+  {
+    "jp": "後で",
+    "kana": "あとで",
+    "en": "After",
+    "level": "lv6"
+  },
+  {
+    "jp": "全て",
+    "kana": "すべて",
+    "en": "All",
+    "level": "lv6"
+  },
+  {
+    "jp": "全日本",
+    "kana": "ぜんにほん",
+    "en": "All Japan",
+    "level": "lv6"
+  },
+  {
+    "jp": "午前",
+    "kana": "ごぜん",
+    "en": "AM",
+    "level": "lv6"
+  },
+  {
+    "jp": "足首",
+    "kana": "あしくび",
+    "en": "Ankle",
+    "level": "lv6"
+  },
+  {
+    "jp": "カバン",
+    "kana": "カバン",
+    "en": "Bag",
+    "level": "lv6"
+  },
+  {
+    "jp": "後ろ",
+    "kana": "うしろ",
+    "en": "Behind",
+    "level": "lv6"
+  },
+  {
+    "jp": "出血",
+    "kana": "しゅっけつ",
+    "en": "Bleeding",
+    "level": "lv6"
+  },
+  {
+    "jp": "血",
+    "kana": "ち",
+    "en": "Blood",
+    "level": "lv6"
+  },
+  {
+    "jp": "両方",
+    "kana": "りょうほう",
+    "en": "Both",
+    "level": "lv6"
+  },
+  {
+    "jp": "両日",
+    "kana": "りょうじつ",
+    "en": "Both Days",
+    "level": "lv6"
+  },
+  {
+    "jp": "両手",
+    "kana": "りょうて",
+    "en": "Both Hands",
+    "level": "lv6"
+  },
+  {
+    "jp": "明るい",
+    "kana": "あかるい",
+    "en": "Bright",
+    "level": "lv6"
+  },
+  {
+    "jp": "茶色",
+    "kana": "ちゃいろ",
+    "en": "Brown",
+    "level": "lv6"
+  },
+  {
+    "jp": "仕方がない",
+    "kana": "しかたがない",
+    "en": "Can't Be Helped",
+    "level": "lv6"
+  },
+  {
+    "jp": "安い",
+    "kana": "やすい",
+    "en": "Cheap",
+    "level": "lv6"
+  },
+  {
+    "jp": "中国",
+    "kana": "ちゅうごく",
+    "en": "China",
+    "level": "lv6"
+  },
+  {
+    "jp": "社長",
+    "kana": "しゃちょう",
+    "en": "Company President",
+    "level": "lv6"
+  },
+  {
+    "jp": "国",
+    "kana": "くに",
+    "en": "Country",
+    "level": "lv6"
+  },
+  {
+    "jp": "文化",
+    "kana": "ぶんか",
+    "en": "Culture",
+    "level": "lv6"
+  },
+  {
+    "jp": "死体",
+    "kana": "したい",
+    "en": "Dead Body",
+    "level": "lv6"
+  },
+  {
+    "jp": "死",
+    "kana": "し",
+    "en": "Death",
+    "level": "lv6"
+  },
+  {
+    "jp": "方言",
+    "kana": "ほうげん",
+    "en": "Dialect",
+    "level": "lv6"
+  },
+  {
+    "jp": "方向",
+    "kana": "ほうこう",
+    "en": "Direction",
+    "level": "lv6"
+  },
+  {
+    "jp": "ドル",
+    "kana": "ドル",
+    "en": "Dollar",
+    "level": "lv6"
+  },
+  {
+    "jp": "早く",
+    "kana": "はやく",
+    "en": "Early",
+    "level": "lv6"
+  },
+  {
+    "jp": "東",
+    "kana": "ひがし",
+    "en": "East",
+    "level": "lv6"
+  },
+  {
+    "jp": "東方",
+    "kana": "とうほう",
+    "en": "Eastward",
+    "level": "lv6"
+  },
+  {
+    "jp": "活気",
+    "kana": "かっき",
+    "en": "Energy",
+    "level": "lv6"
+  },
+  {
+    "jp": "十分",
+    "kana": "じゅうぶん",
+    "en": "Enough",
+    "level": "lv6"
+  },
+  {
+    "jp": "元パートナー",
+    "kana": "もとぱーとなー",
+    "en": "Ex Partner",
+    "level": "lv6"
+  },
+  {
+    "jp": "有名",
+    "kana": "ゆうめい",
+    "en": "Famous",
+    "level": "lv6"
+  },
+  {
+    "jp": "名曲",
+    "kana": "めいきょく",
+    "en": "Famous Music",
+    "level": "lv6"
+  },
+  {
+    "jp": "早口",
+    "kana": "はやくち",
+    "en": "Fast Talker",
+    "level": "lv6"
+  },
+  {
+    "jp": "外国",
+    "kana": "がいこく",
+    "en": "Foreign Country",
+    "level": "lv6"
+  },
+  {
+    "jp": "外国人",
+    "kana": "がいこくじん",
+    "en": "Foreign Person",
+    "level": "lv6"
+  },
+  {
+    "jp": "四十二",
+    "kana": "よんじゅうに",
+    "en": "Forty Two",
+    "level": "lv6"
+  },
+  {
+    "jp": "前",
+    "kana": "まえ",
+    "en": "Front",
+    "level": "lv6"
+  },
+  {
+    "jp": "全力",
+    "kana": "ぜんりょく",
+    "en": "Full Effort",
+    "level": "lv6"
+  },
+  {
+    "jp": "出社",
+    "kana": "しゅっしゃ",
+    "en": "Going To The Office",
+    "level": "lv6"
+  },
+  {
+    "jp": "正直",
+    "kana": "しょうじき",
+    "en": "Honest",
+    "level": "lv6"
+  },
+  {
+    "jp": "本州",
+    "kana": "ほんしゅう",
+    "en": "Honshuu",
+    "level": "lv6"
+  },
+  {
+    "jp": "家",
+    "kana": "いえ",
+    "en": "House",
+    "level": "lv6"
+  },
+  {
+    "jp": "私",
+    "kana": "わたし",
+    "en": "I",
+    "level": "lv6"
+  },
+  {
+    "jp": "国王",
+    "kana": "こくおう",
+    "en": "King",
+    "level": "lv6"
+  },
+  {
+    "jp": "天国",
+    "kana": "てんごく",
+    "en": "Kingdom Of Heaven",
+    "level": "lv6"
+  },
+  {
+    "jp": "九州",
+    "kana": "きゅうしゅう",
+    "en": "Kyuushuu",
+    "level": "lv6"
+  },
+  {
+    "jp": "土地",
+    "kana": "とち",
+    "en": "Land",
+    "level": "lv6"
+  },
+  {
+    "jp": "生活",
+    "kana": "せいかつ",
+    "en": "Life",
+    "level": "lv6"
+  },
+  {
+    "jp": "長い",
+    "kana": "ながい",
+    "en": "Long",
+    "level": "lv6"
+  },
+  {
+    "jp": "宝くじ",
+    "kana": "たからくじ",
+    "en": "Lottery",
+    "level": "lv6"
+  },
+  {
+    "jp": "小文字",
+    "kana": "こもじ",
+    "en": "Lowercase Letters",
+    "level": "lv6"
+  },
+  {
+    "jp": "地図",
+    "kana": "ちず",
+    "en": "Map",
+    "level": "lv6"
+  },
+  {
+    "jp": "草地",
+    "kana": "くさち",
+    "en": "Meadow",
+    "level": "lv6"
+  },
+  {
+    "jp": "水星",
+    "kana": "すいせい",
+    "en": "Mercury",
+    "level": "lv6"
+  },
+  {
+    "jp": "中東",
+    "kana": "ちゅうとう",
+    "en": "Middle East",
+    "level": "lv6"
+  },
+  {
+    "jp": "死亡",
+    "kana": "しぼう",
+    "en": "Mortality",
+    "level": "lv6"
+  },
+  {
+    "jp": "国宝",
+    "kana": "こくほう",
+    "en": "National Treasure",
+    "level": "lv6"
+  },
+  {
+    "jp": "全国",
+    "kana": "ぜんこく",
+    "en": "Nationwide",
+    "level": "lv6"
+  },
+  {
+    "jp": "首",
+    "kana": "くび",
+    "en": "Neck",
+    "level": "lv6"
+  },
+  {
+    "jp": "夜",
+    "kana": "よる",
+    "en": "Night",
+    "level": "lv6"
+  },
+  {
+    "jp": "直行",
+    "kana": "ちょっこう",
+    "en": "Nonstop",
+    "level": "lv6"
+  },
+  {
+    "jp": "足りない",
+    "kana": "たりない",
+    "en": "Not Enough",
+    "level": "lv6"
+  },
+  {
+    "jp": "ない",
+    "kana": "ない",
+    "en": "Not There",
+    "level": "lv6"
+  },
+  {
+    "jp": "年上",
+    "kana": "としうえ",
+    "en": "Older",
+    "level": "lv6"
+  },
+  {
+    "jp": "姉",
+    "kana": "あね",
+    "en": "Older Sister",
+    "level": "lv6"
+  },
+  {
+    "jp": "お姉さん",
+    "kana": "おねえさん",
+    "en": "Older Sister",
+    "level": "lv6"
+  },
+  {
+    "jp": "一歩",
+    "kana": "いっぽ",
+    "en": "One Step",
+    "level": "lv6"
+  },
+  {
+    "jp": "元",
+    "kana": "もと",
+    "en": "Origin",
+    "level": "lv6"
+  },
+  {
+    "jp": "海外",
+    "kana": "かいがい",
+    "en": "Overseas",
+    "level": "lv6"
+  },
+  {
+    "jp": "平安",
+    "kana": "へいあん",
+    "en": "Peace",
+    "level": "lv6"
+  },
+  {
+    "jp": "私生活",
+    "kana": "しせいかつ",
+    "en": "Personal Life",
+    "level": "lv6"
+  },
+  {
+    "jp": "午後",
+    "kana": "ごご",
+    "en": "PM",
+    "level": "lv6"
+  },
+  {
+    "jp": "点",
+    "kana": "てん",
+    "en": "Point",
+    "level": "lv6"
+  },
+  {
+    "jp": "豚肉",
+    "kana": "ぶたにく",
+    "en": "Pork",
+    "level": "lv6"
+  },
+  {
+    "jp": "私立",
+    "kana": "しりつ",
+    "en": "Private",
+    "level": "lv6"
+  },
+  {
+    "jp": "車両",
+    "kana": "しゃりょう",
+    "en": "Railroad Car",
+    "level": "lv6"
+  },
+  {
+    "jp": "安心",
+    "kana": "あんしん",
+    "en": "Relief",
+    "level": "lv6"
+  },
+  {
+    "jp": "〜室",
+    "kana": "しつ",
+    "en": "Room",
+    "level": "lv6"
+  },
+  {
+    "jp": "安全",
+    "kana": "あんぜん",
+    "en": "Safety",
+    "level": "lv6"
+  },
+  {
+    "jp": "土星",
+    "kana": "どせい",
+    "en": "Saturn",
+    "level": "lv6"
+  },
+  {
+    "jp": "科学",
+    "kana": "かがく",
+    "en": "Science",
+    "level": "lv6"
+  },
+  {
+    "jp": "羊",
+    "kana": "ひつじ",
+    "en": "Sheep",
+    "level": "lv6"
+  },
+  {
+    "jp": "四国",
+    "kana": "しこく",
+    "en": "Shikoku",
+    "level": "lv6"
+  },
+  {
+    "jp": "店",
+    "kana": "みせ",
+    "en": "Shop",
+    "level": "lv6"
+  },
+  {
+    "jp": "姉妹",
+    "kana": "しまい",
+    "en": "Sisters",
+    "level": "lv6"
+  },
+  {
+    "jp": "石ころ",
+    "kana": "いしころ",
+    "en": "Small Stone",
+    "level": "lv6"
+  },
+  {
+    "jp": "他の人",
+    "kana": "ほかのひと",
+    "en": "Someone Else",
+    "level": "lv6"
+  },
+  {
+    "jp": "南",
+    "kana": "みなみ",
+    "en": "South",
+    "level": "lv6"
+  },
+  {
+    "jp": "南東",
+    "kana": "なんとう",
+    "en": "Southeast",
+    "level": "lv6"
+  },
+  {
+    "jp": "州",
+    "kana": "しゅう",
+    "en": "State",
+    "level": "lv6"
+  },
+  {
+    "jp": "代用",
+    "kana": "だいよう",
+    "en": "Substitution",
+    "level": "lv6"
+  },
+  {
+    "jp": "タクシー",
+    "kana": "タクシー",
+    "en": "Taxi",
+    "level": "lv6"
+  },
+  {
+    "jp": "お茶",
+    "kana": "おちゃ",
+    "en": "Tea",
+    "level": "lv6"
+  },
+  {
+    "jp": "あれ",
+    "kana": "あれ",
+    "en": "That One Over There",
+    "level": "lv6"
+  },
+  {
+    "jp": "この",
+    "kana": "この",
+    "en": "This",
+    "level": "lv6"
+  },
+  {
+    "jp": "今年",
+    "kana": "ことし",
+    "en": "This Year",
+    "level": "lv6"
+  },
+  {
+    "jp": "三百",
+    "kana": "さんびゃく",
+    "en": "Three Hundred",
+    "level": "lv6"
+  },
+  {
+    "jp": "足す",
+    "kana": "たす",
+    "en": "To Add Something",
+    "level": "lv6"
+  },
+  {
+    "jp": "出来る",
+    "kana": "できる",
+    "en": "To Be Able To Do",
+    "level": "lv6"
+  },
+  {
+    "jp": "切れる",
+    "kana": "きれる",
+    "en": "To Be Cut",
+    "level": "lv6"
+  },
+  {
+    "jp": "写る",
+    "kana": "うつる",
+    "en": "To Be Photographed",
+    "level": "lv6"
+  },
+  {
+    "jp": "行う",
+    "kana": "おこなう",
+    "en": "To Carry Something Out",
+    "level": "lv6"
+  },
+  {
+    "jp": "死ぬ",
+    "kana": "しぬ",
+    "en": "To Die",
+    "level": "lv6"
+  },
+  {
+    "jp": "食べる",
+    "kana": "たべる",
+    "en": "To Eat",
+    "level": "lv6"
+  },
+  {
+    "jp": "直す",
+    "kana": "なおす",
+    "en": "To Fix",
+    "level": "lv6"
+  },
+  {
+    "jp": "首になる",
+    "kana": "くびになる",
+    "en": "To Get Fired",
+    "level": "lv6"
+  },
+  {
+    "jp": "生える",
+    "kana": "はえる",
+    "en": "To Grow",
+    "level": "lv6"
+  },
+  {
+    "jp": "有る",
+    "kana": "ある",
+    "en": "To Have",
+    "level": "lv6"
+  },
+  {
+    "jp": "東北",
+    "kana": "とうほく",
+    "en": "Tohoku",
+    "level": "lv6"
+  },
+  {
+    "jp": "知る",
+    "kana": "しる",
+    "en": "To Know",
+    "level": "lv6"
+  },
+  {
+    "jp": "東京",
+    "kana": "とうきょう",
+    "en": "Tokyo",
+    "level": "lv6"
+  },
+  {
+    "jp": "今夜",
+    "kana": "こんや",
+    "en": "Tonight",
+    "level": "lv6"
+  },
+  {
+    "jp": "亡くなる",
+    "kana": "なくなる",
+    "en": "To Pass Away",
+    "level": "lv6"
+  },
+  {
+    "jp": "広がる",
+    "kana": "ひろがる",
+    "en": "To Spread Out",
+    "level": "lv6"
+  },
+  {
+    "jp": "取る",
+    "kana": "とる",
+    "en": "To Take",
+    "level": "lv6"
+  },
+  {
+    "jp": "思う",
+    "kana": "おもう",
+    "en": "To Think",
+    "level": "lv6"
+  },
+  {
+    "jp": "向く",
+    "kana": "むく",
+    "en": "To Turn Toward",
+    "level": "lv6"
+  },
+  {
+    "jp": "歩く",
+    "kana": "あるく",
+    "en": "To Walk",
+    "level": "lv6"
+  },
+  {
+    "jp": "曲",
+    "kana": "きょく",
+    "en": "Tune",
+    "level": "lv6"
+  },
+  {
+    "jp": "地中",
+    "kana": "ちちゅう",
+    "en": "Underground",
+    "level": "lv6"
+  },
+  {
+    "jp": "地下",
+    "kana": "ちか",
+    "en": "Underground",
+    "level": "lv6"
+  },
+  {
+    "jp": "不安",
+    "kana": "ふあん",
+    "en": "Uneasiness",
+    "level": "lv6"
+  },
+  {
+    "jp": "米国",
+    "kana": "べいこく",
+    "en": "United States Of America",
+    "level": "lv6"
+  },
+  {
+    "jp": "不明",
+    "kana": "ふめい",
+    "en": "Unknown",
+    "level": "lv6"
+  },
+  {
+    "jp": "大文字",
+    "kana": "おおもじ",
+    "en": "Uppercase Letters",
+    "level": "lv6"
+  },
+  {
+    "jp": "活用",
+    "kana": "かつよう",
+    "en": "Utilizing",
+    "level": "lv6"
+  },
+  {
+    "jp": "金星",
+    "kana": "きんせい",
+    "en": "Venus",
+    "level": "lv6"
+  },
+  {
+    "jp": "どの",
+    "kana": "どの",
+    "en": "Which",
+    "level": "lv6"
+  },
+  {
+    "jp": "耳打ち",
+    "kana": "みみうち",
+    "en": "Whisper In Ear",
+    "level": "lv6"
+  },
+  {
+    "jp": "冬休み",
+    "kana": "ふゆやすみ",
+    "en": "Winter Holiday",
+    "level": "lv6"
+  },
+  {
+    "jp": "羊毛",
+    "kana": "ようもう",
+    "en": "Wool",
+    "level": "lv6"
+  },
+  {
+    "jp": "手首",
+    "kana": "てくび",
+    "en": "Wrist",
+    "level": "lv6"
+  },
+  {
+    "jp": "年下",
+    "kana": "としした",
+    "en": "Younger",
+    "level": "lv6"
+  },
+  {
+    "jp": "妹",
+    "kana": "いもうと",
+    "en": "Younger Sister",
+    "level": "lv6"
+  },
+  {
+    "jp": "以後",
+    "kana": "いご",
+    "en": "After This",
+    "level": "lv7"
+  },
+  {
+    "jp": "この辺",
+    "kana": "このへん",
+    "en": "Around Here",
+    "level": "lv7"
+  },
+  {
+    "jp": "先回り",
+    "kana": "さきまわり",
+    "en": "Arriving Ahead",
+    "level": "lv7"
+  },
+  {
+    "jp": "風船",
+    "kana": "ふうせん",
+    "en": "Balloon",
+    "level": "lv7"
+  },
+  {
+    "jp": "〜札",
+    "kana": "さつ",
+    "en": "Bill",
+    "level": "lv7"
+  },
+  {
+    "jp": "鳥",
+    "kana": "とり",
+    "en": "Bird",
+    "level": "lv7"
+  },
+  {
+    "jp": "黒い",
+    "kana": "くろい",
+    "en": "Black",
+    "level": "lv7"
+  },
+  {
+    "jp": "黒人",
+    "kana": "こくじん",
+    "en": "Black Person",
+    "level": "lv7"
+  },
+  {
+    "jp": "青空",
+    "kana": "あおぞら",
+    "en": "Blue Sky",
+    "level": "lv7"
+  },
+  {
+    "jp": "船",
+    "kana": "ふね",
+    "en": "Boat",
+    "level": "lv7"
+  },
+  {
+    "jp": "教室",
+    "kana": "きょうしつ",
+    "en": "Classroom",
+    "level": "lv7"
+  },
+  {
+    "jp": "活用形",
+    "kana": "かつようけい",
+    "en": "Conjugated Form",
+    "level": "lv7"
+  },
+  {
+    "jp": "日記",
+    "kana": "にっき",
+    "en": "Diary",
+    "level": "lv7"
+  },
+  {
+    "jp": "〜丁目",
+    "kana": "ちょうめ",
+    "en": "District Of A Town",
+    "level": "lv7"
+  },
+  {
+    "jp": "人形",
+    "kana": "にんぎょう",
+    "en": "Doll",
+    "level": "lv7"
+  },
+  {
+    "jp": "小学生",
+    "kana": "しょうがくせい",
+    "en": "Elementary School Student",
+    "level": "lv7"
+  },
+  {
+    "jp": "象",
+    "kana": "ぞう",
+    "en": "Elephant",
+    "level": "lv7"
+  },
+  {
+    "jp": "月末",
+    "kana": "げつまつ",
+    "en": "End Of The Month",
+    "level": "lv7"
+  },
+  {
+    "jp": "魚",
+    "kana": "さかな",
+    "en": "Fish",
+    "level": "lv7"
+  },
+  {
+    "jp": "床",
+    "kana": "ゆか",
+    "en": "Floor",
+    "level": "lv7"
+  },
+  {
+    "jp": "必死",
+    "kana": "ひっし",
+    "en": "Frantic",
+    "level": "lv7"
+  },
+  {
+    "jp": "自由",
+    "kana": "じゆう",
+    "en": "Freedom",
+    "level": "lv7"
+  },
+  {
+    "jp": "氏名",
+    "kana": "しめい",
+    "en": "Full Name",
+    "level": "lv7"
+  },
+  {
+    "jp": "未来",
+    "kana": "みらい",
+    "en": "Future",
+    "level": "lv7"
+  },
+  {
+    "jp": "地理",
+    "kana": "ちり",
+    "en": "Geography",
+    "level": "lv7"
+  },
+  {
+    "jp": "金魚",
+    "kana": "きんぎょ",
+    "en": "Goldfish",
+    "level": "lv7"
+  },
+  {
+    "jp": "組",
+    "kana": "くみ",
+    "en": "Group",
+    "level": "lv7"
+  },
+  {
+    "jp": "手作り",
+    "kana": "てづくり",
+    "en": "Handmade",
+    "level": "lv7"
+  },
+  {
+    "jp": "大空",
+    "kana": "おおぞら",
+    "en": "Heavens",
+    "level": "lv7"
+  },
+  {
+    "jp": "高校",
+    "kana": "こうこう",
+    "en": "High School",
+    "level": "lv7"
+  },
+  {
+    "jp": "作り方",
+    "kana": "つくりかた",
+    "en": "How To Make",
+    "level": "lv7"
+  },
+  {
+    "jp": "船体",
+    "kana": "せんたい",
+    "en": "Hull",
+    "level": "lv7"
+  },
+  {
+    "jp": "人里",
+    "kana": "ひとざと",
+    "en": "Human Habitation",
+    "level": "lv7"
+  },
+  {
+    "jp": "大きく",
+    "kana": "おおきく",
+    "en": "In A Big Way",
+    "level": "lv7"
+  },
+  {
+    "jp": "内ポケット",
+    "kana": "うちぽけっと",
+    "en": "Inside Pocket",
+    "level": "lv7"
+  },
+  {
+    "jp": "近々",
+    "kana": "ちかぢか",
+    "en": "In The Near Future",
+    "level": "lv7"
+  },
+  {
+    "jp": "木星",
+    "kana": "もくせい",
+    "en": "Jupiter",
+    "level": "lv7"
+  },
+  {
+    "jp": "先週",
+    "kana": "せんしゅう",
+    "en": "Last Week",
+    "level": "lv7"
+  },
+  {
+    "jp": "以下",
+    "kana": "いか",
+    "en": "Less Than",
+    "level": "lv7"
+  },
+  {
+    "jp": "手紙",
+    "kana": "てがみ",
+    "en": "Letter",
+    "level": "lv7"
+  },
+  {
+    "jp": "小声",
+    "kana": "こごえ",
+    "en": "Low Voice",
+    "level": "lv7"
+  },
+  {
+    "jp": "火星",
+    "kana": "かせい",
+    "en": "Mars",
+    "level": "lv7"
+  },
+  {
+    "jp": "心理",
+    "kana": "しんり",
+    "en": "Mental State",
+    "level": "lv7"
+  },
+  {
+    "jp": "中学生",
+    "kana": "ちゅうがくせい",
+    "en": "Middle School Student",
+    "level": "lv7"
+  },
+  {
+    "jp": "〜分",
+    "kana": "ふん",
+    "en": "Minute",
+    "level": "lv7"
+  },
+  {
+    "jp": "〜氏",
+    "kana": "し",
+    "en": "Mister",
+    "level": "lv7"
+  },
+  {
+    "jp": "以上",
+    "kana": "いじょう",
+    "en": "More Than",
+    "level": "lv7"
+  },
+  {
+    "jp": "映画",
+    "kana": "えいが",
+    "en": "Movie",
+    "level": "lv7"
+  },
+  {
+    "jp": "ナポレオン三世",
+    "kana": "なぽれおんさんせい",
+    "en": "Napoleon The Third",
+    "level": "lv7"
+  },
+  {
+    "jp": "近く",
+    "kana": "ちかく",
+    "en": "Near",
+    "level": "lv7"
+  },
+  {
+    "jp": "海王星",
+    "kana": "かいおうせい",
+    "en": "Neptune",
+    "level": "lv7"
+  },
+  {
+    "jp": "正月",
+    "kana": "しょうがつ",
+    "en": "New Year",
+    "level": "lv7"
+  },
+  {
+    "jp": "来週",
+    "kana": "らいしゅう",
+    "en": "Next Week",
+    "level": "lv7"
+  },
+  {
+    "jp": "〜時",
+    "kana": "じ",
+    "en": "O'clock",
+    "level": "lv7"
+  },
+  {
+    "jp": "お兄さん",
+    "kana": "おにいさん",
+    "en": "Older Brother",
+    "level": "lv7"
+  },
+  {
+    "jp": "一斤",
+    "kana": "いっきん",
+    "en": "One Loaf Of Bread",
+    "level": "lv7"
+  },
+  {
+    "jp": "一時",
+    "kana": "いちじ",
+    "en": "One O'clock",
+    "level": "lv7"
+  },
+  {
+    "jp": "以外",
+    "kana": "いがい",
+    "en": "Other Than",
+    "level": "lv7"
+  },
+  {
+    "jp": "紙",
+    "kana": "かみ",
+    "en": "Paper",
+    "level": "lv7"
+  },
+  {
+    "jp": "時代",
+    "kana": "じだい",
+    "en": "Period",
+    "level": "lv7"
+  },
+  {
+    "jp": "以前",
+    "kana": "いぜん",
+    "en": "Previously",
+    "level": "lv7"
+  },
+  {
+    "jp": "心理学",
+    "kana": "しんりがく",
+    "en": "Psychology",
+    "level": "lv7"
+  },
+  {
+    "jp": "本当に",
+    "kana": "ほんとうに",
+    "en": "Really",
+    "level": "lv7"
+  },
+  {
+    "jp": "理由",
+    "kana": "りゆう",
+    "en": "Reason",
+    "level": "lv7"
+  },
+  {
+    "jp": "〜号室",
+    "kana": "ごうしつ",
+    "en": "Room Number",
+    "level": "lv7"
+  },
+  {
+    "jp": "失礼",
+    "kana": "しつれい",
+    "en": "Rude",
+    "level": "lv7"
+  },
+  {
+    "jp": "海水魚",
+    "kana": "かいすいぎょ",
+    "en": "Saltwater Fish",
+    "level": "lv7"
+  },
+  {
+    "jp": "同時",
+    "kana": "どうじ",
+    "en": "Same Time",
+    "level": "lv7"
+  },
+  {
+    "jp": "学校",
+    "kana": "がっこう",
+    "en": "School",
+    "level": "lv7"
+  },
+  {
+    "jp": "形",
+    "kana": "かたち",
+    "en": "Shape",
+    "level": "lv7"
+  },
+  {
+    "jp": "欠点",
+    "kana": "けってん",
+    "en": "Shortcoming",
+    "level": "lv7"
+  },
+  {
+    "jp": "雪",
+    "kana": "ゆき",
+    "en": "Snow",
+    "level": "lv7"
+  },
+  {
+    "jp": "社会",
+    "kana": "しゃかい",
+    "en": "Society",
+    "level": "lv7"
+  },
+  {
+    "jp": "強い",
+    "kana": "つよい",
+    "en": "Strong",
+    "level": "lv7"
+  },
+  {
+    "jp": "強力",
+    "kana": "きょうりょく",
+    "en": "Strong",
+    "level": "lv7"
+  },
+  {
+    "jp": "夏",
+    "kana": "なつ",
+    "en": "Summer",
+    "level": "lv7"
+  },
+  {
+    "jp": "夏休み",
+    "kana": "なつやすみ",
+    "en": "Summer Vacation",
+    "level": "lv7"
+  },
+  {
+    "jp": "必ず",
+    "kana": "かならず",
+    "en": "Surely",
+    "level": "lv7"
+  },
+  {
+    "jp": "白鳥",
+    "kana": "はくちょう",
+    "en": "Swan",
+    "level": "lv7"
+  },
+  {
+    "jp": "仕組み",
+    "kana": "しくみ",
+    "en": "System",
+    "level": "lv7"
+  },
+  {
+    "jp": "高い",
+    "kana": "たかい",
+    "en": "Tall",
+    "level": "lv7"
+  },
+  {
+    "jp": "その",
+    "kana": "その",
+    "en": "That",
+    "level": "lv7"
+  },
+  {
+    "jp": "あの",
+    "kana": "あの",
+    "en": "That Over There",
+    "level": "lv7"
+  },
+  {
+    "jp": "末",
+    "kana": "すえ",
+    "en": "The End",
+    "level": "lv7"
+  },
+  {
+    "jp": "一体",
+    "kana": "いったい",
+    "en": "The Heck",
+    "level": "lv7"
+  },
+  {
+    "jp": "国民",
+    "kana": "こくみん",
+    "en": "The People",
+    "level": "lv7"
+  },
+  {
+    "jp": "今週",
+    "kana": "こんしゅう",
+    "en": "This Week",
+    "level": "lv7"
+  },
+  {
+    "jp": "考え",
+    "kana": "かんがえ",
+    "en": "Thought",
+    "level": "lv7"
+  },
+  {
+    "jp": "千円札",
+    "kana": "せんえんさつ",
+    "en": "Thousand Yen Bill",
+    "level": "lv7"
+  },
+  {
+    "jp": "時",
+    "kana": "とき",
+    "en": "Time",
+    "level": "lv7"
+  },
+  {
+    "jp": "付ける",
+    "kana": "つける",
+    "en": "To Attach Something",
+    "level": "lv7"
+  },
+  {
+    "jp": "直る",
+    "kana": "なおる",
+    "en": "To Be Fixed",
+    "level": "lv7"
+  },
+  {
+    "jp": "見当たる",
+    "kana": "みあたる",
+    "en": "To Be Found",
+    "level": "lv7"
+  },
+  {
+    "jp": "切り取る",
+    "kana": "きりとる",
+    "en": "To Cut Off",
+    "level": "lv7"
+  },
+  {
+    "jp": "分ける",
+    "kana": "わける",
+    "en": "To Divide Something",
+    "level": "lv7"
+  },
+  {
+    "jp": "失う",
+    "kana": "うしなう",
+    "en": "To Lose",
+    "level": "lv7"
+  },
+  {
+    "jp": "取り出す",
+    "kana": "とりだす",
+    "en": "To Pick Out",
+    "level": "lv7"
+  },
+  {
+    "jp": "光る",
+    "kana": "ひかる",
+    "en": "To Shine",
+    "level": "lv7"
+  },
+  {
+    "jp": "代わる",
+    "kana": "かわる",
+    "en": "To Substitute For",
+    "level": "lv7"
+  },
+  {
+    "jp": "教える",
+    "kana": "おしえる",
+    "en": "To Teach",
+    "level": "lv7"
+  },
+  {
+    "jp": "町民",
+    "kana": "ちょうみん",
+    "en": "Townspeople",
+    "level": "lv7"
+  },
+  {
+    "jp": "交通",
+    "kana": "こうつう",
+    "en": "Traffic",
+    "level": "lv7"
+  },
+  {
+    "jp": "三角形",
+    "kana": "さんかくけい",
+    "en": "Triangle",
+    "level": "lv7"
+  },
+  {
+    "jp": "二斤",
+    "kana": "にきん",
+    "en": "Two Loaves Of Bread",
+    "level": "lv7"
+  },
+  {
+    "jp": "二時半",
+    "kana": "にじはん",
+    "en": "Two Thirty",
+    "level": "lv7"
+  },
+  {
+    "jp": "台風",
+    "kana": "たいふう",
+    "en": "Typhoon",
+    "level": "lv7"
+  },
+  {
+    "jp": "大学生",
+    "kana": "だいがくせい",
+    "en": "University Student",
+    "level": "lv7"
+  },
+  {
+    "jp": "不人気",
+    "kana": "ふにんき",
+    "en": "Unpopular",
+    "level": "lv7"
+  },
+  {
+    "jp": "言い方",
+    "kana": "いいかた",
+    "en": "Way Of Saying",
+    "level": "lv7"
+  },
+  {
+    "jp": "考え方",
+    "kana": "かんがえかた",
+    "en": "Way Of Thinking",
+    "level": "lv7"
+  },
+  {
+    "jp": "弱い",
+    "kana": "よわい",
+    "en": "Weak",
+    "level": "lv7"
+  },
+  {
+    "jp": "弱点",
+    "kana": "じゃくてん",
+    "en": "Weak Point",
+    "level": "lv7"
+  },
+  {
+    "jp": "週末",
+    "kana": "しゅうまつ",
+    "en": "Weekend",
+    "level": "lv7"
+  },
+  {
+    "jp": "何時",
+    "kana": "なんじ",
+    "en": "What Time",
+    "level": "lv7"
+  },
+  {
+    "jp": "風",
+    "kana": "かぜ",
+    "en": "Wind",
+    "level": "lv7"
+  },
+  {
+    "jp": "年末",
+    "kana": "ねんまつ",
+    "en": "Year End",
+    "level": "lv7"
+  },
+  {
+    "jp": "黄色",
+    "kana": "きいろ",
+    "en": "Yellow",
+    "level": "lv7"
+  },
+  {
+    "jp": "地上",
+    "kana": "ちじょう",
+    "en": "Above Ground",
+    "level": "lv8"
+  },
+  {
+    "jp": "住所",
+    "kana": "じゅうしょ",
+    "en": "Address",
+    "level": "lv8"
+  },
+  {
+    "jp": "助言",
+    "kana": "じょげん",
+    "en": "Advice",
+    "level": "lv8"
+  },
+  {
+    "jp": "全米",
+    "kana": "ぜんべい",
+    "en": "All America",
+    "level": "lv8"
+  },
+  {
+    "jp": "思い出",
+    "kana": "おもいで",
+    "en": "A Memory",
+    "level": "lv8"
+  },
+  {
+    "jp": "〜間",
+    "kana": "かん",
+    "en": "Amount Of Time",
+    "level": "lv8"
+  },
+  {
+    "jp": "他所",
+    "kana": "よそ",
+    "en": "Another Place",
+    "level": "lv8"
+  },
+  {
+    "jp": "答え",
+    "kana": "こたえ",
+    "en": "Answer",
+    "level": "lv8"
+  },
+  {
+    "jp": "辺り",
+    "kana": "あたり",
+    "en": "Area",
+    "level": "lv8"
+  },
+  {
+    "jp": "作者",
+    "kana": "さくしゃ",
+    "en": "Author",
+    "level": "lv8"
+  },
+  {
+    "jp": "電池",
+    "kana": "でんち",
+    "en": "Battery",
+    "level": "lv8"
+  },
+  {
+    "jp": "身",
+    "kana": "み",
+    "en": "Body",
+    "level": "lv8"
+  },
+  {
+    "jp": "心身",
+    "kana": "しんしん",
+    "en": "Body And Mind",
+    "level": "lv8"
+  },
+  {
+    "jp": "両者",
+    "kana": "りょうしゃ",
+    "en": "Both People",
+    "level": "lv8"
+  },
+  {
+    "jp": "〜君",
+    "kana": "くん",
+    "en": "Boy Name Ender",
+    "level": "lv8"
+  },
+  {
+    "jp": "支局",
+    "kana": "しきょく",
+    "en": "Branch Office",
+    "level": "lv8"
+  },
+  {
+    "jp": "支店",
+    "kana": "してん",
+    "en": "Branch Office",
+    "level": "lv8"
+  },
+  {
+    "jp": "朝ごはん",
+    "kana": "あさごはん",
+    "en": "Breakfast",
+    "level": "lv8"
+  },
+  {
+    "jp": "局",
+    "kana": "きょく",
+    "en": "Bureau",
+    "level": "lv8"
+  },
+  {
+    "jp": "でも",
+    "kana": "でも",
+    "en": "But",
+    "level": "lv8"
+  },
+  {
+    "jp": "雲",
+    "kana": "くも",
+    "en": "Cloud",
+    "level": "lv8"
+  },
+  {
+    "jp": "楽",
+    "kana": "らく",
+    "en": "Comfort",
+    "level": "lv8"
+  },
+  {
+    "jp": "全く",
+    "kana": "まったく",
+    "en": "Completely",
+    "level": "lv8"
+  },
+  {
+    "jp": "会話",
+    "kana": "かいわ",
+    "en": "Conversation",
+    "level": "lv8"
+  },
+  {
+    "jp": "医者",
+    "kana": "いしゃ",
+    "en": "Doctor",
+    "level": "lv8"
+  },
+  {
+    "jp": "役目",
+    "kana": "やくめ",
+    "en": "Duty",
+    "level": "lv8"
+  },
+  {
+    "jp": "東口",
+    "kana": "ひがしぐち",
+    "en": "East Exit",
+    "level": "lv8"
+  },
+  {
+    "jp": "電気",
+    "kana": "でんき",
+    "en": "Electricity",
+    "level": "lv8"
+  },
+  {
+    "jp": "電力",
+    "kana": "でんりょく",
+    "en": "Electric Power",
+    "level": "lv8"
+  },
+  {
+    "jp": "電子",
+    "kana": "でんし",
+    "en": "Electron",
+    "level": "lv8"
+  },
+  {
+    "jp": "絵文字",
+    "kana": "えもじ",
+    "en": "Emoji",
+    "level": "lv8"
+  },
+  {
+    "jp": "工学者",
+    "kana": "こうがくしゃ",
+    "en": "Engineer",
+    "level": "lv8"
+  },
+  {
+    "jp": "入場",
+    "kana": "にゅうじょう",
+    "en": "Entrance",
+    "level": "lv8"
+  },
+  {
+    "jp": "毎朝",
+    "kana": "まいあさ",
+    "en": "Every Morning",
+    "level": "lv8"
+  },
+  {
+    "jp": "工場",
+    "kana": "こうじょう",
+    "en": "Factory",
+    "level": "lv8"
+  },
+  {
+    "jp": "名所",
+    "kana": "めいしょ",
+    "en": "Famous Place",
+    "level": "lv8"
+  },
+  {
+    "jp": "楽しい",
+    "kana": "たのしい",
+    "en": "Fun",
+    "level": "lv8"
+  },
+  {
+    "jp": "もしもし",
+    "kana": "もしもし",
+    "en": "Hello",
+    "level": "lv8"
+  },
+  {
+    "jp": "ここ",
+    "kana": "ここ",
+    "en": "Here",
+    "level": "lv8"
+  },
+  {
+    "jp": "北海道",
+    "kana": "ほっかいどう",
+    "en": "Hokkaido",
+    "level": "lv8"
+  },
+  {
+    "jp": "馬",
+    "kana": "うま",
+    "en": "Horse",
+    "level": "lv8"
+  },
+  {
+    "jp": "馬力",
+    "kana": "ばりき",
+    "en": "Horsepower",
+    "level": "lv8"
+  },
+  {
+    "jp": "人間",
+    "kana": "にんげん",
+    "en": "Human",
+    "level": "lv8"
+  },
+  {
+    "jp": "大役",
+    "kana": "たいやく",
+    "en": "Important Task",
+    "level": "lv8"
+  },
+  {
+    "jp": "間",
+    "kana": "あいだ",
+    "en": "Interval",
+    "level": "lv8"
+  },
+  {
+    "jp": "究明",
+    "kana": "きゅうめい",
+    "en": "Investigation",
+    "level": "lv8"
+  },
+  {
+    "jp": "前回",
+    "kana": "ぜんかい",
+    "en": "Last Time",
+    "level": "lv8"
+  },
+  {
+    "jp": "長さ",
+    "kana": "ながさ",
+    "en": "Length",
+    "level": "lv8"
+  },
+  {
+    "jp": "生地",
+    "kana": "きじ",
+    "en": "Material",
+    "level": "lv8"
+  },
+  {
+    "jp": "数学",
+    "kana": "すうがく",
+    "en": "Mathematics",
+    "level": "lv8"
+  },
+  {
+    "jp": "医学",
+    "kana": "いがく",
+    "en": "Medical Science",
+    "level": "lv8"
+  },
+  {
+    "jp": "医大",
+    "kana": "いだい",
+    "en": "Medical University",
+    "level": "lv8"
+  },
+  {
+    "jp": "地中海",
+    "kana": "ちちゅうかい",
+    "en": "Mediterranean Sea",
+    "level": "lv8"
+  },
+  {
+    "jp": "〜道",
+    "kana": "どう",
+    "en": "Method Of",
+    "level": "lv8"
+  },
+  {
+    "jp": "君主国",
+    "kana": "くんしゅこく",
+    "en": "Monarchy",
+    "level": "lv8"
+  },
+  {
+    "jp": "朝",
+    "kana": "あさ",
+    "en": "Morning",
+    "level": "lv8"
+  },
+  {
+    "jp": "朝日",
+    "kana": "あさひ",
+    "en": "Morning Sun",
+    "level": "lv8"
+  },
+  {
+    "jp": "音楽",
+    "kana": "おんがく",
+    "en": "Music",
+    "level": "lv8"
+  },
+  {
+    "jp": "名前",
+    "kana": "なまえ",
+    "en": "Name",
+    "level": "lv8"
+  },
+  {
+    "jp": "当たり前",
+    "kana": "あたりまえ",
+    "en": "Natural",
+    "level": "lv8"
+  },
+  {
+    "jp": "次回",
+    "kana": "じかい",
+    "en": "Next Time",
+    "level": "lv8"
+  },
+  {
+    "jp": "お知らせ",
+    "kana": "おしらせ",
+    "en": "Notice",
+    "level": "lv8"
+  },
+  {
+    "jp": "数",
+    "kana": "かず",
+    "en": "Number",
+    "level": "lv8"
+  },
+  {
+    "jp": "番号",
+    "kana": "ばんごう",
+    "en": "Number",
+    "level": "lv8"
+  },
+  {
+    "jp": "一番",
+    "kana": "いちばん",
+    "en": "Number One",
+    "level": "lv8"
+  },
+  {
+    "jp": "二番",
+    "kana": "にばん",
+    "en": "Number Two",
+    "level": "lv8"
+  },
+  {
+    "jp": "数字",
+    "kana": "すうじ",
+    "en": "Numeral",
+    "level": "lv8"
+  },
+  {
+    "jp": "反対",
+    "kana": "はんたい",
+    "en": "Opposition",
+    "level": "lv8"
+  },
+  {
+    "jp": "向こう",
+    "kana": "むこう",
+    "en": "Over There",
+    "level": "lv8"
+  },
+  {
+    "jp": "私自身",
+    "kana": "わたしじしん",
+    "en": "Personally",
+    "level": "lv8"
+  },
+  {
+    "jp": "絵",
+    "kana": "え",
+    "en": "Picture",
+    "level": "lv8"
+  },
+  {
+    "jp": "投手",
+    "kana": "とうしゅ",
+    "en": "Pitcher",
+    "level": "lv8"
+  },
+  {
+    "jp": "所",
+    "kana": "ところ",
+    "en": "Place",
+    "level": "lv8"
+  },
+  {
+    "jp": "場所",
+    "kana": "ばしょ",
+    "en": "Place",
+    "level": "lv8"
+  },
+  {
+    "jp": "点数",
+    "kana": "てんすう",
+    "en": "Points",
+    "level": "lv8"
+  },
+  {
+    "jp": "交番",
+    "kana": "こうばん",
+    "en": "Police Box",
+    "level": "lv8"
+  },
+  {
+    "jp": "池",
+    "kana": "いけ",
+    "en": "Pond",
+    "level": "lv8"
+  },
+  {
+    "jp": "私立大学",
+    "kana": "しりつだいがく",
+    "en": "Private College",
+    "level": "lv8"
+  },
+  {
+    "jp": "番組",
+    "kana": "ばんぐみ",
+    "en": "Program",
+    "level": "lv8"
+  },
+  {
+    "jp": "役人",
+    "kana": "やくにん",
+    "en": "Public Official",
+    "level": "lv8"
+  },
+  {
+    "jp": "研究",
+    "kana": "けんきゅう",
+    "en": "Research",
+    "level": "lv8"
+  },
+  {
+    "jp": "住人",
+    "kana": "じゅうにん",
+    "en": "Resident",
+    "level": "lv8"
+  },
+  {
+    "jp": "道",
+    "kana": "みち",
+    "en": "Road",
+    "level": "lv8"
+  },
+  {
+    "jp": "役",
+    "kana": "やく",
+    "en": "Role",
+    "level": "lv8"
+  },
+  {
+    "jp": "円い",
+    "kana": "まるい",
+    "en": "Round",
+    "level": "lv8"
+  },
+  {
+    "jp": "学者",
+    "kana": "がくしゃ",
+    "en": "Scholar",
+    "level": "lv8"
+  },
+  {
+    "jp": "数年",
+    "kana": "すうねん",
+    "en": "Several Years",
+    "level": "lv8"
+  },
+  {
+    "jp": "対決",
+    "kana": "たいけつ",
+    "en": "Showdown",
+    "level": "lv8"
+  },
+  {
+    "jp": "歩道",
+    "kana": "ほどう",
+    "en": "Sidewalk",
+    "level": "lv8"
+  },
+  {
+    "jp": "おやつ",
+    "kana": "おやつ",
+    "en": "Snack",
+    "level": "lv8"
+  },
+  {
+    "jp": "間もなく",
+    "kana": "まもなく",
+    "en": "Soon",
+    "level": "lv8"
+  },
+  {
+    "jp": "南米",
+    "kana": "なんべい",
+    "en": "South America",
+    "level": "lv8"
+  },
+  {
+    "jp": "南口",
+    "kana": "みなみぐち",
+    "en": "South Exit",
+    "level": "lv8"
+  },
+  {
+    "jp": "空間",
+    "kana": "くうかん",
+    "en": "Space",
+    "level": "lv8"
+  },
+  {
+    "jp": "まだ",
+    "kana": "まだ",
+    "en": "Still",
+    "level": "lv8"
+  },
+  {
+    "jp": "科目",
+    "kana": "かもく",
+    "en": "Subject",
+    "level": "lv8"
+  },
+  {
+    "jp": "代わり",
+    "kana": "かわり",
+    "en": "Substitute",
+    "level": "lv8"
+  },
+  {
+    "jp": "電話",
+    "kana": "でんわ",
+    "en": "Telephone",
+    "level": "lv8"
+  },
+  {
+    "jp": "身体",
+    "kana": "しんたい",
+    "en": "The Body",
+    "level": "lv8"
+  },
+  {
+    "jp": "人数",
+    "kana": "にんずう",
+    "en": "The Number Of People",
+    "level": "lv8"
+  },
+  {
+    "jp": "この前",
+    "kana": "このまえ",
+    "en": "The Other Day",
+    "level": "lv8"
+  },
+  {
+    "jp": "引き分け",
+    "kana": "ひきわけ",
+    "en": "Tie",
+    "level": "lv8"
+  },
+  {
+    "jp": "時間",
+    "kana": "じかん",
+    "en": "Time",
+    "level": "lv8"
+  },
+  {
+    "jp": "答える",
+    "kana": "こたえる",
+    "en": "To Answer",
+    "level": "lv8"
+  },
+  {
+    "jp": "出来上がる",
+    "kana": "できあがる",
+    "en": "To Be Finished",
+    "level": "lv8"
+  },
+  {
+    "jp": "交じる",
+    "kana": "まじる",
+    "en": "To Be Mixed",
+    "level": "lv8"
+  },
+  {
+    "jp": "曲げる",
+    "kana": "まげる",
+    "en": "To Bend",
+    "level": "lv8"
+  },
+  {
+    "jp": "役に立つ",
+    "kana": "やくにたつ",
+    "en": "To Be Useful",
+    "level": "lv8"
+  },
+  {
+    "jp": "買う",
+    "kana": "かう",
+    "en": "To Buy",
+    "level": "lv8"
+  },
+  {
+    "jp": "化ける",
+    "kana": "ばける",
+    "en": "To Change Form",
+    "level": "lv8"
+  },
+  {
+    "jp": "数える",
+    "kana": "かぞえる",
+    "en": "To Count",
+    "level": "lv8"
+  },
+  {
+    "jp": "見分ける",
+    "kana": "みわける",
+    "en": "To Distinguish",
+    "level": "lv8"
+  },
+  {
+    "jp": "対する",
+    "kana": "たいする",
+    "en": "To Face",
+    "level": "lv8"
+  },
+  {
+    "jp": "近づく",
+    "kana": "ちかづく",
+    "en": "To Get Close",
+    "level": "lv8"
+  },
+  {
+    "jp": "当てる",
+    "kana": "あてる",
+    "en": "To Guess",
+    "level": "lv8"
+  },
+  {
+    "jp": "助ける",
+    "kana": "たすける",
+    "en": "To Help",
+    "level": "lv8"
+  },
+  {
+    "jp": "住む",
+    "kana": "すむ",
+    "en": "To Live",
+    "level": "lv8"
+  },
+  {
+    "jp": "明日",
+    "kana": "あした",
+    "en": "Tomorrow",
+    "level": "lv8"
+  },
+  {
+    "jp": "通る",
+    "kana": "とおる",
+    "en": "To Pass",
+    "level": "lv8"
+  },
+  {
+    "jp": "見直す",
+    "kana": "みなおす",
+    "en": "To Reevaluate",
+    "level": "lv8"
+  },
+  {
+    "jp": "思い出す",
+    "kana": "おもいだす",
+    "en": "To Remember",
+    "level": "lv8"
+  },
+  {
+    "jp": "走り回る",
+    "kana": "はしりまわる",
+    "en": "To Run Around",
+    "level": "lv8"
+  },
+  {
+    "jp": "話す",
+    "kana": "はなす",
+    "en": "To Speak",
+    "level": "lv8"
+  },
+  {
+    "jp": "支える",
+    "kana": "ささえる",
+    "en": "To Support",
+    "level": "lv8"
+  },
+  {
+    "jp": "投げる",
+    "kana": "なげる",
+    "en": "To Throw",
+    "level": "lv8"
+  },
+  {
+    "jp": "回す",
+    "kana": "まわす",
+    "en": "To Turn Something",
+    "level": "lv8"
+  },
+  {
+    "jp": "点ける",
+    "kana": "つける",
+    "en": "To Turn Something On",
+    "level": "lv8"
+  },
+  {
+    "jp": "向ける",
+    "kana": "むける",
+    "en": "To Turn Something Towards",
+    "level": "lv8"
+  },
+  {
+    "jp": "電車",
+    "kana": "でんしゃ",
+    "en": "Train",
+    "level": "lv8"
+  },
+  {
+    "jp": "水道",
+    "kana": "すいどう",
+    "en": "Water Supply",
+    "level": "lv8"
+  },
+  {
+    "jp": "どこ",
+    "kana": "どこ",
+    "en": "Where",
+    "level": "lv8"
+  },
+  {
+    "jp": "全身",
+    "kana": "ぜんしん",
+    "en": "Whole Body",
+    "level": "lv8"
+  },
+  {
+    "jp": "森",
+    "kana": "もり",
+    "en": "Woods",
+    "level": "lv8"
+  },
+  {
+    "jp": "お前",
+    "kana": "おまえ",
+    "en": "You",
+    "level": "lv8"
+  },
+  {
+    "jp": "君",
+    "kana": "きみ",
+    "en": "You",
+    "level": "lv8"
+  },
+  {
+    "jp": "全部",
+    "kana": "ぜんぶ",
+    "en": "All",
+    "level": "lv9"
+  },
+  {
+    "jp": "天使",
+    "kana": "てんし",
+    "en": "Angel",
+    "level": "lv9"
+  },
+  {
+    "jp": "角度",
+    "kana": "かくど",
+    "en": "Angle",
+    "level": "lv9"
+  },
+  {
+    "jp": "発表",
+    "kana": "はっぴょう",
+    "en": "Announcement",
+    "level": "lv9"
+  },
+  {
+    "jp": "記事",
+    "kana": "きじ",
+    "en": "Article",
+    "level": "lv9"
+  },
+  {
+    "jp": "仮定",
+    "kana": "かてい",
+    "en": "Assumption",
+    "level": "lv9"
+  },
+  {
+    "jp": "通り",
+    "kana": "とおり",
+    "en": "Avenue",
+    "level": "lv9"
+  },
+  {
+    "jp": "美しい",
+    "kana": "うつくしい",
+    "en": "Beautiful",
+    "level": "lv9"
+  },
+  {
+    "jp": "美人",
+    "kana": "びじん",
+    "en": "Beautiful Woman",
+    "level": "lv9"
+  },
+  {
+    "jp": "気を付けて",
+    "kana": "きをつけて",
+    "en": "Be Careful",
+    "level": "lv9"
+  },
+  {
+    "jp": "白黒",
+    "kana": "しろくろ",
+    "en": "Black And White",
+    "level": "lv9"
+  },
+  {
+    "jp": "体重",
+    "kana": "たいじゅう",
+    "en": "Body Weight",
+    "level": "lv9"
+  },
+  {
+    "jp": "本屋",
+    "kana": "ほんや",
+    "en": "Bookstore",
+    "level": "lv9"
+  },
+  {
+    "jp": "肉屋",
+    "kana": "にくや",
+    "en": "Butcher Shop",
+    "level": "lv9"
+  },
+  {
+    "jp": "交代",
+    "kana": "こうたい",
+    "en": "Change",
+    "level": "lv9"
+  },
+  {
+    "jp": "服",
+    "kana": "ふく",
+    "en": "Clothes",
+    "level": "lv9"
+  },
+  {
+    "jp": "工事",
+    "kana": "こうじ",
+    "en": "Construction",
+    "level": "lv9"
+  },
+  {
+    "jp": "相談",
+    "kana": "そうだん",
+    "en": "Consultation",
+    "level": "lv9"
+  },
+  {
+    "jp": "対比",
+    "kana": "たいひ",
+    "en": "Contrast",
+    "level": "lv9"
+  },
+  {
+    "jp": "〜ヶ月",
+    "kana": "かげつ",
+    "en": "Counter For Months",
+    "level": "lv9"
+  },
+  {
+    "jp": "決定",
+    "kana": "けってい",
+    "en": "Decision",
+    "level": "lv9"
+  },
+  {
+    "jp": "〜度",
+    "kana": "ど",
+    "en": "Degrees",
+    "level": "lv9"
+  },
+  {
+    "jp": "出発",
+    "kana": "しゅっぱつ",
+    "en": "Departure",
+    "level": "lv9"
+  },
+  {
+    "jp": "不自由",
+    "kana": "ふじゆう",
+    "en": "Discomfort",
+    "level": "lv9"
+  },
+  {
+    "jp": "発見",
+    "kana": "はっけん",
+    "en": "Discovery",
+    "level": "lv9"
+  },
+  {
+    "jp": "二重",
+    "kana": "にじゅう",
+    "en": "Double",
+    "level": "lv9"
+  },
+  {
+    "jp": "毎度",
+    "kana": "まいど",
+    "en": "Each Time",
+    "level": "lv9"
+  },
+  {
+    "jp": "楽勝",
+    "kana": "らくしょう",
+    "en": "Easy Victory",
+    "level": "lv9"
+  },
+  {
+    "jp": "小学校",
+    "kana": "しょうがっこう",
+    "en": "Elementary School",
+    "level": "lv9"
+  },
+  {
+    "jp": "重要",
+    "kana": "じゅうよう",
+    "en": "Essential",
+    "level": "lv9"
+  },
+  {
+    "jp": "丁度",
+    "kana": "ちょうど",
+    "en": "Exactly",
+    "level": "lv9"
+  },
+  {
+    "jp": "試験",
+    "kana": "しけん",
+    "en": "Examination",
+    "level": "lv9"
+  },
+  {
+    "jp": "体験",
+    "kana": "たいけん",
+    "en": "Experience",
+    "level": "lv9"
+  },
+  {
+    "jp": "実験",
+    "kana": "じっけん",
+    "en": "Experiment",
+    "level": "lv9"
+  },
+  {
+    "jp": "事実",
+    "kana": "じじつ",
+    "en": "Fact",
+    "level": "lv9"
+  },
+  {
+    "jp": "火事",
+    "kana": "かじ",
+    "en": "Fire",
+    "level": "lv9"
+  },
+  {
+    "jp": "魚屋",
+    "kana": "さかなや",
+    "en": "Fish Shop",
+    "level": "lv9"
+  },
+  {
+    "jp": "試食",
+    "kana": "ししょく",
+    "en": "Food Sample",
+    "level": "lv9"
+  },
+  {
+    "jp": "映像",
+    "kana": "えいぞう",
+    "en": "Footage",
+    "level": "lv9"
+  },
+  {
+    "jp": "家具",
+    "kana": "かぐ",
+    "en": "Furniture",
+    "level": "lv9"
+  },
+  {
+    "jp": "ガラス",
+    "kana": "ガラス",
+    "en": "Glass",
+    "level": "lv9"
+  },
+  {
+    "jp": "お客さん",
+    "kana": "おきゃくさん",
+    "en": "Guest",
+    "level": "lv9"
+  },
+  {
+    "jp": "客室",
+    "kana": "きゃくしつ",
+    "en": "Guest Room",
+    "level": "lv9"
+  },
+  {
+    "jp": "ハート形",
+    "kana": "はーとがた",
+    "en": "Heart Shaped",
+    "level": "lv9"
+  },
+  {
+    "jp": "高さ",
+    "kana": "たかさ",
+    "en": "Height",
+    "level": "lv9"
+  },
+  {
+    "jp": "高校生",
+    "kana": "こうこうせい",
+    "en": "High School Student",
+    "level": "lv9"
+  },
+  {
+    "jp": "家事",
+    "kana": "かじ",
+    "en": "Housework",
+    "level": "lv9"
+  },
+  {
+    "jp": "何度",
+    "kana": "なんど",
+    "en": "How Many Times",
+    "level": "lv9"
+  },
+  {
+    "jp": "画像",
+    "kana": "がぞう",
+    "en": "Image",
+    "level": "lv9"
+  },
+  {
+    "jp": "大事",
+    "kana": "だいじ",
+    "en": "Important",
+    "level": "lv9"
+  },
+  {
+    "jp": "和風",
+    "kana": "わふう",
+    "en": "Japanese Style",
+    "level": "lv9"
+  },
+  {
+    "jp": "和服",
+    "kana": "わふく",
+    "en": "Japanese Style Clothes",
+    "level": "lv9"
+  },
+  {
+    "jp": "和食",
+    "kana": "わしょく",
+    "en": "Japanese Style Food",
+    "level": "lv9"
+  },
+  {
+    "jp": "和室",
+    "kana": "わしつ",
+    "en": "Japanese Style Room",
+    "level": "lv9"
+  },
+  {
+    "jp": "仮名",
+    "kana": "かな",
+    "en": "Kana",
+    "level": "lv9"
+  },
+  {
+    "jp": "空手",
+    "kana": "からて",
+    "en": "Karate",
+    "level": "lv9"
+  },
+  {
+    "jp": "保持",
+    "kana": "ほじ",
+    "en": "Keep",
+    "level": "lv9"
+  },
+  {
+    "jp": "キロ",
+    "kana": "キロ",
+    "en": "Kilo",
+    "level": "lv9"
+  },
+  {
+    "jp": "生保",
+    "kana": "せいほ",
+    "en": "Life Insurance",
+    "level": "lv9"
+  },
+  {
+    "jp": "明かり",
+    "kana": "あかり",
+    "en": "Light",
+    "level": "lv9"
+  },
+  {
+    "jp": "生物",
+    "kana": "せいぶつ",
+    "en": "Living Thing",
+    "level": "lv9"
+  },
+  {
+    "jp": "名物",
+    "kana": "めいぶつ",
+    "en": "Local Specialty",
+    "level": "lv9"
+  },
+  {
+    "jp": "要点",
+    "kana": "ようてん",
+    "en": "Main Point",
+    "level": "lv9"
+  },
+  {
+    "jp": "勝負",
+    "kana": "しょうぶ",
+    "en": "Match",
+    "level": "lv9"
+  },
+  {
+    "jp": "食事",
+    "kana": "しょくじ",
+    "en": "Meal",
+    "level": "lv9"
+  },
+  {
+    "jp": "中学校",
+    "kana": "ちゅうがっこう",
+    "en": "Middle School",
+    "level": "lv9"
+  },
+  {
+    "jp": "ほとんど",
+    "kana": "ほとんど",
+    "en": "Most",
+    "level": "lv9"
+  },
+  {
+    "jp": "辛子",
+    "kana": "からし",
+    "en": "Mustard",
+    "level": "lv9"
+  },
+  {
+    "jp": "名古屋",
+    "kana": "なごや",
+    "en": "Nagoya",
+    "level": "lv9"
+  },
+  {
+    "jp": "必要",
+    "kana": "ひつよう",
+    "en": "Necessary",
+    "level": "lv9"
+  },
+  {
+    "jp": "付近",
+    "kana": "ふきん",
+    "en": "Neighborhood",
+    "level": "lv9"
+  },
+  {
+    "jp": "新しい",
+    "kana": "あたらしい",
+    "en": "New",
+    "level": "lv9"
+  },
+  {
+    "jp": "新年",
+    "kana": "しんねん",
+    "en": "New Year",
+    "level": "lv9"
+  },
+  {
+    "jp": "海",
+    "kana": "うみ",
+    "en": "Ocean",
+    "level": "lv9"
+  },
+  {
+    "jp": "海魚",
+    "kana": "うみざかな",
+    "en": "Ocean Fish",
+    "level": "lv9"
+  },
+  {
+    "jp": "一ヶ月",
+    "kana": "いっかげつ",
+    "en": "One Month",
+    "level": "lv9"
+  },
+  {
+    "jp": "出身",
+    "kana": "しゅっしん",
+    "en": "One's Origin",
+    "level": "lv9"
+  },
+  {
+    "jp": "元々",
+    "kana": "もともと",
+    "en": "Originally",
+    "level": "lv9"
+  },
+  {
+    "jp": "あそこ",
+    "kana": "あそこ",
+    "en": "Over There",
+    "level": "lv9"
+  },
+  {
+    "jp": "苦しい",
+    "kana": "くるしい",
+    "en": "Painful",
+    "level": "lv9"
+  },
+  {
+    "jp": "平和",
+    "kana": "へいわ",
+    "en": "Peace",
+    "level": "lv9"
+  },
+  {
+    "jp": "予定",
+    "kana": "よてい",
+    "en": "Plan",
+    "level": "lv9"
+  },
+  {
+    "jp": "部分",
+    "kana": "ぶぶん",
+    "en": "Portion",
+    "level": "lv9"
+  },
+  {
+    "jp": "〜県",
+    "kana": "けん",
+    "en": "Prefecture",
+    "level": "lv9"
+  },
+  {
+    "jp": "発音",
+    "kana": "はつおん",
+    "en": "Pronunciation",
+    "level": "lv9"
+  },
+  {
+    "jp": "心強い",
+    "kana": "こころづよい",
+    "en": "Reassuring",
+    "level": "lv9"
+  },
+  {
+    "jp": "返事",
+    "kana": "へんじ",
+    "en": "Reply",
+    "level": "lv9"
+  },
+  {
+    "jp": "住民",
+    "kana": "じゅうみん",
+    "en": "Residents",
+    "level": "lv9"
+  },
+  {
+    "jp": "部屋",
+    "kana": "へや",
+    "en": "Room",
+    "level": "lv9"
+  },
+  {
+    "jp": "発売",
+    "kana": "はつばい",
+    "en": "Sale",
+    "level": "lv9"
+  },
+  {
+    "jp": "辛い",
+    "kana": "からい",
+    "en": "Spicy",
+    "level": "lv9"
+  },
+  {
+    "jp": "辛口",
+    "kana": "からくち",
+    "en": "Spicy Taste",
+    "level": "lv9"
+  },
+  {
+    "jp": "立場",
+    "kana": "たちば",
+    "en": "Standpoint",
+    "level": "lv9"
+  },
+  {
+    "jp": "星",
+    "kana": "ほし",
+    "en": "Star",
+    "level": "lv9"
+  },
+  {
+    "jp": "〜屋",
+    "kana": "や",
+    "en": "Store",
+    "level": "lv9"
+  },
+  {
+    "jp": "仮に",
+    "kana": "かりに",
+    "en": "Supposing",
+    "level": "lv9"
+  },
+  {
+    "jp": "必勝",
+    "kana": "ひっしょう",
+    "en": "Sure Victory",
+    "level": "lv9"
+  },
+  {
+    "jp": "泳ぎ",
+    "kana": "およぎ",
+    "en": "Swimming",
+    "level": "lv9"
+  },
+  {
+    "jp": "目次",
+    "kana": "もくじ",
+    "en": "Table Of Contents",
+    "level": "lv9"
+  },
+  {
+    "jp": "札",
+    "kana": "ふだ",
+    "en": "Tag",
+    "level": "lv9"
+  },
+  {
+    "jp": "受験",
+    "kana": "じゅけん",
+    "en": "Taking An Exam",
+    "level": "lv9"
+  },
+  {
+    "jp": "対談",
+    "kana": "たいだん",
+    "en": "Talk",
+    "level": "lv9"
+  },
+  {
+    "jp": "用事",
+    "kana": "ようじ",
+    "en": "Task",
+    "level": "lv9"
+  },
+  {
+    "jp": "教え",
+    "kana": "おしえ",
+    "en": "Teaching",
+    "level": "lv9"
+  },
+  {
+    "jp": "茶屋",
+    "kana": "ちゃや",
+    "en": "Tea Shop",
+    "level": "lv9"
+  },
+  {
+    "jp": "十分間",
+    "kana": "じゅっぷんかん",
+    "en": "Ten Minutes",
+    "level": "lv9"
+  },
+  {
+    "jp": "表",
+    "kana": "おもて",
+    "en": "The Front",
+    "level": "lv9"
+  },
+  {
+    "jp": "そこ",
+    "kana": "そこ",
+    "en": "There",
+    "level": "lv9"
+  },
+  {
+    "jp": "世界",
+    "kana": "せかい",
+    "en": "The World",
+    "level": "lv9"
+  },
+  {
+    "jp": "物",
+    "kana": "もの",
+    "en": "Thing",
+    "level": "lv9"
+  },
+  {
+    "jp": "事",
+    "kana": "こと",
+    "en": "Thing",
+    "level": "lv9"
+  },
+  {
+    "jp": "今度",
+    "kana": "こんど",
+    "en": "This Time",
+    "level": "lv9"
+  },
+  {
+    "jp": "付く",
+    "kana": "つく",
+    "en": "To Be Attached",
+    "level": "lv9"
+  },
+  {
+    "jp": "曲がる",
+    "kana": "まがる",
+    "en": "To Be Bent",
+    "level": "lv9"
+  },
+  {
+    "jp": "下る",
+    "kana": "くだる",
+    "en": "To Descend",
+    "level": "lv9"
+  },
+  {
+    "jp": "表す",
+    "kana": "あらわす",
+    "en": "To Express Something",
+    "level": "lv9"
+  },
+  {
+    "jp": "見付ける",
+    "kana": "みつける",
+    "en": "To Find",
+    "level": "lv9"
+  },
+  {
+    "jp": "欠ける",
+    "kana": "かける",
+    "en": "To Get Chipped",
+    "level": "lv9"
+  },
+  {
+    "jp": "持つ",
+    "kana": "もつ",
+    "en": "To Hold Something",
+    "level": "lv9"
+  },
+  {
+    "jp": "交わる",
+    "kana": "まじわる",
+    "en": "To Intersect",
+    "level": "lv9"
+  },
+  {
+    "jp": "通す",
+    "kana": "とおす",
+    "en": "To Let Something Pass",
+    "level": "lv9"
+  },
+  {
+    "jp": "負ける",
+    "kana": "まける",
+    "en": "To Lose",
+    "level": "lv9"
+  },
+  {
+    "jp": "要る",
+    "kana": "いる",
+    "en": "To Need",
+    "level": "lv9"
+  },
+  {
+    "jp": "道具",
+    "kana": "どうぐ",
+    "en": "Tool",
+    "level": "lv9"
+  },
+  {
+    "jp": "保つ",
+    "kana": "たもつ",
+    "en": "To Preserve Something",
+    "level": "lv9"
+  },
+  {
+    "jp": "受け取る",
+    "kana": "うけとる",
+    "en": "To Receive Something",
+    "level": "lv9"
+  },
+  {
+    "jp": "受ける",
+    "kana": "うける",
+    "en": "To Receive Something",
+    "level": "lv9"
+  },
+  {
+    "jp": "返す",
+    "kana": "かえす",
+    "en": "To Return Something",
+    "level": "lv9"
+  },
+  {
+    "jp": "乗る",
+    "kana": "のる",
+    "en": "To Ride",
+    "level": "lv9"
+  },
+  {
+    "jp": "売る",
+    "kana": "うる",
+    "en": "To Sell Something",
+    "level": "lv9"
+  },
+  {
+    "jp": "送る",
+    "kana": "おくる",
+    "en": "To Send Something",
+    "level": "lv9"
+  },
+  {
+    "jp": "泳ぐ",
+    "kana": "およぐ",
+    "en": "To Swim",
+    "level": "lv9"
+  },
+  {
+    "jp": "試みる",
+    "kana": "こころみる",
+    "en": "To Try To Do Something",
+    "level": "lv9"
+  },
+  {
+    "jp": "使う",
+    "kana": "つかう",
+    "en": "To Use",
+    "level": "lv9"
+  },
+  {
+    "jp": "勝つ",
+    "kana": "かつ",
+    "en": "To Win",
+    "level": "lv9"
+  },
+  {
+    "jp": "実力",
+    "kana": "じつりょく",
+    "en": "True Strength",
+    "level": "lv9"
+  },
+  {
+    "jp": "実",
+    "kana": "じつ",
+    "en": "Truth",
+    "level": "lv9"
+  },
+  {
+    "jp": "使用",
+    "kana": "しよう",
+    "en": "Use",
+    "level": "lv9"
+  },
+  {
+    "jp": "弱虫",
+    "kana": "よわむし",
+    "en": "Weakling",
+    "level": "lv9"
+  },
+  {
+    "jp": "弱々しい",
+    "kana": "よわよわしい",
+    "en": "Weak Looking",
+    "level": "lv9"
+  },
+  {
+    "jp": "勝者",
+    "kana": "しょうしゃ",
+    "en": "Winner",
+    "level": "lv9"
+  },
+  {
+    "jp": "学院",
+    "kana": "がくいん",
+    "en": "Academy",
+    "level": "lv10"
+  },
+  {
+    "jp": "足し算",
+    "kana": "たしざん",
+    "en": "Addition",
+    "level": "lv10"
+  },
+  {
+    "jp": "進行",
+    "kana": "しんこう",
+    "en": "Advance",
+    "level": "lv10"
+  },
+  {
+    "jp": "農業",
+    "kana": "のうぎょう",
+    "en": "Agriculture",
+    "level": "lv10"
+  },
+  {
+    "jp": "ちょっと",
+    "kana": "ちょっと",
+    "en": "A Little",
+    "level": "lv10"
+  },
+  {
+    "jp": "路地",
+    "kana": "ろじ",
+    "en": "Alley",
+    "level": "lv10"
+  },
+  {
+    "jp": "高度",
+    "kana": "こうど",
+    "en": "Altitude",
+    "level": "lv10"
+  },
+  {
+    "jp": "回答",
+    "kana": "かいとう",
+    "en": "Answer",
+    "level": "lv10"
+  },
+  {
+    "jp": "算数",
+    "kana": "さんすう",
+    "en": "Arithmetic",
+    "level": "lv10"
+  },
+  {
+    "jp": "助手",
+    "kana": "じょしゅ",
+    "en": "Assistant",
+    "level": "lv10"
+  },
+  {
+    "jp": "早速",
+    "kana": "さっそく",
+    "en": "At Once",
+    "level": "lv10"
+  },
+  {
+    "jp": "心配",
+    "kana": "しんぱい",
+    "en": "A Worry",
+    "level": "lv10"
+  },
+  {
+    "jp": "自転車",
+    "kana": "じてんしゃ",
+    "en": "Bicycle",
+    "level": "lv10"
+  },
+  {
+    "jp": "苦い",
+    "kana": "にがい",
+    "en": "Bitter Tasting",
+    "level": "lv10"
+  },
+  {
+    "jp": "パン",
+    "kana": "パン",
+    "en": "Bread",
+    "level": "lv10"
+  },
+  {
+    "jp": "ビル",
+    "kana": "ビル",
+    "en": "Building",
+    "level": "lv10"
+  },
+  {
+    "jp": "千葉",
+    "kana": "ちば",
+    "en": "Chiba",
+    "level": "lv10"
+  },
+  {
+    "jp": "親友",
+    "kana": "しんゆう",
+    "en": "Close Friend",
+    "level": "lv10"
+  },
+  {
+    "jp": "集金",
+    "kana": "しゅうきん",
+    "en": "Collecting Money",
+    "level": "lv10"
+  },
+  {
+    "jp": "集中",
+    "kana": "しゅうちゅう",
+    "en": "Concentration",
+    "level": "lv10"
+  },
+  {
+    "jp": "調子",
+    "kana": "ちょうし",
+    "en": "Condition",
+    "level": "lv10"
+  },
+  {
+    "jp": "対立",
+    "kana": "たいりつ",
+    "en": "Conflict",
+    "level": "lv10"
+  },
+  {
+    "jp": "曲線",
+    "kana": "きょくせん",
+    "en": "Curve",
+    "level": "lv10"
+  },
+  {
+    "jp": "要求",
+    "kana": "ようきゅう",
+    "en": "Demand",
+    "level": "lv10"
+  },
+  {
+    "jp": "開発",
+    "kana": "かいはつ",
+    "en": "Development",
+    "level": "lv10"
+  },
+  {
+    "jp": "〜病",
+    "kana": "びょう",
+    "en": "Disease",
+    "level": "lv10"
+  },
+  {
+    "jp": "電鉄",
+    "kana": "でんてつ",
+    "en": "Electric Railway",
+    "level": "lv10"
+  },
+  {
+    "jp": "強調",
+    "kana": "きょうちょう",
+    "en": "Emphasis",
+    "level": "lv10"
+  },
+  {
+    "jp": "終了",
+    "kana": "しゅうりょう",
+    "en": "End",
+    "level": "lv10"
+  },
+  {
+    "jp": "進化",
+    "kana": "しんか",
+    "en": "Evolution",
+    "level": "lv10"
+  },
+  {
+    "jp": "顔付き",
+    "kana": "かおつき",
+    "en": "Expression",
+    "level": "lv10"
+  },
+  {
+    "jp": "目医者",
+    "kana": "めいしゃ",
+    "en": "Eye Doctor",
+    "level": "lv10"
+  },
+  {
+    "jp": "顔",
+    "kana": "かお",
+    "en": "Face",
+    "level": "lv10"
+  },
+  {
+    "jp": "農場",
+    "kana": "のうじょう",
+    "en": "Farm",
+    "level": "lv10"
+  },
+  {
+    "jp": "速い",
+    "kana": "はやい",
+    "en": "Fast",
+    "level": "lv10"
+  },
+  {
+    "jp": "フランス語",
+    "kana": "ふらんすご",
+    "en": "French Language",
+    "level": "lv10"
+  },
+  {
+    "jp": "青葉",
+    "kana": "あおば",
+    "en": "Fresh Leaves",
+    "level": "lv10"
+  },
+  {
+    "jp": "大学院",
+    "kana": "だいがくいん",
+    "en": "Graduate School",
+    "level": "lv10"
+  },
+  {
+    "jp": "頭",
+    "kana": "あたま",
+    "en": "Head",
+    "level": "lv10"
+  },
+  {
+    "jp": "重い",
+    "kana": "おもい",
+    "en": "Heavy",
+    "level": "lv10"
+  },
+  {
+    "jp": "病院",
+    "kana": "びょういん",
+    "en": "Hospital",
+    "level": "lv10"
+  },
+  {
+    "jp": "入院",
+    "kana": "にゅういん",
+    "en": "Hospitalization",
+    "level": "lv10"
+  },
+  {
+    "jp": "しかし",
+    "kana": "しかし",
+    "en": "However",
+    "level": "lv10"
+  },
+  {
+    "jp": "工業",
+    "kana": "こうぎょう",
+    "en": "Industry",
+    "level": "lv10"
+  },
+  {
+    "jp": "親しい",
+    "kana": "したしい",
+    "en": "Intimate",
+    "level": "lv10"
+  },
+  {
+    "jp": "日本語",
+    "kana": "にほんご",
+    "en": "Japanese Language",
+    "level": "lv10"
+  },
+  {
+    "jp": "日本酒",
+    "kana": "にほんしゅ",
+    "en": "Japanese Style Alcohol",
+    "level": "lv10"
+  },
+  {
+    "jp": "漢字",
+    "kana": "かんじ",
+    "en": "Kanji",
+    "level": "lv10"
+  },
+  {
+    "jp": "親切",
+    "kana": "しんせつ",
+    "en": "Kind",
+    "level": "lv10"
+  },
+  {
+    "jp": "台所",
+    "kana": "だいどころ",
+    "en": "Kitchen",
+    "level": "lv10"
+  },
+  {
+    "jp": "研究室",
+    "kana": "けんきゅうしつ",
+    "en": "Laboratory",
+    "level": "lv10"
+  },
+  {
+    "jp": "言語",
+    "kana": "げんご",
+    "en": "Language",
+    "level": "lv10"
+  },
+  {
+    "jp": "最後",
+    "kana": "さいご",
+    "en": "Last",
+    "level": "lv10"
+  },
+  {
+    "jp": "最終",
+    "kana": "さいしゅう",
+    "en": "Last",
+    "level": "lv10"
+  },
+  {
+    "jp": "終点",
+    "kana": "しゅうてん",
+    "en": "Last Stop",
+    "level": "lv10"
+  },
+  {
+    "jp": "葉",
+    "kana": "は",
+    "en": "Leaf",
+    "level": "lv10"
+  },
+  {
+    "jp": "軽い",
+    "kana": "かるい",
+    "en": "Lightweight",
+    "level": "lv10"
+  },
+  {
+    "jp": "線",
+    "kana": "せん",
+    "en": "Line",
+    "level": "lv10"
+  },
+  {
+    "jp": "楽しみ",
+    "kana": "たのしみ",
+    "en": "Looking Forward To",
+    "level": "lv10"
+  },
+  {
+    "jp": "運がいい",
+    "kana": "うんがいい",
+    "en": "Lucky",
+    "level": "lv10"
+  },
+  {
+    "jp": "〜向け",
+    "kana": "むけ",
+    "en": "Made For",
+    "level": "lv10"
+  },
+  {
+    "jp": "山道",
+    "kana": "やまみち",
+    "en": "Mountain Road",
+    "level": "lv10"
+  },
+  {
+    "jp": "近所",
+    "kana": "きんじょ",
+    "en": "Neighborhood",
+    "level": "lv10"
+  },
+  {
+    "jp": "新聞",
+    "kana": "しんぶん",
+    "en": "Newspaper",
+    "level": "lv10"
+  },
+  {
+    "jp": "次",
+    "kana": "つぎ",
+    "en": "Next",
+    "level": "lv10"
+  },
+  {
+    "jp": "番号札",
+    "kana": "ばんごうふだ",
+    "en": "Numbered Tag",
+    "level": "lv10"
+  },
+  {
+    "jp": "次々",
+    "kana": "つぎつぎ",
+    "en": "One After Another",
+    "level": "lv10"
+  },
+  {
+    "jp": "一ヶ所",
+    "kana": "いっかしょ",
+    "en": "One Place",
+    "level": "lv10"
+  },
+  {
+    "jp": "開業",
+    "kana": "かいぎょう",
+    "en": "Opening A Business",
+    "level": "lv10"
+  },
+  {
+    "jp": "公開",
+    "kana": "こうかい",
+    "en": "Open To The Public",
+    "level": "lv10"
+  },
+  {
+    "jp": "頁",
+    "kana": "ページ",
+    "en": "Page",
+    "level": "lv10"
+  },
+  {
+    "jp": "親",
+    "kana": "おや",
+    "en": "Parent",
+    "level": "lv10"
+  },
+  {
+    "jp": "道路",
+    "kana": "どうろ",
+    "en": "Paved Road",
+    "level": "lv10"
+  },
+  {
+    "jp": "農民",
+    "kana": "のうみん",
+    "en": "Peasants",
+    "level": "lv10"
+  },
+  {
+    "jp": "当て字",
+    "kana": "あてじ",
+    "en": "Phonetic Kanji",
+    "level": "lv10"
+  },
+  {
+    "jp": "私大",
+    "kana": "しだい",
+    "en": "Private College",
+    "level": "lv10"
+  },
+  {
+    "jp": "私鉄",
+    "kana": "してつ",
+    "en": "Private Railway",
+    "level": "lv10"
+  },
+  {
+    "jp": "部首",
+    "kana": "ぶしゅ",
+    "en": "Radical",
+    "level": "lv10"
+  },
+  {
+    "jp": "線路",
+    "kana": "せんろ",
+    "en": "Railroad Track",
+    "level": "lv10"
+  },
+  {
+    "jp": "読み方",
+    "kana": "よみかた",
+    "en": "Reading",
+    "level": "lv10"
+  },
+  {
+    "jp": "最近",
+    "kana": "さいきん",
+    "en": "Recent",
+    "level": "lv10"
+  },
+  {
+    "jp": "研究所",
+    "kana": "けんきゅうしょ",
+    "en": "Research Institute",
+    "level": "lv10"
+  },
+  {
+    "jp": "回転",
+    "kana": "かいてん",
+    "en": "Revolve",
+    "level": "lv10"
+  },
+  {
+    "jp": "お酒",
+    "kana": "おさけ",
+    "en": "Sake",
+    "level": "lv10"
+  },
+  {
+    "jp": "サービス",
+    "kana": "サービス",
+    "en": "Service",
+    "level": "lv10"
+  },
+  {
+    "jp": "近道",
+    "kana": "ちかみち",
+    "en": "Shortcut",
+    "level": "lv10"
+  },
+  {
+    "jp": "病気",
+    "kana": "びょうき",
+    "en": "Sick",
+    "level": "lv10"
+  },
+  {
+    "jp": "病人",
+    "kana": "びょうにん",
+    "en": "Sick Person",
+    "level": "lv10"
+  },
+  {
+    "jp": "横",
+    "kana": "よこ",
+    "en": "Side",
+    "level": "lv10"
+  },
+  {
+    "jp": "歌手",
+    "kana": "かしゅ",
+    "en": "Singer",
+    "level": "lv10"
+  },
+  {
+    "jp": "解決",
+    "kana": "かいけつ",
+    "en": "Solving",
+    "level": "lv10"
+  },
+  {
+    "jp": "歌",
+    "kana": "うた",
+    "en": "Song",
+    "level": "lv10"
+  },
+  {
+    "jp": "スペイン語",
+    "kana": "すぺいんご",
+    "en": "Spanish Language",
+    "level": "lv10"
+  },
+  {
+    "jp": "速度",
+    "kana": "そくど",
+    "en": "Speed",
+    "level": "lv10"
+  },
+  {
+    "jp": "立ち飲み",
+    "kana": "たちのみ",
+    "en": "Standing And Drinking",
+    "level": "lv10"
+  },
+  {
+    "jp": "開始",
+    "kana": "かいし",
+    "en": "Start",
+    "level": "lv10"
+  },
+  {
+    "jp": "話",
+    "kana": "はなし",
+    "en": "Story",
+    "level": "lv10"
+  },
+  {
+    "jp": "鉄人",
+    "kana": "てつじん",
+    "en": "Strong Man",
+    "level": "lv10"
+  },
+  {
+    "jp": "主語",
+    "kana": "しゅご",
+    "en": "Subject",
+    "level": "lv10"
+  },
+  {
+    "jp": "引き算",
+    "kana": "ひきざん",
+    "en": "Subtraction",
+    "level": "lv10"
+  },
+  {
+    "jp": "地下鉄",
+    "kana": "ちかてつ",
+    "en": "Subway",
+    "level": "lv10"
+  },
+  {
+    "jp": "最高",
+    "kana": "さいこう",
+    "en": "The Best",
+    "level": "lv10"
+  },
+  {
+    "jp": "一番目",
+    "kana": "いちばんめ",
+    "en": "The First Thing",
+    "level": "lv10"
+  },
+  {
+    "jp": "最も",
+    "kana": "もっとも",
+    "en": "The Most",
+    "level": "lv10"
+  },
+  {
+    "jp": "今朝",
+    "kana": "けさ",
+    "en": "This Morning",
+    "level": "lv10"
+  },
+  {
+    "jp": "進む",
+    "kana": "すすむ",
+    "en": "To Advance",
+    "level": "lv10"
+  },
+  {
+    "jp": "タバコ",
+    "kana": "タバコ",
+    "en": "Tobacco",
+    "level": "lv10"
+  },
+  {
+    "jp": "始める",
+    "kana": "はじめる",
+    "en": "To Begin Something",
+    "level": "lv10"
+  },
+  {
+    "jp": "助かる",
+    "kana": "たすかる",
+    "en": "To Be Helped",
+    "level": "lv10"
+  },
+  {
+    "jp": "点く",
+    "kana": "つく",
+    "en": "To Be Lit",
+    "level": "lv10"
+  },
+  {
+    "jp": "映る",
+    "kana": "うつる",
+    "en": "To Be Reflected",
+    "level": "lv10"
+  },
+  {
+    "jp": "化かす",
+    "kana": "ばかす",
+    "en": "To Bewitch",
+    "level": "lv10"
+  },
+  {
+    "jp": "運ぶ",
+    "kana": "はこぶ",
+    "en": "To Carry",
+    "level": "lv10"
+  },
+  {
+    "jp": "集める",
+    "kana": "あつめる",
+    "en": "To Collect Something",
+    "level": "lv10"
+  },
+  {
+    "jp": "決定する",
+    "kana": "けっていする",
+    "en": "To Decide",
+    "level": "lv10"
+  },
+  {
+    "jp": "決める",
+    "kana": "きめる",
+    "en": "To Decide",
+    "level": "lv10"
+  },
+  {
+    "jp": "配る",
+    "kana": "くばる",
+    "en": "To Distribute",
+    "level": "lv10"
+  },
+  {
+    "jp": "飲む",
+    "kana": "のむ",
+    "en": "To Drink",
+    "level": "lv10"
+  },
+  {
+    "jp": "運転する",
+    "kana": "うんてんする",
+    "en": "To Drive",
+    "level": "lv10"
+  },
+  {
+    "jp": "終わる",
+    "kana": "おわる",
+    "en": "To End",
+    "level": "lv10"
+  },
+  {
+    "jp": "楽しむ",
+    "kana": "たのしむ",
+    "en": "To Enjoy Something",
+    "level": "lv10"
+  },
+  {
+    "jp": "落ちる",
+    "kana": "おちる",
+    "en": "To Fall Down",
+    "level": "lv10"
+  },
+  {
+    "jp": "病む",
+    "kana": "やむ",
+    "en": "To Get Sick",
+    "level": "lv10"
+  },
+  {
+    "jp": "乗せる",
+    "kana": "のせる",
+    "en": "To Give Someone A Ride",
+    "level": "lv10"
+  },
+  {
+    "jp": "聞く",
+    "kana": "きく",
+    "en": "To Hear",
+    "level": "lv10"
+  },
+  {
+    "jp": "調べる",
+    "kana": "しらべる",
+    "en": "To Investigate",
+    "level": "lv10"
+  },
+  {
+    "jp": "習う",
+    "kana": "ならう",
+    "en": "To Learn",
+    "level": "lv10"
+  },
+  {
+    "jp": "教わる",
+    "kana": "おそわる",
+    "en": "To Learn Something From Someone",
+    "level": "lv10"
+  },
+  {
+    "jp": "去る",
+    "kana": "さる",
+    "en": "To Leave",
+    "level": "lv10"
+  },
+  {
+    "jp": "鳴く",
+    "kana": "なく",
+    "en": "To Make An Animal Sound",
+    "level": "lv10"
+  },
+  {
+    "jp": "出会う",
+    "kana": "であう",
+    "en": "To Meet By Chance",
+    "level": "lv10"
+  },
+  {
+    "jp": "口調",
+    "kana": "くちょう",
+    "en": "Tone",
+    "level": "lv10"
+  },
+  {
+    "jp": "開ける",
+    "kana": "あける",
+    "en": "To Open Something",
+    "level": "lv10"
+  },
+  {
+    "jp": "読む",
+    "kana": "よむ",
+    "en": "To Read",
+    "level": "lv10"
+  },
+  {
+    "jp": "代える",
+    "kana": "かえる",
+    "en": "To Replace Something",
+    "level": "lv10"
+  },
+  {
+    "jp": "転がる",
+    "kana": "ころがる",
+    "en": "To Roll",
+    "level": "lv10"
+  },
+  {
+    "jp": "売れる",
+    "kana": "うれる",
+    "en": "To Sell",
+    "level": "lv10"
+  },
+  {
+    "jp": "語る",
+    "kana": "かたる",
+    "en": "To Talk",
+    "level": "lv10"
+  },
+  {
+    "jp": "投げ付ける",
+    "kana": "なげつける",
+    "en": "To Throw Against",
+    "level": "lv10"
+  },
+  {
+    "jp": "起きる",
+    "kana": "おきる",
+    "en": "To Wake Up",
+    "level": "lv10"
+  },
+  {
+    "jp": "求める",
+    "kana": "もとめる",
+    "en": "To Want Something",
+    "level": "lv10"
+  },
+  {
+    "jp": "役場",
+    "kana": "やくば",
+    "en": "Town Hall",
+    "level": "lv10"
+  },
+  {
+    "jp": "転送",
+    "kana": "てんそう",
+    "en": "Transfer",
+    "level": "lv10"
+  },
+  {
+    "jp": "思わず",
+    "kana": "おもわず",
+    "en": "Unintentionally",
+    "level": "lv10"
+  },
+  {
+    "jp": "とても",
+    "kana": "とても",
+    "en": "Very",
+    "level": "lv10"
+  },
+  {
+    "jp": "作業",
+    "kana": "さぎょう",
+    "en": "Work",
+    "level": "lv10"
+  },
+  {
+    "jp": "入所",
+    "kana": "にゅうしょ",
+    "en": "Admission",
+    "level": "lv11"
+  },
+  {
+    "jp": "上級",
+    "kana": "じょうきゅう",
+    "en": "Advanced Level",
+    "level": "lv11"
+  },
+  {
+    "jp": "味方",
+    "kana": "みかた",
+    "en": "Ally",
+    "level": "lv11"
+  },
+  {
+    "jp": "売り上げ",
+    "kana": "うりあげ",
+    "en": "Amount Sold",
+    "level": "lv11"
+  },
+  {
+    "jp": "不良",
+    "kana": "ふりょう",
+    "en": "Bad",
+    "level": "lv11"
+  },
+  {
+    "jp": "初歩",
+    "kana": "しょほ",
+    "en": "Basics",
+    "level": "lv11"
+  },
+  {
+    "jp": "戦い",
+    "kana": "たたかい",
+    "en": "Battle",
+    "level": "lv11"
+  },
+  {
+    "jp": "戦場",
+    "kana": "せんじょう",
+    "en": "Battlefield",
+    "level": "lv11"
+  },
+  {
+    "jp": "予め",
+    "kana": "あらかじめ",
+    "en": "Beforehand",
+    "level": "lv11"
+  },
+  {
+    "jp": "初級",
+    "kana": "しょきゅう",
+    "en": "Beginner Level",
+    "level": "lv11"
+  },
+  {
+    "jp": "伝記",
+    "kana": "でんき",
+    "en": "Biography",
+    "level": "lv11"
+  },
+  {
+    "jp": "生物学",
+    "kana": "せいぶつがく",
+    "en": "Biology",
+    "level": "lv11"
+  },
+  {
+    "jp": "乗り場",
+    "kana": "のりば",
+    "en": "Boarding Area",
+    "level": "lv11"
+  },
+  {
+    "jp": "注意",
+    "kana": "ちゅうい",
+    "en": "Caution",
+    "level": "lv11"
+  },
+  {
+    "jp": "洋服",
+    "kana": "ようふく",
+    "en": "Clothes",
+    "level": "lv11"
+  },
+  {
+    "jp": "共通点",
+    "kana": "きょうつうてん",
+    "en": "Common Point",
+    "level": "lv11"
+  },
+  {
+    "jp": "仲間",
+    "kana": "なかま",
+    "en": "Companion",
+    "level": "lv11"
+  },
+  {
+    "jp": "競争",
+    "kana": "きょうそう",
+    "en": "Competition",
+    "level": "lv11"
+  },
+  {
+    "jp": "便利",
+    "kana": "べんり",
+    "en": "Convenient",
+    "level": "lv11"
+  },
+  {
+    "jp": "共同",
+    "kana": "きょうどう",
+    "en": "Cooperation",
+    "level": "lv11"
+  },
+  {
+    "jp": "〜部",
+    "kana": "ぶ",
+    "en": "Department",
+    "level": "lv11"
+  },
+  {
+    "jp": "決心",
+    "kana": "けっしん",
+    "en": "Determination",
+    "level": "lv11"
+  },
+  {
+    "jp": "別",
+    "kana": "べつ",
+    "en": "Different",
+    "level": "lv11"
+  },
+  {
+    "jp": "別人",
+    "kana": "べつじん",
+    "en": "Different Person",
+    "level": "lv11"
+  },
+  {
+    "jp": "教育",
+    "kana": "きょういく",
+    "en": "Education",
+    "level": "lv11"
+  },
+  {
+    "jp": "入学試験",
+    "kana": "にゅうがくしけん",
+    "en": "Entrance Exam",
+    "level": "lv11"
+  },
+  {
+    "jp": "特に",
+    "kana": "とくに",
+    "en": "Especially",
+    "level": "lv11"
+  },
+  {
+    "jp": "運命",
+    "kana": "うんめい",
+    "en": "Fate",
+    "level": "lv11"
+  },
+  {
+    "jp": "心持ち",
+    "kana": "こころもち",
+    "en": "Feeling",
+    "level": "lv11"
+  },
+  {
+    "jp": "気持ち",
+    "kana": "きもち",
+    "en": "Feeling",
+    "level": "lv11"
+  },
+  {
+    "jp": "指",
+    "kana": "ゆび",
+    "en": "Finger",
+    "level": "lv11"
+  },
+  {
+    "jp": "一位",
+    "kana": "いちい",
+    "en": "First Place",
+    "level": "lv11"
+  },
+  {
+    "jp": "首位",
+    "kana": "しゅい",
+    "en": "First Place",
+    "level": "lv11"
+  },
+  {
+    "jp": "昔話",
+    "kana": "むかしばなし",
+    "en": "Folk Tale",
+    "level": "lv11"
+  },
+  {
+    "jp": "食べ物",
+    "kana": "たべもの",
+    "en": "Food",
+    "level": "lv11"
+  },
+  {
+    "jp": "友好",
+    "kana": "ゆうこう",
+    "en": "Friendship",
+    "level": "lv11"
+  },
+  {
+    "jp": "仕返し",
+    "kana": "しかえし",
+    "en": "Getting Even",
+    "level": "lv11"
+  },
+  {
+    "jp": "神",
+    "kana": "かみ",
+    "en": "God",
+    "level": "lv11"
+  },
+  {
+    "jp": "良い",
+    "kana": "よい",
+    "en": "Good",
+    "level": "lv11"
+  },
+  {
+    "jp": "気持ちいい",
+    "kana": "きもちいい",
+    "en": "Good Feeling",
+    "level": "lv11"
+  },
+  {
+    "jp": "努力",
+    "kana": "どりょく",
+    "en": "Great Effort",
+    "level": "lv11"
+  },
+  {
+    "jp": "苦労",
+    "kana": "くろう",
+    "en": "Hardship",
+    "level": "lv11"
+  },
+  {
+    "jp": "苦手",
+    "kana": "にがて",
+    "en": "Hard To Deal With",
+    "level": "lv11"
+  },
+  {
+    "jp": "高級",
+    "kana": "こうきゅう",
+    "en": "High Class",
+    "level": "lv11"
+  },
+  {
+    "jp": "平仮名",
+    "kana": "ひらがな",
+    "en": "Hiragana",
+    "level": "lv11"
+  },
+  {
+    "jp": "使い方",
+    "kana": "つかいかた",
+    "en": "How To Use",
+    "level": "lv11"
+  },
+  {
+    "jp": "〜付き",
+    "kana": "つき",
+    "en": "Including",
+    "level": "lv11"
+  },
+  {
+    "jp": "不便",
+    "kana": "ふべん",
+    "en": "Inconvenient",
+    "level": "lv11"
+  },
+  {
+    "jp": "中級",
+    "kana": "ちゅうきゅう",
+    "en": "Intermediate Level",
+    "level": "lv11"
+  },
+  {
+    "jp": "始めに",
+    "kana": "はじめに",
+    "en": "In The Beginning",
+    "level": "lv11"
+  },
+  {
+    "jp": "仕事",
+    "kana": "しごと",
+    "en": "Job",
+    "level": "lv11"
+  },
+  {
+    "jp": "丁度いい",
+    "kana": "ちょうどいい",
+    "en": "Just Right",
+    "level": "lv11"
+  },
+  {
+    "jp": "労働者",
+    "kana": "ろうどうしゃ",
+    "en": "Laborer",
+    "level": "lv11"
+  },
+  {
+    "jp": "命",
+    "kana": "いのち",
+    "en": "Life",
+    "level": "lv11"
+  },
+  {
+    "jp": "好き",
+    "kana": "すき",
+    "en": "Like",
+    "level": "lv11"
+  },
+  {
+    "jp": "文字通り",
+    "kana": "もじどおり",
+    "en": "Literal",
+    "level": "lv11"
+  },
+  {
+    "jp": "昔",
+    "kana": "むかし",
+    "en": "Long Ago",
+    "level": "lv11"
+  },
+  {
+    "jp": "負け犬",
+    "kana": "まけいぬ",
+    "en": "Loser",
+    "level": "lv11"
+  },
+  {
+    "jp": "低い",
+    "kana": "ひくい",
+    "en": "Low",
+    "level": "lv11"
+  },
+  {
+    "jp": "労働",
+    "kana": "ろうどう",
+    "en": "Manual Labor",
+    "level": "lv11"
+  },
+  {
+    "jp": "意味",
+    "kana": "いみ",
+    "en": "Meaning",
+    "level": "lv11"
+  },
+  {
+    "jp": "新た",
+    "kana": "あらた",
+    "en": "New",
+    "level": "lv11"
+  },
+  {
+    "jp": "別に",
+    "kana": "べつに",
+    "en": "Not Particularly",
+    "level": "lv11"
+  },
+  {
+    "jp": "発売中",
+    "kana": "はつばいちゅう",
+    "en": "Now For Sale",
+    "level": "lv11"
+  },
+  {
+    "jp": "老人",
+    "kana": "ろうじん",
+    "en": "Old Person",
+    "level": "lv11"
+  },
+  {
+    "jp": "意見",
+    "kana": "いけん",
+    "en": "Opinion",
+    "level": "lv11"
+  },
+  {
+    "jp": "注文",
+    "kana": "ちゅうもん",
+    "en": "Order",
+    "level": "lv11"
+  },
+  {
+    "jp": "命令",
+    "kana": "めいれい",
+    "en": "Order",
+    "level": "lv11"
+  },
+  {
+    "jp": "太平洋",
+    "kana": "たいへいよう",
+    "en": "Pacific Ocean",
+    "level": "lv11"
+  },
+  {
+    "jp": "用意",
+    "kana": "ようい",
+    "en": "Preparation",
+    "level": "lv11"
+  },
+  {
+    "jp": "公共",
+    "kana": "こうきょう",
+    "en": "Public",
+    "level": "lv11"
+  },
+  {
+    "jp": "〜位",
+    "kana": "い",
+    "en": "Rank",
+    "level": "lv11"
+  },
+  {
+    "jp": "本物",
+    "kana": "ほんもの",
+    "en": "Real Thing",
+    "level": "lv11"
+  },
+  {
+    "jp": "電波",
+    "kana": "でんぱ",
+    "en": "Reception",
+    "level": "lv11"
+  },
+  {
+    "jp": "受付",
+    "kana": "うけつけ",
+    "en": "Receptionist",
+    "level": "lv11"
+  },
+  {
+    "jp": "仲直り",
+    "kana": "なかなおり",
+    "en": "Reconciliation",
+    "level": "lv11"
+  },
+  {
+    "jp": "仲",
+    "kana": "なか",
+    "en": "Relationship",
+    "level": "lv11"
+  },
+  {
+    "jp": "便所",
+    "kana": "べんじょ",
+    "en": "Restroom",
+    "level": "lv11"
+  },
+  {
+    "jp": "金持ち",
+    "kana": "かねもち",
+    "en": "Rich Person",
+    "level": "lv11"
+  },
+  {
+    "jp": "屋上",
+    "kana": "おくじょう",
+    "en": "Rooftop",
+    "level": "lv11"
+  },
+  {
+    "jp": "海岸",
+    "kana": "かいがん",
+    "en": "Seashore",
+    "level": "lv11"
+  },
+  {
+    "jp": "秒",
+    "kana": "びょう",
+    "en": "Second",
+    "level": "lv11"
+  },
+  {
+    "jp": "安売り",
+    "kana": "やすうり",
+    "en": "Sell Cheaply",
+    "level": "lv11"
+  },
+  {
+    "jp": "売り手",
+    "kana": "うりて",
+    "en": "Seller",
+    "level": "lv11"
+  },
+  {
+    "jp": "別の",
+    "kana": "べつの",
+    "en": "Separate",
+    "level": "lv11"
+  },
+  {
+    "jp": "別々",
+    "kana": "べつべつ",
+    "en": "Separately",
+    "level": "lv11"
+  },
+  {
+    "jp": "共有",
+    "kana": "きょうゆう",
+    "en": "Shared",
+    "level": "lv11"
+  },
+  {
+    "jp": "神道",
+    "kana": "しんとう",
+    "en": "Shinto",
+    "level": "lv11"
+  },
+  {
+    "jp": "神社",
+    "kana": "じんじゃ",
+    "en": "Shinto Shrine",
+    "level": "lv11"
+  },
+  {
+    "jp": "買い物",
+    "kana": "かいもの",
+    "en": "Shopping",
+    "level": "lv11"
+  },
+  {
+    "jp": "辺",
+    "kana": "へん",
+    "en": "Side",
+    "level": "lv11"
+  },
+  {
+    "jp": "見物",
+    "kana": "けんぶつ",
+    "en": "Sightseeing",
+    "level": "lv11"
+  },
+  {
+    "jp": "売り切れ",
+    "kana": "うりきれ",
+    "en": "Sold Out",
+    "level": "lv11"
+  },
+  {
+    "jp": "時々",
+    "kana": "ときどき",
+    "en": "Sometimes",
+    "level": "lv11"
+  },
+  {
+    "jp": "特別",
+    "kana": "とくべつ",
+    "en": "Special",
+    "level": "lv11"
+  },
+  {
+    "jp": "見事",
+    "kana": "みごと",
+    "en": "Splendid",
+    "level": "lv11"
+  },
+  {
+    "jp": "成功",
+    "kana": "せいこう",
+    "en": "Success",
+    "level": "lv11"
+  },
+  {
+    "jp": "作戦",
+    "kana": "さくせん",
+    "en": "Tactics",
+    "level": "lv11"
+  },
+  {
+    "jp": "物語",
+    "kana": "ものがたり",
+    "en": "Tale",
+    "level": "lv11"
+  },
+  {
+    "jp": "戦車",
+    "kana": "せんしゃ",
+    "en": "Tank",
+    "level": "lv11"
+  },
+  {
+    "jp": "味",
+    "kana": "あじ",
+    "en": "Taste",
+    "level": "lv11"
+  },
+  {
+    "jp": "最初",
+    "kana": "さいしょ",
+    "en": "The First",
+    "level": "lv11"
+  },
+  {
+    "jp": "初回",
+    "kana": "しょかい",
+    "en": "The First Time",
+    "level": "lv11"
+  },
+  {
+    "jp": "最低",
+    "kana": "さいてい",
+    "en": "The Lowest",
+    "level": "lv11"
+  },
+  {
+    "jp": "西洋",
+    "kana": "せいよう",
+    "en": "The West",
+    "level": "lv11"
+  },
+  {
+    "jp": "進める",
+    "kana": "すすめる",
+    "en": "To Advance Something",
+    "level": "lv11"
+  },
+  {
+    "jp": "指定する",
+    "kana": "していする",
+    "en": "To Appoint",
+    "level": "lv11"
+  },
+  {
+    "jp": "成る",
+    "kana": "なる",
+    "en": "To Become",
+    "level": "lv11"
+  },
+  {
+    "jp": "育つ",
+    "kana": "そだつ",
+    "en": "To Be Raised",
+    "level": "lv11"
+  },
+  {
+    "jp": "返る",
+    "kana": "かえる",
+    "en": "To Be Returned",
+    "level": "lv11"
+  },
+  {
+    "jp": "放送する",
+    "kana": "ほうそうする",
+    "en": "To Broadcast Something",
+    "level": "lv11"
+  },
+  {
+    "jp": "通う",
+    "kana": "かよう",
+    "en": "To Commute",
+    "level": "lv11"
+  },
+  {
+    "jp": "比べる",
+    "kana": "くらべる",
+    "en": "To Compare",
+    "level": "lv11"
+  },
+  {
+    "jp": "争う",
+    "kana": "あらそう",
+    "en": "To Compete",
+    "level": "lv11"
+  },
+  {
+    "jp": "競う",
+    "kana": "きそう",
+    "en": "To Compete",
+    "level": "lv11"
+  },
+  {
+    "jp": "集中する",
+    "kana": "しゅうちゅうする",
+    "en": "To Concentrate",
+    "level": "lv11"
+  },
+  {
+    "jp": "欠かす",
+    "kana": "かかす",
+    "en": "To Do Without",
+    "level": "lv11"
+  },
+  {
+    "jp": "追う",
+    "kana": "おう",
+    "en": "To Follow",
+    "level": "lv11"
+  },
+  {
+    "jp": "保持する",
+    "kana": "ほじする",
+    "en": "To Keep",
+    "level": "lv11"
+  },
+  {
+    "jp": "欠く",
+    "kana": "かく",
+    "en": "To Lack Something",
+    "level": "lv11"
+  },
+  {
+    "jp": "開放する",
+    "kana": "かいほうする",
+    "en": "To Open Something Up",
+    "level": "lv11"
+  },
+  {
+    "jp": "拾う",
+    "kana": "ひろう",
+    "en": "To Pick Something Up",
+    "level": "lv11"
+  },
+  {
+    "jp": "指す",
+    "kana": "さす",
+    "en": "To Point",
+    "level": "lv11"
+  },
+  {
+    "jp": "注ぐ",
+    "kana": "そそぐ",
+    "en": "To Pour",
+    "level": "lv11"
+  },
+  {
+    "jp": "気付く",
+    "kana": "きづく",
+    "en": "To Realize",
+    "level": "lv11"
+  },
+  {
+    "jp": "放す",
+    "kana": "はなす",
+    "en": "To Release",
+    "level": "lv11"
+  },
+  {
+    "jp": "転がす",
+    "kana": "ころがす",
+    "en": "To Roll Something",
+    "level": "lv11"
+  },
+  {
+    "jp": "見送る",
+    "kana": "みおくる",
+    "en": "To See Off",
+    "level": "lv11"
+  },
+  {
+    "jp": "苦しむ",
+    "kana": "くるしむ",
+    "en": "To Suffer",
+    "level": "lv11"
+  },
+  {
+    "jp": "伝える",
+    "kana": "つたえる",
+    "en": "To Transmit",
+    "level": "lv11"
+  },
+  {
+    "jp": "試す",
+    "kana": "ためす",
+    "en": "To Try Something Out",
+    "level": "lv11"
+  },
+  {
+    "jp": "働く",
+    "kana": "はたらく",
+    "en": "To Work",
+    "level": "lv11"
+  },
+  {
+    "jp": "利く",
+    "kana": "きく",
+    "en": "To Work Well",
+    "level": "lv11"
+  },
+  {
+    "jp": "意外",
+    "kana": "いがい",
+    "en": "Unexpected",
+    "level": "lv11"
+  },
+  {
+    "jp": "乗り物",
+    "kana": "のりもの",
+    "en": "Vehicle",
+    "level": "lv11"
+  },
+  {
+    "jp": "勝ち",
+    "kana": "かち",
+    "en": "Victory",
+    "level": "lv11"
+  },
+  {
+    "jp": "戦争",
+    "kana": "せんそう",
+    "en": "War",
+    "level": "lv11"
+  },
+  {
+    "jp": "波",
+    "kana": "なみ",
+    "en": "Wave",
+    "level": "lv11"
+  },
+  {
+    "jp": "洋食",
+    "kana": "ようしょく",
+    "en": "Western Food",
+    "level": "lv11"
+  },
+  {
+    "jp": "洋風",
+    "kana": "ようふう",
+    "en": "Western Style",
+    "level": "lv11"
+  },
+  {
+    "jp": "洋室",
+    "kana": "ようしつ",
+    "en": "Western Style Room",
+    "level": "lv11"
+  },
+  {
+    "jp": "誰",
+    "kana": "だれ",
+    "en": "Who",
+    "level": "lv11"
+  }
+]
