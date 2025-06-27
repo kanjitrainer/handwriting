@@ -10,6 +10,24 @@
   <!-- Add audio elements for sounds -->
   <audio id="buttonSound" preload="auto">
     <source src="https://www.soundjay.com/buttons/sounds/button-28.mp3" type="audio/mpeg">
+    </audio>
+     <audio id="successSound" preload="auto">
+    <source src="https://www.soundjay.com/buttons/sounds/button-29.mp3" type="audio/mpeg">
+  </audio>
+  <audio id="struggleSound" preload="auto">
+    <source src="https://www.soundjay.com/buttons/sounds/button-26.mp3" type="audio/mpeg">
+  </audio>
+  <audio id="revealSound" preload="auto">
+    <source src="https://www.soundjay.com/communication/sounds/writing-signature-1.mp3" type="audio/mpeg">
+  </audio>
+  <audio id="resetSound" preload="auto">
+    <source src="https://www.soundjay.com/buttons/sounds/button-17.mp3" type="audio/mpeg">
+  </audio>
+  <audio id="strokeSound" preload="auto">
+    <source src="https://www.soundjay.com/buttons/sounds/button-30.mp3" type="audio/mpeg">
+  </audio>
+  <audio id="furiganaSound" preload="auto">
+    <source src="https://www.soundjay.com/buttons/sounds/button-16a.mp3" type="audio/mpeg">
   </audio>
 
   <script>
@@ -178,6 +196,11 @@ document.fonts.ready.then(() => {
         audio.currentTime = 0; // Reset to beginning
         audio.play().catch(e => console.log('Audio play failed:', e));
       }
+      function playActionSound(action) {
+        const audio = document.getElementById(`${action}Sound`);
+        audio.currentTime = 0; // Reset to beginning
+        audio.play().catch(e => console.log(`${action} Audio play failed:`, e));
+      }
 
       let recalledCount = Number(localStorage.getItem('recalledCount')) || 0;
       let struggledCount = Number(localStorage.getItem('struggledCount')) || 0;
@@ -320,19 +343,23 @@ document.fonts.ready.then(() => {
       document.addEventListener("keydown", function(e) {
          if (e.code === "Enter") {
     e.preventDefault(); // Add this line!
+    playActionSound('stroke');
     // Show animation for the current word's kanji
     const word = vocabList[currentIndex].jp;
     showKanjiAnimation(word);
 }
         if (e.code === "ArrowLeft") {
+        playActionSound('struggle');
       struggledCount++;
       updateTracker();
       showNext();
     } else if (e.code === "ArrowRight") {
+      playActionSound('success');
       recalledCount++;
       updateTracker();
       showNext();
     } else if (e.code === "Delete" || e.code === "Delete") {
+      playActionSound('reset');
       recalledCount = 0;
       struggledCount = 0;
       updateTracker();
@@ -341,6 +368,7 @@ document.fonts.ready.then(() => {
     }
         if (e.code === "Space") {
           e.preventDefault();
+          playActionSound('reveal');
           if (showingAnswer) {
             showAnswer();
           } else {
@@ -348,6 +376,7 @@ document.fonts.ready.then(() => {
           }
         } else if (e.code === "KeyF") {
           showFurigana = !showFurigana;
+          playActionSound('furigana');
           if (showingAnswer) {
             const furiganaEl = document.getElementById("furigana");
             const wordObj = vocabList[currentIndex];
