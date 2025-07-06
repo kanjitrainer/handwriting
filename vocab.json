@@ -7486,5 +7486,869 @@
     "kana": "だれ",
     "en": "Who",
     "level": "lv11"
+  },
+  {
+    "jp": "行動",
+    "kana": "こうどう",
+    "en": "Action",
+    "level": "lv12"
+  },
+  {
+    "jp": "活動",
+    "kana": "かつどう",
+    "en": "Activity",
+    "level": "lv12"
+  },
+  {
+    "jp": "空港",
+    "kana": "くうこう",
+    "en": "Airport",
+    "level": "lv12"
+  },
+  {
+    "jp": "全員",
+    "kana": "ぜんいん",
+    "en": "All Members",
+    "level": "lv12"
+  },
+  {
+    "jp": "もう",
+    "kana": "もう",
+    "en": "Already",
+    "level": "lv12"
+  },
+  {
+    "jp": "動物",
+    "kana": "どうぶつ",
+    "en": "Animal",
+    "level": "lv12"
+  },
+  {
+    "jp": "鳴き声",
+    "kana": "なきごえ",
+    "en": "Animal Cry",
+    "level": "lv12"
+  },
+  {
+    "jp": "勝手",
+    "kana": "かって",
+    "en": "As One Pleases",
+    "level": "lv12"
+  },
+  {
+    "jp": "悪い",
+    "kana": "わるい",
+    "en": "Bad",
+    "level": "lv12"
+  },
+  {
+    "jp": "悪人",
+    "kana": "あくにん",
+    "en": "Bad Person",
+    "level": "lv12"
+  },
+  {
+    "jp": "野球",
+    "kana": "やきゅう",
+    "en": "Baseball",
+    "level": "lv12"
+  },
+  {
+    "jp": "飲み物",
+    "kana": "のみもの",
+    "en": "Beverage",
+    "level": "lv12"
+  },
+  {
+    "jp": "酒飲み",
+    "kana": "さけのみ",
+    "en": "Boozer",
+    "level": "lv12"
+  },
+  {
+    "jp": "親分",
+    "kana": "おやぶん",
+    "en": "Boss",
+    "level": "lv12"
+  },
+  {
+    "jp": "息",
+    "kana": "いき",
+    "en": "Breath",
+    "level": "lv12"
+  },
+  {
+    "jp": "商売",
+    "kana": "しょうばい",
+    "en": "Business",
+    "level": "lv12"
+  },
+  {
+    "jp": "心配事",
+    "kana": "しんぱいごと",
+    "en": "Cares",
+    "level": "lv12"
+  },
+  {
+    "jp": "虫歯",
+    "kana": "むしば",
+    "en": "Cavity",
+    "level": "lv12"
+  },
+  {
+    "jp": "第二章",
+    "kana": "だいにしょう",
+    "en": "Chapter Two",
+    "level": "lv12"
+  },
+  {
+    "jp": "陽気",
+    "kana": "ようき",
+    "en": "Cheerful",
+    "level": "lv12"
+  },
+  {
+    "jp": "童話",
+    "kana": "どうわ",
+    "en": "Children's Story",
+    "level": "lv12"
+  },
+  {
+    "jp": "音読み",
+    "kana": "おんよみ",
+    "en": "Chinese Reading",
+    "level": "lv12"
+  },
+  {
+    "jp": "都市",
+    "kana": "とし",
+    "en": "City",
+    "level": "lv12"
+  },
+  {
+    "jp": "部室",
+    "kana": "ぶしつ",
+    "en": "Clubroom",
+    "level": "lv12"
+  },
+  {
+    "jp": "寒い",
+    "kana": "さむい",
+    "en": "Cold",
+    "level": "lv12"
+  },
+  {
+    "jp": "会社員",
+    "kana": "かいしゃいん",
+    "en": "Company Employee",
+    "level": "lv12"
+  },
+  {
+    "jp": "落ち",
+    "kana": "おち",
+    "en": "Conclusion",
+    "level": "lv12"
+  },
+  {
+    "jp": "大根",
+    "kana": "だいこん",
+    "en": "Daikon",
+    "level": "lv12"
+  },
+  {
+    "jp": "深い",
+    "kana": "ふかい",
+    "en": "Deep",
+    "level": "lv12"
+  },
+  {
+    "jp": "最深",
+    "kana": "さいしん",
+    "en": "Deepest",
+    "level": "lv12"
+  },
+  {
+    "jp": "歯医者",
+    "kana": "はいしゃ",
+    "en": "Dentist",
+    "level": "lv12"
+  },
+  {
+    "jp": "消化",
+    "kana": "しょうか",
+    "en": "Digestion",
+    "level": "lv12"
+  },
+  {
+    "jp": "二倍",
+    "kana": "にばい",
+    "en": "Double",
+    "level": "lv12"
+  },
+  {
+    "jp": "運転手",
+    "kana": "うんてんしゅ",
+    "en": "Driver",
+    "level": "lv12"
+  },
+  {
+    "jp": "社員",
+    "kana": "しゃいん",
+    "en": "Employee",
+    "level": "lv12"
+  },
+  {
+    "jp": "民族",
+    "kana": "みんぞく",
+    "en": "Ethnic Group",
+    "level": "lv12"
+  },
+  {
+    "jp": "運動",
+    "kana": "うんどう",
+    "en": "Exercise",
+    "level": "lv12"
+  },
+  {
+    "jp": "期待",
+    "kana": "きたい",
+    "en": "Expectation",
+    "level": "lv12"
+  },
+  {
+    "jp": "落ち葉",
+    "kana": "おちば",
+    "en": "Fallen Leaves",
+    "level": "lv12"
+  },
+  {
+    "jp": "家族",
+    "kana": "かぞく",
+    "en": "Family",
+    "level": "lv12"
+  },
+  {
+    "jp": "家庭",
+    "kana": "かてい",
+    "en": "Family",
+    "level": "lv12"
+  },
+  {
+    "jp": "父親",
+    "kana": "ちちおや",
+    "en": "Father",
+    "level": "lv12"
+  },
+  {
+    "jp": "疲労",
+    "kana": "ひろう",
+    "en": "Fatigue",
+    "level": "lv12"
+  },
+  {
+    "jp": "祭",
+    "kana": "まつり",
+    "en": "Festival",
+    "level": "lv12"
+  },
+  {
+    "jp": "祭日",
+    "kana": "さいじつ",
+    "en": "Festival Day",
+    "level": "lv12"
+  },
+  {
+    "jp": "一階",
+    "kana": "いっかい",
+    "en": "First Floor",
+    "level": "lv12"
+  },
+  {
+    "jp": "第一位",
+    "kana": "だいいちい",
+    "en": "First Place",
+    "level": "lv12"
+  },
+  {
+    "jp": "一流",
+    "kana": "いちりゅう",
+    "en": "First Rate",
+    "level": "lv12"
+  },
+  {
+    "jp": "〜階",
+    "kana": "かい",
+    "en": "Floor",
+    "level": "lv12"
+  },
+  {
+    "jp": "四十二階",
+    "kana": "よんじゅうにかい",
+    "en": "Forty Second Floor",
+    "level": "lv12"
+  },
+  {
+    "jp": "庭",
+    "kana": "にわ",
+    "en": "Garden",
+    "level": "lv12"
+  },
+  {
+    "jp": "集まり",
+    "kana": "あつまり",
+    "en": "Gathering",
+    "level": "lv12"
+  },
+  {
+    "jp": "大学院生",
+    "kana": "だいがくいんせい",
+    "en": "Graduate Student",
+    "level": "lv12"
+  },
+  {
+    "jp": "港",
+    "kana": "みなと",
+    "en": "Harbor",
+    "level": "lv12"
+  },
+  {
+    "jp": "彼",
+    "kana": "かれ",
+    "en": "He",
+    "level": "lv12"
+  },
+  {
+    "jp": "広島",
+    "kana": "ひろしま",
+    "en": "Hiroshima",
+    "level": "lv12"
+  },
+  {
+    "jp": "温泉",
+    "kana": "おんせん",
+    "en": "Hot Springs",
+    "level": "lv12"
+  },
+  {
+    "jp": "湯",
+    "kana": "ゆ",
+    "en": "Hot Water",
+    "level": "lv12"
+  },
+  {
+    "jp": "暑い",
+    "kana": "あつい",
+    "en": "Hot Weather",
+    "level": "lv12"
+  },
+  {
+    "jp": "僕",
+    "kana": "ぼく",
+    "en": "I",
+    "level": "lv12"
+  },
+  {
+    "jp": "利息",
+    "kana": "りそく",
+    "en": "Interest",
+    "level": "lv12"
+  },
+  {
+    "jp": "島",
+    "kana": "しま",
+    "en": "Island",
+    "level": "lv12"
+  },
+  {
+    "jp": "顔文字",
+    "kana": "かおもじ",
+    "en": "Kaomoji",
+    "level": "lv12"
+  },
+  {
+    "jp": "京都",
+    "kana": "きょうと",
+    "en": "Kyoto",
+    "level": "lv12"
+  },
+  {
+    "jp": "終電",
+    "kana": "しゅうでん",
+    "en": "Last Train",
+    "level": "lv12"
+  },
+  {
+    "jp": "一代",
+    "kana": "いちだい",
+    "en": "Lifetime",
+    "level": "lv12"
+  },
+  {
+    "jp": "運",
+    "kana": "うん",
+    "en": "Luck",
+    "level": "lv12"
+  },
+  {
+    "jp": "本流",
+    "kana": "ほんりゅう",
+    "en": "Mainstream",
+    "level": "lv12"
+  },
+  {
+    "jp": "会員",
+    "kana": "かいいん",
+    "en": "Member",
+    "level": "lv12"
+  },
+  {
+    "jp": "商人",
+    "kana": "しょうにん",
+    "en": "Merchant",
+    "level": "lv12"
+  },
+  {
+    "jp": "深夜",
+    "kana": "しんや",
+    "en": "Middle Of The Night",
+    "level": "lv12"
+  },
+  {
+    "jp": "母親",
+    "kana": "ははおや",
+    "en": "Mother",
+    "level": "lv12"
+  },
+  {
+    "jp": "登山",
+    "kana": "とざん",
+    "en": "Mountain Climbing",
+    "level": "lv12"
+  },
+  {
+    "jp": "都合",
+    "kana": "つごう",
+    "en": "One's Convenience",
+    "level": "lv12"
+  },
+  {
+    "jp": "根気",
+    "kana": "こんき",
+    "en": "Patience",
+    "level": "lv12"
+  },
+  {
+    "jp": "期間",
+    "kana": "きかん",
+    "en": "Period",
+    "level": "lv12"
+  },
+  {
+    "jp": "植物",
+    "kana": "しょくぶつ",
+    "en": "Plant",
+    "level": "lv12"
+  },
+  {
+    "jp": "屋根",
+    "kana": "やね",
+    "en": "Roof",
+    "level": "lv12"
+  },
+  {
+    "jp": "根",
+    "kana": "ね",
+    "en": "Root",
+    "level": "lv12"
+  },
+  {
+    "jp": "根本",
+    "kana": "こんぽん",
+    "en": "Root",
+    "level": "lv12"
+  },
+  {
+    "jp": "船員",
+    "kana": "せんいん",
+    "en": "Sailor",
+    "level": "lv12"
+  },
+  {
+    "jp": "学期",
+    "kana": "がっき",
+    "en": "School Term",
+    "level": "lv12"
+  },
+  {
+    "jp": "二階",
+    "kana": "にかい",
+    "en": "Second Floor",
+    "level": "lv12"
+  },
+  {
+    "jp": "店員",
+    "kana": "てんいん",
+    "en": "Shop Staff",
+    "level": "lv12"
+  },
+  {
+    "jp": "短い",
+    "kana": "みじかい",
+    "en": "Short",
+    "level": "lv12"
+  },
+  {
+    "jp": "短期",
+    "kana": "たんき",
+    "en": "Short Period",
+    "level": "lv12"
+  },
+  {
+    "jp": "短刀",
+    "kana": "たんとう",
+    "en": "Short Sword",
+    "level": "lv12"
+  },
+  {
+    "jp": "解答",
+    "kana": "かいとう",
+    "en": "Solving",
+    "level": "lv12"
+  },
+  {
+    "jp": "誰か",
+    "kana": "だれか",
+    "en": "Someone",
+    "level": "lv12"
+  },
+  {
+    "jp": "息子",
+    "kana": "むすこ",
+    "en": "Son",
+    "level": "lv12"
+  },
+  {
+    "jp": "球",
+    "kana": "たま",
+    "en": "Sphere",
+    "level": "lv12"
+  },
+  {
+    "jp": "泉",
+    "kana": "いずみ",
+    "en": "Spring",
+    "level": "lv12"
+  },
+  {
+    "jp": "着々",
+    "kana": "ちゃくちゃく",
+    "en": "Steadily",
+    "level": "lv12"
+  },
+  {
+    "jp": "湯気",
+    "kana": "ゆげ",
+    "en": "Steam",
+    "level": "lv12"
+  },
+  {
+    "jp": "勉強",
+    "kana": "べんきょう",
+    "en": "Studies",
+    "level": "lv12"
+  },
+  {
+    "jp": "太陽",
+    "kana": "たいよう",
+    "en": "Sun",
+    "level": "lv12"
+  },
+  {
+    "jp": "水泳",
+    "kana": "すいえい",
+    "en": "Swimming",
+    "level": "lv12"
+  },
+  {
+    "jp": "茶の湯",
+    "kana": "ちゃのゆ",
+    "en": "Tea Ceremony",
+    "level": "lv12"
+  },
+  {
+    "jp": "気温",
+    "kana": "きおん",
+    "en": "Temperature",
+    "level": "lv12"
+  },
+  {
+    "jp": "温度",
+    "kana": "おんど",
+    "en": "Temperature",
+    "level": "lv12"
+  },
+  {
+    "jp": "地球",
+    "kana": "ちきゅう",
+    "en": "The Earth",
+    "level": "lv12"
+  },
+  {
+    "jp": "終わり",
+    "kana": "おわり",
+    "en": "The End",
+    "level": "lv12"
+  },
+  {
+    "jp": "第一",
+    "kana": "だいいち",
+    "en": "The First",
+    "level": "lv12"
+  },
+  {
+    "jp": "三番目",
+    "kana": "さんばんめ",
+    "en": "The Third Thing",
+    "level": "lv12"
+  },
+  {
+    "jp": "最悪",
+    "kana": "さいあく",
+    "en": "The Worst",
+    "level": "lv12"
+  },
+  {
+    "jp": "彼ら",
+    "kana": "かれら",
+    "en": "They",
+    "level": "lv12"
+  },
+  {
+    "jp": "時期",
+    "kana": "じき",
+    "en": "Time",
+    "level": "lv12"
+  },
+  {
+    "jp": "〜倍",
+    "kana": "ばい",
+    "en": "Times",
+    "level": "lv12"
+  },
+  {
+    "jp": "決まる",
+    "kana": "きまる",
+    "en": "To Be Decided",
+    "level": "lv12"
+  },
+  {
+    "jp": "始まる",
+    "kana": "はじまる",
+    "en": "To Begin",
+    "level": "lv12"
+  },
+  {
+    "jp": "聞こえる",
+    "kana": "きこえる",
+    "en": "To Be Hearable",
+    "level": "lv12"
+  },
+  {
+    "jp": "伝わる",
+    "kana": "つたわる",
+    "en": "To Be Transmitted",
+    "level": "lv12"
+  },
+  {
+    "jp": "登る",
+    "kana": "のぼる",
+    "en": "To Climb",
+    "level": "lv12"
+  },
+  {
+    "jp": "取れる",
+    "kana": "とれる",
+    "en": "To Come Off",
+    "level": "lv12"
+  },
+  {
+    "jp": "集まる",
+    "kana": "あつまる",
+    "en": "To Come Together",
+    "level": "lv12"
+  },
+  {
+    "jp": "要求する",
+    "kana": "ようきゅうする",
+    "en": "To Demand Something",
+    "level": "lv12"
+  },
+  {
+    "jp": "落とす",
+    "kana": "おとす",
+    "en": "To Drop Something",
+    "level": "lv12"
+  },
+  {
+    "jp": "消す",
+    "kana": "けす",
+    "en": "To Extinguish Something",
+    "level": "lv12"
+  },
+  {
+    "jp": "転ぶ",
+    "kana": "ころぶ",
+    "en": "To Fall Over",
+    "level": "lv12"
+  },
+  {
+    "jp": "終える",
+    "kana": "おえる",
+    "en": "To Finish Something",
+    "level": "lv12"
+  },
+  {
+    "jp": "流す",
+    "kana": "ながす",
+    "en": "To Flush Something",
+    "level": "lv12"
+  },
+  {
+    "jp": "苦しめる",
+    "kana": "くるしめる",
+    "en": "To Hurt Someone",
+    "level": "lv12"
+  },
+  {
+    "jp": "東京都",
+    "kana": "とうきょうと",
+    "en": "Tokyo Metropolis",
+    "level": "lv12"
+  },
+  {
+    "jp": "動く",
+    "kana": "うごく",
+    "en": "To Move",
+    "level": "lv12"
+  },
+  {
+    "jp": "起こる",
+    "kana": "おこる",
+    "en": "To Occur",
+    "level": "lv12"
+  },
+  {
+    "jp": "開く",
+    "kana": "あく",
+    "en": "To Open",
+    "level": "lv12"
+  },
+  {
+    "jp": "歯",
+    "kana": "は",
+    "en": "Tooth",
+    "level": "lv12"
+  },
+  {
+    "jp": "植える",
+    "kana": "うえる",
+    "en": "To Plant Something",
+    "level": "lv12"
+  },
+  {
+    "jp": "映す",
+    "kana": "うつす",
+    "en": "To Project",
+    "level": "lv12"
+  },
+  {
+    "jp": "歌う",
+    "kana": "うたう",
+    "en": "To Sing",
+    "level": "lv12"
+  },
+  {
+    "jp": "鳴る",
+    "kana": "なる",
+    "en": "To Sound",
+    "level": "lv12"
+  },
+  {
+    "jp": "合う",
+    "kana": "あう",
+    "en": "To Suit",
+    "level": "lv12"
+  },
+  {
+    "jp": "待つ",
+    "kana": "まつ",
+    "en": "To Wait",
+    "level": "lv12"
+  },
+  {
+    "jp": "着る",
+    "kana": "きる",
+    "en": "To Wear",
+    "level": "lv12"
+  },
+  {
+    "jp": "心配する",
+    "kana": "しんぱいする",
+    "en": "To Worry",
+    "level": "lv12"
+  },
+  {
+    "jp": "流行",
+    "kana": "りゅうこう",
+    "en": "Trend",
+    "level": "lv12"
+  },
+  {
+    "jp": "旅",
+    "kana": "たび",
+    "en": "Trip",
+    "level": "lv12"
+  },
+  {
+    "jp": "旅行",
+    "kana": "りょこう",
+    "en": "Trip",
+    "level": "lv12"
+  },
+  {
+    "jp": "都会",
+    "kana": "とかい",
+    "en": "Urban Area",
+    "level": "lv12"
+  },
+  {
+    "jp": "温かい",
+    "kana": "あたたかい",
+    "en": "Warm",
+    "level": "lv12"
+  },
+  {
+    "jp": "水深",
+    "kana": "すいしん",
+    "en": "Water Depth",
+    "level": "lv12"
+  },
+  {
+    "jp": "話し方",
+    "kana": "はなしかた",
+    "en": "Way Of Speaking",
+    "level": "lv12"
+  },
+  {
+    "jp": "言葉",
+    "kana": "ことば",
+    "en": "Word",
+    "level": "lv12"
+  },
+  {
+    "jp": "文章",
+    "kana": "ぶんしょう",
+    "en": "Writing",
+    "level": "lv12"
   }
 ]

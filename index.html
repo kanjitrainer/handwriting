@@ -129,6 +129,7 @@ document.fonts.ready.then(() => {
     <button id="lv9-btn" class="level-btn">九</button>
     <button id="lv10-btn" class="level-btn">十</button>
     <button id="lv11-btn" class="level-btn" style="letter-spacing: -2px; font-size: 0.5em;">十一</button>
+    <button id="lv12-btn" class="level-btn" style="letter-spacing: -2px; font-size: 0.5em;">十二</button>
     </div>
     <div style="
   position: absolute;
@@ -334,6 +335,10 @@ document.fonts.ready.then(() => {
       document.getElementById("lv11-btn").addEventListener("click", () => {
         playButtonSound();
         setLevel('lv11');
+      });
+      document.getElementById("lv12-btn").addEventListener("click", () => {
+        playButtonSound();
+        setLevel('lv12');
       });
       document.getElementById("all-btn").addEventListener("click", () => {
         playButtonSound();
