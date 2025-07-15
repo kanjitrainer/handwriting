@@ -130,6 +130,7 @@ document.fonts.ready.then(() => {
     <button id="lv10-btn" class="level-btn">十</button>
     <button id="lv11-btn" class="level-btn" style="letter-spacing: -2px; font-size: 0.5em;">十一</button>
     <button id="lv12-btn" class="level-btn" style="letter-spacing: -2px; font-size: 0.5em;">十二</button>
+    <button id="lv13-btn" class="level-btn" style="letter-spacing: -2px; font-size: 0.5em;">十三</button>
     </div>
     <div style="
   position: absolute;
@@ -273,7 +274,7 @@ document.fonts.ready.then(() => {
 
       function setLevel(level) {
         currentLevel = level;
-        const levelMap = ["lv1","lv2","lv3","lv4","lv5","lv6","lv7","lv8","lv9","lv10","lv11","lv12"];
+        const levelMap = ["lv1","lv2","lv3","lv4","lv5","lv6","lv7","lv8","lv9","lv10","lv11","lv12","lv13"];
         if (levelMap.includes(level)) {
           vocabList = fullVocabList.filter(v => v.level === level);
         } else {
@@ -339,6 +340,10 @@ document.fonts.ready.then(() => {
       document.getElementById("lv12-btn").addEventListener("click", () => {
         playButtonSound();
         setLevel('lv12');
+      });
+      document.getElementById("lv13-btn").addEventListener("click", () => {
+        playButtonSound();
+        setLevel('lv13');
       });
       document.getElementById("all-btn").addEventListener("click", () => {
         playButtonSound();

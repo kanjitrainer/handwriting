@@ -8350,5 +8350,785 @@
     "kana": "ぶんしょう",
     "en": "Writing",
     "level": "lv12"
+  },
+  {
+    "jp": "感心",
+    "kana": "かんしん",
+    "en": "Admiration",
+    "level": "lv13"
+  },
+  {
+    "jp": "入館料",
+    "kana": "にゅうかんりょう",
+    "en": "Admission Fee",
+    "level": "lv13"
+  },
+  {
+    "jp": "養子",
+    "kana": "ようし",
+    "en": "Adopted Child",
+    "level": "lv13"
+  },
+  {
+    "jp": "マンション",
+    "kana": "マンション",
+    "en": "Apartment Building",
+    "level": "lv13"
+  },
+  {
+    "jp": "整理",
+    "kana": "せいり",
+    "en": "Arrangement",
+    "level": "lv13"
+  },
+  {
+    "jp": "〜放題",
+    "kana": "ほうだい",
+    "en": "As Much As You Want",
+    "level": "lv13"
+  },
+  {
+    "jp": "暗殺",
+    "kana": "あんさつ",
+    "en": "Assassination",
+    "level": "lv13"
+  },
+  {
+    "jp": "想定",
+    "kana": "そうてい",
+    "en": "Assumption",
+    "level": "lv13"
+  },
+  {
+    "jp": "初めに",
+    "kana": "はじめに",
+    "en": "At First",
+    "level": "lv13"
+  },
+  {
+    "jp": "銀行",
+    "kana": "ぎんこう",
+    "en": "Bank",
+    "level": "lv13"
+  },
+  {
+    "jp": "彼氏",
+    "kana": "かれし",
+    "en": "Boyfriend",
+    "level": "lv13"
+  },
+  {
+    "jp": "橋",
+    "kana": "はし",
+    "en": "Bridge",
+    "level": "lv13"
+  },
+  {
+    "jp": "缶ビール",
+    "kana": "かんびーる",
+    "en": "Can Beer",
+    "level": "lv13"
+  },
+  {
+    "jp": "賞金",
+    "kana": "しょうきん",
+    "en": "Cash Prize",
+    "level": "lv13"
+  },
+  {
+    "jp": "事情",
+    "kana": "じじょう",
+    "en": "Circumstances",
+    "level": "lv13"
+  },
+  {
+    "jp": "器",
+    "kana": "うつわ",
+    "en": "Container",
+    "level": "lv13"
+  },
+  {
+    "jp": "大会",
+    "kana": "たいかい",
+    "en": "Convention",
+    "level": "lv13"
+  },
+  {
+    "jp": "暗い",
+    "kana": "くらい",
+    "en": "Dark",
+    "level": "lv13"
+  },
+  {
+    "jp": "器用",
+    "kana": "きよう",
+    "en": "Dextrous",
+    "level": "lv13"
+  },
+  {
+    "jp": "疑問",
+    "kana": "ぎもん",
+    "en": "Doubt",
+    "level": "lv13"
+  },
+  {
+    "jp": "ワンピース",
+    "kana": "ワンピース",
+    "en": "Dress",
+    "level": "lv13"
+  },
+  {
+    "jp": "酒好き",
+    "kana": "さけずき",
+    "en": "Drinker",
+    "level": "lv13"
+  },
+  {
+    "jp": "飲み会",
+    "kana": "のみかい",
+    "en": "Drinking Party",
+    "level": "lv13"
+  },
+  {
+    "jp": "空き缶",
+    "kana": "あきかん",
+    "en": "Empty Can",
+    "level": "lv13"
+  },
+  {
+    "jp": "熱心",
+    "kana": "ねっしん",
+    "en": "Enthusiasm",
+    "level": "lv13"
+  },
+  {
+    "jp": "全然",
+    "kana": "ぜんぜん",
+    "en": "Entirely",
+    "level": "lv13"
+  },
+  {
+    "jp": "皆さん",
+    "kana": "みなさん",
+    "en": "Everyone",
+    "level": "lv13"
+  },
+  {
+    "jp": "予想",
+    "kana": "よそう",
+    "en": "Expectation",
+    "level": "lv13"
+  },
+  {
+    "jp": "表情",
+    "kana": "ひょうじょう",
+    "en": "Facial Expression",
+    "level": "lv13"
+  },
+  {
+    "jp": "料金",
+    "kana": "りょうきん",
+    "en": "Fee",
+    "level": "lv13"
+  },
+  {
+    "jp": "感じ",
+    "kana": "かんじ",
+    "en": "Feeling",
+    "level": "lv13"
+  },
+  {
+    "jp": "感情",
+    "kana": "かんじょう",
+    "en": "Feeling",
+    "level": "lv13"
+  },
+  {
+    "jp": "熱",
+    "kana": "ねつ",
+    "en": "Fever",
+    "level": "lv13"
+  },
+  {
+    "jp": "指先",
+    "kana": "ゆびさき",
+    "en": "Fingertip",
+    "level": "lv13"
+  },
+  {
+    "jp": "〜様",
+    "kana": "さま",
+    "en": "Formal Name Ender",
+    "level": "lv13"
+  },
+  {
+    "jp": "初めて",
+    "kana": "はじめて",
+    "en": "For The First Time",
+    "level": "lv13"
+  },
+  {
+    "jp": "仲良く",
+    "kana": "なかよく",
+    "en": "Friendly",
+    "level": "lv13"
+  },
+  {
+    "jp": "駅前",
+    "kana": "えきまえ",
+    "en": "Front Of Station",
+    "level": "lv13"
+  },
+  {
+    "jp": "会",
+    "kana": "かい",
+    "en": "Gathering",
+    "level": "lv13"
+  },
+  {
+    "jp": "目標",
+    "kana": "もくひょう",
+    "en": "Goal",
+    "level": "lv13"
+  },
+  {
+    "jp": "神様",
+    "kana": "かみさま",
+    "en": "God",
+    "level": "lv13"
+  },
+  {
+    "jp": "女神",
+    "kana": "めがみ",
+    "en": "Goddess",
+    "level": "lv13"
+  },
+  {
+    "jp": "仲良し",
+    "kana": "なかよし",
+    "en": "Good Friend",
+    "level": "lv13"
+  },
+  {
+    "jp": "緑",
+    "kana": "みどり",
+    "en": "Green",
+    "level": "lv13"
+  },
+  {
+    "jp": "緑色",
+    "kana": "みどりいろ",
+    "en": "Green",
+    "level": "lv13"
+  },
+  {
+    "jp": "宿題",
+    "kana": "しゅくだい",
+    "en": "Homework",
+    "level": "lv13"
+  },
+  {
+    "jp": "熱い",
+    "kana": "あつい",
+    "en": "Hot Thing",
+    "level": "lv13"
+  },
+  {
+    "jp": "人情",
+    "kana": "にんじょう",
+    "en": "Human Feelings",
+    "level": "lv13"
+  },
+  {
+    "jp": "億",
+    "kana": "おく",
+    "en": "Hundred Million",
+    "level": "lv13"
+  },
+  {
+    "jp": "俺",
+    "kana": "おれ",
+    "en": "I",
+    "level": "lv13"
+  },
+  {
+    "jp": "思想",
+    "kana": "しそう",
+    "en": "Ideology",
+    "level": "lv13"
+  },
+  {
+    "jp": "感想",
+    "kana": "かんそう",
+    "en": "Impressions",
+    "level": "lv13"
+  },
+  {
+    "jp": "旅館",
+    "kana": "りょかん",
+    "en": "Japanese Inn",
+    "level": "lv13"
+  },
+  {
+    "jp": "神風",
+    "kana": "かみかぜ",
+    "en": "Kamikaze",
+    "level": "lv13"
+  },
+  {
+    "jp": "王様",
+    "kana": "おうさま",
+    "en": "King",
+    "level": "lv13"
+  },
+  {
+    "jp": "左利き",
+    "kana": "ひだりきき",
+    "en": "Left Handed",
+    "level": "lv13"
+  },
+  {
+    "jp": "小指",
+    "kana": "こゆび",
+    "en": "Little Finger",
+    "level": "lv13"
+  },
+  {
+    "jp": "宿",
+    "kana": "やど",
+    "en": "Lodging",
+    "level": "lv13"
+  },
+  {
+    "jp": "暗記",
+    "kana": "あんき",
+    "en": "Memorization",
+    "level": "lv13"
+  },
+  {
+    "jp": "水銀",
+    "kana": "すいぎん",
+    "en": "Mercury",
+    "level": "lv13"
+  },
+  {
+    "jp": "中指",
+    "kana": "なかゆび",
+    "en": "Middle Finger",
+    "level": "lv13"
+  },
+  {
+    "jp": "鏡",
+    "kana": "かがみ",
+    "en": "Mirror",
+    "level": "lv13"
+  },
+  {
+    "jp": "映画館",
+    "kana": "えいがかん",
+    "en": "Movie Theater",
+    "level": "lv13"
+  },
+  {
+    "jp": "殺人",
+    "kana": "さつじん",
+    "en": "Murder",
+    "level": "lv13"
+  },
+  {
+    "jp": "楽器",
+    "kana": "がっき",
+    "en": "Musical Instrument",
+    "level": "lv13"
+  },
+  {
+    "jp": "当然",
+    "kana": "とうぜん",
+    "en": "Natural",
+    "level": "lv13"
+  },
+  {
+    "jp": "自然",
+    "kana": "しぜん",
+    "en": "Nature",
+    "level": "lv13"
+  },
+  {
+    "jp": "一億",
+    "kana": "いちおく",
+    "en": "One Hundred Million",
+    "level": "lv13"
+  },
+  {
+    "jp": "一億円",
+    "kana": "いちおくえん",
+    "en": "One Hundred Million Yen",
+    "level": "lv13"
+  },
+  {
+    "jp": "情熱",
+    "kana": "じょうねつ",
+    "en": "Passion",
+    "level": "lv13"
+  },
+  {
+    "jp": "体育",
+    "kana": "たいいく",
+    "en": "PE Class",
+    "level": "lv13"
+  },
+  {
+    "jp": "情け",
+    "kana": "なさけ",
+    "en": "Pity",
+    "level": "lv13"
+  },
+  {
+    "jp": "詩",
+    "kana": "し",
+    "en": "Poem",
+    "level": "lv13"
+  },
+  {
+    "jp": "詩人",
+    "kana": "しじん",
+    "en": "Poet",
+    "level": "lv13"
+  },
+  {
+    "jp": "詩歌",
+    "kana": "しいか",
+    "en": "Poetry",
+    "level": "lv13"
+  },
+  {
+    "jp": "練習",
+    "kana": "れんしゅう",
+    "en": "Practice",
+    "level": "lv13"
+  },
+  {
+    "jp": "選手",
+    "kana": "せんしゅ",
+    "en": "Pro Athlete",
+    "level": "lv13"
+  },
+  {
+    "jp": "問題",
+    "kana": "もんだい",
+    "en": "Problem",
+    "level": "lv13"
+  },
+  {
+    "jp": "実感",
+    "kana": "じっかん",
+    "en": "Realization",
+    "level": "lv13"
+  },
+  {
+    "jp": "大好き",
+    "kana": "だいすき",
+    "en": "Really Like",
+    "level": "lv13"
+  },
+  {
+    "jp": "回想",
+    "kana": "かいそう",
+    "en": "Reminiscence",
+    "level": "lv13"
+  },
+  {
+    "jp": "右利き",
+    "kana": "みぎきき",
+    "en": "Right Handed",
+    "level": "lv13"
+  },
+  {
+    "jp": "輪",
+    "kana": "わ",
+    "en": "Ring",
+    "level": "lv13"
+  },
+  {
+    "jp": "学問",
+    "kana": "がくもん",
+    "en": "Schooling",
+    "level": "lv13"
+  },
+  {
+    "jp": "課長",
+    "kana": "かちょう",
+    "en": "Section Manager",
+    "level": "lv13"
+  },
+  {
+    "jp": "彼女",
+    "kana": "かのじょ",
+    "en": "She",
+    "level": "lv13"
+  },
+  {
+    "jp": "新宿",
+    "kana": "しんじゅく",
+    "en": "Shinjuku",
+    "level": "lv13"
+  },
+  {
+    "jp": "銀色",
+    "kana": "ぎんいろ",
+    "en": "Silver",
+    "level": "lv13"
+  },
+  {
+    "jp": "銀",
+    "kana": "ぎん",
+    "en": "Silver",
+    "level": "lv13"
+  },
+  {
+    "jp": "特選",
+    "kana": "とくせん",
+    "en": "Special Selection",
+    "level": "lv13"
+  },
+  {
+    "jp": "駅",
+    "kana": "えき",
+    "en": "Station",
+    "level": "lv13"
+  },
+  {
+    "jp": "駅長",
+    "kana": "えきちょう",
+    "en": "Station Master",
+    "level": "lv13"
+  },
+  {
+    "jp": "自殺",
+    "kana": "じさつ",
+    "en": "Suicide",
+    "level": "lv13"
+  },
+  {
+    "jp": "力士",
+    "kana": "りきし",
+    "en": "Sumo Wrestler",
+    "level": "lv13"
+  },
+  {
+    "jp": "同感",
+    "kana": "どうかん",
+    "en": "Sympathy",
+    "level": "lv13"
+  },
+  {
+    "jp": "食器",
+    "kana": "しょっき",
+    "en": "Tableware",
+    "level": "lv13"
+  },
+  {
+    "jp": "田代島",
+    "kana": "たしろじま",
+    "en": "Tashirojima",
+    "level": "lv13"
+  },
+  {
+    "jp": "感謝",
+    "kana": "かんしゃ",
+    "en": "Thanks",
+    "level": "lv13"
+  },
+  {
+    "jp": "五感",
+    "kana": "ごかん",
+    "en": "The Five Senses",
+    "level": "lv13"
+  },
+  {
+    "jp": "親指",
+    "kana": "おやゆび",
+    "en": "Thumb",
+    "level": "lv13"
+  },
+  {
+    "jp": "車輪",
+    "kana": "しゃりん",
+    "en": "Tire",
+    "level": "lv13"
+  },
+  {
+    "jp": "疲れ",
+    "kana": "つかれ",
+    "en": "Tiredness",
+    "level": "lv13"
+  },
+  {
+    "jp": "謝る",
+    "kana": "あやまる",
+    "en": "To Apologize",
+    "level": "lv13"
+  },
+  {
+    "jp": "着く",
+    "kana": "つく",
+    "en": "To Arrive",
+    "level": "lv13"
+  },
+  {
+    "jp": "空く",
+    "kana": "あく",
+    "en": "To Become Empty",
+    "level": "lv13"
+  },
+  {
+    "jp": "感動する",
+    "kana": "かんどうする",
+    "en": "To Be Emotionally Moved",
+    "level": "lv13"
+  },
+  {
+    "jp": "放れる",
+    "kana": "はなれる",
+    "en": "To Be Released",
+    "level": "lv13"
+  },
+  {
+    "jp": "育てる",
+    "kana": "そだてる",
+    "en": "To Bring Up",
+    "level": "lv13"
+  },
+  {
+    "jp": "追い付く",
+    "kana": "おいつく",
+    "en": "To Catch Up With",
+    "level": "lv13"
+  },
+  {
+    "jp": "追いかける",
+    "kana": "おいかける",
+    "en": "To Chase",
+    "level": "lv13"
+  },
+  {
+    "jp": "選ぶ",
+    "kana": "えらぶ",
+    "en": "To Choose",
+    "level": "lv13"
+  },
+  {
+    "jp": "感じる",
+    "kana": "かんじる",
+    "en": "To Feel",
+    "level": "lv13"
+  },
+  {
+    "jp": "戦う",
+    "kana": "たたかう",
+    "en": "To Fight",
+    "level": "lv13"
+  },
+  {
+    "jp": "養う",
+    "kana": "やしなう",
+    "en": "To Foster",
+    "level": "lv13"
+  },
+  {
+    "jp": "受かる",
+    "kana": "うかる",
+    "en": "To Get Accepted",
+    "level": "lv13"
+  },
+  {
+    "jp": "疲れる",
+    "kana": "つかれる",
+    "en": "To Get Tired",
+    "level": "lv13"
+  },
+  {
+    "jp": "温める",
+    "kana": "あたためる",
+    "en": "To Heat Something Up",
+    "level": "lv13"
+  },
+  {
+    "jp": "手伝う",
+    "kana": "てつだう",
+    "en": "To Help",
+    "level": "lv13"
+  },
+  {
+    "jp": "想像する",
+    "kana": "そうぞうする",
+    "en": "To Imagine",
+    "level": "lv13"
+  },
+  {
+    "jp": "殺す",
+    "kana": "ころす",
+    "en": "To Kill",
+    "level": "lv13"
+  },
+  {
+    "jp": "見返る",
+    "kana": "みかえる",
+    "en": "To Look Back At",
+    "level": "lv13"
+  },
+  {
+    "jp": "注文する",
+    "kana": "ちゅうもんする",
+    "en": "To Order",
+    "level": "lv13"
+  },
+  {
+    "jp": "話題",
+    "kana": "わだい",
+    "en": "Topic",
+    "level": "lv13"
+  },
+  {
+    "jp": "別れる",
+    "kana": "わかれる",
+    "en": "To Separate",
+    "level": "lv13"
+  },
+  {
+    "jp": "共有する",
+    "kana": "きょうゆうする",
+    "en": "To Share",
+    "level": "lv13"
+  },
+  {
+    "jp": "解く",
+    "kana": "とく",
+    "en": "To Solve",
+    "level": "lv13"
+  },
+  {
+    "jp": "駅員",
+    "kana": "えきいん",
+    "en": "Train Station Employee",
+    "level": "lv13"
+  },
+  {
+    "jp": "理解",
+    "kana": "りかい",
+    "en": "Understanding",
+    "level": "lv13"
+  },
+  {
+    "jp": "天王星",
+    "kana": "てんのうせい",
+    "en": "Uranus",
+    "level": "lv13"
+  },
+  {
+    "jp": "俺たち",
+    "kana": "おれたち",
+    "en": "We",
+    "level": "lv13"
   }
 ]
